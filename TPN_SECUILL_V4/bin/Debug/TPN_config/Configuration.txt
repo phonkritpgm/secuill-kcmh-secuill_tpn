@@ -1,0 +1,17 @@
+﻿;server connect | Connect Timeout=200 | Connect Timeout=200
+connserver-middle=Data Source=thanespgm.com;Initial Catalog=CONHIS_MIDDLE_V4_UBCH;User Id=sa;Password=@Thanes1234;Asynchronous Processing=True;
+connserver-secuill=Data Source=thanespgm.com;Initial Catalog=SECUILL_V5_TU;User Id=sa;Password=@Thanes1234;Asynchronous Processing=True;
+connserver-server=Data Source=.\SQLEXPRESS;Initial Catalog=CONHIS_MIDDLE_TU;User Id=sa;Password=yuyama;Asynchronous Processing=True;
+location=TEST
+Middle-Tomachineno = 31
+
+;path log file
+logpath=TPN_log
+
+
+;192.168.101.203\SQLEXPRESS2012
+192.168.101.203
+SECUILL_V5_TU
+
+;Filter ward use machine location
+ward-code='1500'

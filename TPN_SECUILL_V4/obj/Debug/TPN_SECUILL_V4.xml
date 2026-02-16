@@ -1,0 +1,54 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+TPN_SECUILL_V4
+</name>
+</assembly>
+<members>
+<member name="T:TPN_SECUILL_V4.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:TPN_SECUILL_V4.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:TPN_SECUILL_V4.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="M:TPN_SECUILL_V4.cls_getmiddletosecuill.GetDataMidle">
+ <summary>
+ SELECT * FROM middle
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:TPN_SECUILL_V4.frmMain.setDateUpdate(System.Data.DataRow,System.DateTime@,System.DateTime@)">
+ <summary>
+ Set update date from table "M_User" and "M_UserLogin" to ref variable for check update.
+ </summary>
+ <param name="userDateUpdate">Keep date from M_User</param>
+ <param name="userLoginDateUpdate">Keep date from M_UserLogin</param>
+</member>
+<member name="M:TPN_SECUILL_V4.frmMain.fetchUser">
+ <summary>
+ ดึงข้อมูลจากเครื่องอื่น แล้วนำมาเทียบกับ local 
+ หากมีข้อมูลที่ต่างกัน ทำการ update
+ หากไม่มีข้อมูล local ทำการ Insert
+ </summary>
+</member>
+<member name="M:TPN_SECUILL_V4.frmMain.createSQLUpdateValue(System.Data.DataColumnCollection,System.Data.DataRow)">
+ <summary>
+ Create query "UPDATE Table_name SET [...create this...]"
+ </summary>
+ <param name="column"></param>
+ <param name="row"></param>
+ <returns>Index 0: M_User, 1: M_UserLogin</returns>
+</member>
+</members>
+</doc>

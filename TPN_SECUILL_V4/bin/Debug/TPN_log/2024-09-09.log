@@ -1,0 +1,1258 @@
+﻿2024-09-09 14:21:15:780	Init	#########################################	frmMain.frmMain_Load
+2024-09-09 14:21:17:189	Init	เริ่มต้นการทำงานของโปรแกรม . . .	frmMain.frmMain_Load
+2024-09-09 14:21:19:038	Init	Auto connection . 	frmMain.frmMain_Load
+2024-09-09 14:21:20:908	Init	เริ่มต้นการเชื่อมต่อกับ Server . . . 	frmMain.frmMain_Load
+2024-09-09 14:21:21:901	ERROR	Login failed for user 'sa'.	cls_condbmiddle.chk_connect_db()
+2024-09-09 14:21:22:828	Status	เริ่มต้นการทำงานดึงข้อมูล . . .	frmMain.BgwGetMiddle_DoWork
+2024-09-09 14:21:24:743	_Error	ไม่สามารถเชื่อมต่อ Server Middle	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:21:26:683	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server Middle	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:21:28:534	_Error	Login failed for user 'sa'.	cls_condbsecuill.chk_connect_db
+2024-09-09 14:21:29:474	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 14:21:30:094	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 14:21:30:422	_Error	ไม่สามารถเชื่อมต่อ Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:21:32:290	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:21:34:195	_Error	Login failed for user 'sa'.	cls_condbsecuill.chk_connect_db
+2024-09-09 14:21:40:112	ERROR	Login failed for user 'sa'.	cls_condbmiddle.chk_connect_db()
+2024-09-09 14:21:41:733	_Error	ไม่สามารถเชื่อมต่อ Server Middle	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:21:43:667	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server Middle	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:21:46:100	_Error	Login failed for user 'sa'.	cls_condbsecuill.chk_connect_db
+2024-09-09 14:21:48:007	_Error	ไม่สามารถเชื่อมต่อ Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:21:49:910	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:21:58:280	ERROR	Login failed for user 'sa'.	cls_condbmiddle.chk_connect_db()
+2024-09-09 14:21:59:967	_Error	ไม่สามารถเชื่อมต่อ Server Middle	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:22:01:893	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server Middle	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:22:02:928	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 14:22:03:823	_Error	Login failed for user 'sa'.	cls_condbsecuill.chk_connect_db
+2024-09-09 14:22:05:745	_Error	ไม่สามารถเชื่อมต่อ Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:22:07:670	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:22:16:428	ERROR	Login failed for user 'sa'.	cls_condbmiddle.chk_connect_db()
+2024-09-09 14:22:18:295	_Error	ไม่สามารถเชื่อมต่อ Server Middle	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:22:20:231	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server Middle	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:22:22:161	_Error	Login failed for user 'sa'.	cls_condbsecuill.chk_connect_db
+2024-09-09 14:22:24:057	_Error	ไม่สามารถเชื่อมต่อ Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:22:25:976	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:22:34:593	ERROR	Login failed for user 'sa'.	cls_condbmiddle.chk_connect_db()
+2024-09-09 14:22:36:488	_Error	ไม่สามารถเชื่อมต่อ Server Middle	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:22:38:423	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server Middle	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:22:40:281	_Error	Login failed for user 'sa'.	cls_condbsecuill.chk_connect_db
+2024-09-09 14:22:42:178	_Error	ไม่สามารถเชื่อมต่อ Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:22:44:074	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:22:52:761	ERROR	Login failed for user 'sa'.	cls_condbmiddle.chk_connect_db()
+2024-09-09 14:22:54:619	_Error	ไม่สามารถเชื่อมต่อ Server Middle	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:22:56:565	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server Middle	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:22:58:422	_Error	Login failed for user 'sa'.	cls_condbsecuill.chk_connect_db
+2024-09-09 14:23:00:332	_Error	ไม่สามารถเชื่อมต่อ Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:23:02:249	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:23:10:902	ERROR	Login failed for user 'sa'.	cls_condbmiddle.chk_connect_db()
+2024-09-09 14:23:12:843	_Error	ไม่สามารถเชื่อมต่อ Server Middle	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:23:14:787	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server Middle	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:23:16:714	_Error	Login failed for user 'sa'.	cls_condbsecuill.chk_connect_db
+2024-09-09 14:23:18:460	_Error	ไม่สามารถเชื่อมต่อ Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:23:20:374	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:23:29:062	ERROR	Login failed for user 'sa'.	cls_condbmiddle.chk_connect_db()
+2024-09-09 14:23:30:844	_Error	ไม่สามารถเชื่อมต่อ Server Middle	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:23:32:785	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server Middle	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:23:34:696	_Error	Login failed for user 'sa'.	cls_condbsecuill.chk_connect_db
+2024-09-09 14:23:36:605	_Error	ไม่สามารถเชื่อมต่อ Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:23:38:399	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:23:47:221	ERROR	Login failed for user 'sa'.	cls_condbmiddle.chk_connect_db()
+2024-09-09 14:23:49:011	_Error	ไม่สามารถเชื่อมต่อ Server Middle	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:23:50:948	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server Middle	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:23:51:840	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 14:23:52:785	_Error	Login failed for user 'sa'.	cls_condbsecuill.chk_connect_db
+2024-09-09 14:23:54:699	_Error	ไม่สามารถเชื่อมต่อ Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:23:56:604	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:24:05:377	ERROR	Login failed for user 'sa'.	cls_condbmiddle.chk_connect_db()
+2024-09-09 14:24:07:233	_Error	ไม่สามารถเชื่อมต่อ Server Middle	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:24:09:169	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server Middle	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:24:11:069	_Error	Login failed for user 'sa'.	cls_condbsecuill.chk_connect_db
+2024-09-09 14:24:12:961	_Error	ไม่สามารถเชื่อมต่อ Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:24:14:874	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:24:23:548	ERROR	Login failed for user 'sa'.	cls_condbmiddle.chk_connect_db()
+2024-09-09 14:24:25:487	_Error	ไม่สามารถเชื่อมต่อ Server Middle	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:24:27:438	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server Middle	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:24:29:362	_Error	Login failed for user 'sa'.	cls_condbsecuill.chk_connect_db
+2024-09-09 14:24:31:269	_Error	ไม่สามารถเชื่อมต่อ Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:24:33:174	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:24:41:702	ERROR	Login failed for user 'sa'.	cls_condbmiddle.chk_connect_db()
+2024-09-09 14:24:43:260	_Error	ไม่สามารถเชื่อมต่อ Server Middle	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:24:45:218	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server Middle	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:24:47:656	_Error	Login failed for user 'sa'.	cls_condbsecuill.chk_connect_db
+2024-09-09 14:24:49:558	_Error	ไม่สามารถเชื่อมต่อ Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:24:51:464	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:24:59:843	ERROR	Login failed for user 'sa'.	cls_condbmiddle.chk_connect_db()
+2024-09-09 14:25:01:561	_Error	ไม่สามารถเชื่อมต่อ Server Middle	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:25:03:489	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server Middle	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:25:05:428	_Error	Login failed for user 'sa'.	cls_condbsecuill.chk_connect_db
+2024-09-09 14:25:07:341	_Error	ไม่สามารถเชื่อมต่อ Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:25:09:251	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:25:18:006	ERROR	Login failed for user 'sa'.	cls_condbmiddle.chk_connect_db()
+2024-09-09 14:25:19:910	_Error	ไม่สามารถเชื่อมต่อ Server Middle	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:25:21:861	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server Middle	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:25:23:803	_Error	Login failed for user 'sa'.	cls_condbsecuill.chk_connect_db
+2024-09-09 14:25:25:714	_Error	ไม่สามารถเชื่อมต่อ Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:25:27:621	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:25:36:151	ERROR	Login failed for user 'sa'.	cls_condbmiddle.chk_connect_db()
+2024-09-09 14:25:37:677	_Error	ไม่สามารถเชื่อมต่อ Server Middle	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:25:39:623	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server Middle	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:25:40:810	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 14:25:42:069	_Error	Login failed for user 'sa'.	cls_condbsecuill.chk_connect_db
+2024-09-09 14:25:43:978	_Error	ไม่สามารถเชื่อมต่อ Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:25:45:880	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:25:54:289	ERROR	Login failed for user 'sa'.	cls_condbmiddle.chk_connect_db()
+2024-09-09 14:25:56:007	_Error	ไม่สามารถเชื่อมต่อ Server Middle	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:25:57:938	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server Middle	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:25:59:872	_Error	Login failed for user 'sa'.	cls_condbsecuill.chk_connect_db
+2024-09-09 14:26:01:764	_Error	ไม่สามารถเชื่อมต่อ Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:26:03:665	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:26:12:439	ERROR	Login failed for user 'sa'.	cls_condbmiddle.chk_connect_db()
+2024-09-09 14:26:14:281	_Error	ไม่สามารถเชื่อมต่อ Server Middle	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:26:16:227	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server Middle	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:26:18:160	_Error	Login failed for user 'sa'.	cls_condbsecuill.chk_connect_db
+2024-09-09 14:26:20:075	_Error	ไม่สามารถเชื่อมต่อ Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:26:21:995	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:26:30:617	ERROR	Login failed for user 'sa'.	cls_condbmiddle.chk_connect_db()
+2024-09-09 14:26:32:102	_Error	ไม่สามารถเชื่อมต่อ Server Middle	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:26:34:552	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server Middle	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:26:36:476	_Error	Login failed for user 'sa'.	cls_condbsecuill.chk_connect_db
+2024-09-09 14:26:38:371	_Error	ไม่สามารถเชื่อมต่อ Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:26:40:278	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:26:48:755	ERROR	Login failed for user 'sa'.	cls_condbmiddle.chk_connect_db()
+2024-09-09 14:26:50:359	_Error	ไม่สามารถเชื่อมต่อ Server Middle	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:26:52:290	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server Middle	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:26:54:505	_Error	Login failed for user 'sa'.	cls_condbsecuill.chk_connect_db
+2024-09-09 14:26:56:438	_Error	ไม่สามารถเชื่อมต่อ Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:26:58:340	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:27:06:917	ERROR	Login failed for user 'sa'.	cls_condbmiddle.chk_connect_db()
+2024-09-09 14:27:08:422	_Error	ไม่สามารถเชื่อมต่อ Server Middle	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:27:10:874	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server Middle	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:27:12:816	_Error	Login failed for user 'sa'.	cls_condbsecuill.chk_connect_db
+2024-09-09 14:27:14:726	_Error	ไม่สามารถเชื่อมต่อ Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:27:16:642	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:27:25:072	ERROR	Login failed for user 'sa'.	cls_condbmiddle.chk_connect_db()
+2024-09-09 14:27:26:737	_Error	ไม่สามารถเชื่อมต่อ Server Middle	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:27:28:671	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server Middle	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:27:29:733	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 14:27:30:593	_Error	Login failed for user 'sa'.	cls_condbsecuill.chk_connect_db
+2024-09-09 14:27:32:371	_Error	ไม่สามารถเชื่อมต่อ Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:27:34:276	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:27:43:209	ERROR	Login failed for user 'sa'.	cls_condbmiddle.chk_connect_db()
+2024-09-09 14:27:44:869	_Error	ไม่สามารถเชื่อมต่อ Server Middle	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:27:46:797	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server Middle	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:27:48:721	_Error	Login failed for user 'sa'.	cls_condbsecuill.chk_connect_db
+2024-09-09 14:27:50:399	_Error	ไม่สามารถเชื่อมต่อ Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:27:52:319	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:28:01:358	ERROR	Login failed for user 'sa'.	cls_condbmiddle.chk_connect_db()
+2024-09-09 14:28:02:841	_Error	ไม่สามารถเชื่อมต่อ Server Middle	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:28:05:216	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server Middle	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:28:07:147	_Error	Login failed for user 'sa'.	cls_condbsecuill.chk_connect_db
+2024-09-09 14:28:09:055	_Error	ไม่สามารถเชื่อมต่อ Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:28:10:963	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:28:19:521	ERROR	Login failed for user 'sa'.	cls_condbmiddle.chk_connect_db()
+2024-09-09 14:28:21:079	_Error	ไม่สามารถเชื่อมต่อ Server Middle	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:28:23:021	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server Middle	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:28:25:455	_Error	Login failed for user 'sa'.	cls_condbsecuill.chk_connect_db
+2024-09-09 14:28:27:362	_Error	ไม่สามารถเชื่อมต่อ Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:28:29:275	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:28:37:693	ERROR	Login failed for user 'sa'.	cls_condbmiddle.chk_connect_db()
+2024-09-09 14:28:39:402	_Error	ไม่สามารถเชื่อมต่อ Server Middle	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:28:41:339	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server Middle	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:28:43:265	_Error	Login failed for user 'sa'.	cls_condbsecuill.chk_connect_db
+2024-09-09 14:28:45:176	_Error	ไม่สามารถเชื่อมต่อ Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:28:47:090	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:28:55:841	ERROR	Login failed for user 'sa'.	cls_condbmiddle.chk_connect_db()
+2024-09-09 14:28:57:717	_Error	ไม่สามารถเชื่อมต่อ Server Middle	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:28:59:651	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server Middle	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:29:01:586	_Error	Login failed for user 'sa'.	cls_condbsecuill.chk_connect_db
+2024-09-09 14:29:03:480	_Error	ไม่สามารถเชื่อมต่อ Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:29:05:370	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:29:14:047	ERROR	Login failed for user 'sa'.	cls_condbmiddle.chk_connect_db()
+2024-09-09 14:29:16:001	_Error	ไม่สามารถเชื่อมต่อ Server Middle	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:29:17:937	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server Middle	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:29:18:671	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 14:29:19:877	_Error	Login failed for user 'sa'.	cls_condbsecuill.chk_connect_db
+2024-09-09 14:29:21:790	_Error	ไม่สามารถเชื่อมต่อ Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:29:23:700	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:29:32:190	ERROR	Login failed for user 'sa'.	cls_condbmiddle.chk_connect_db()
+2024-09-09 14:29:33:790	_Error	ไม่สามารถเชื่อมต่อ Server Middle	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:29:35:731	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server Middle	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:29:38:189	_Error	Login failed for user 'sa'.	cls_condbsecuill.chk_connect_db
+2024-09-09 14:29:40:107	_Error	ไม่สามารถเชื่อมต่อ Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:29:42:009	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:29:50:350	ERROR	Login failed for user 'sa'.	cls_condbmiddle.chk_connect_db()
+2024-09-09 14:29:52:103	_Error	ไม่สามารถเชื่อมต่อ Server Middle	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:29:54:039	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server Middle	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:29:55:977	_Error	Login failed for user 'sa'.	cls_condbsecuill.chk_connect_db
+2024-09-09 14:29:57:892	_Error	ไม่สามารถเชื่อมต่อ Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:29:59:791	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:30:08:489	ERROR	Login failed for user 'sa'.	cls_condbmiddle.chk_connect_db()
+2024-09-09 14:30:10:418	_Error	ไม่สามารถเชื่อมต่อ Server Middle	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:30:12:359	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server Middle	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:30:14:167	_Error	Login failed for user 'sa'.	cls_condbsecuill.chk_connect_db
+2024-09-09 14:30:16:063	_Error	ไม่สามารถเชื่อมต่อ Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:30:17:988	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:30:26:674	ERROR	Login failed for user 'sa'.	cls_condbmiddle.chk_connect_db()
+2024-09-09 14:30:28:571	_Error	ไม่สามารถเชื่อมต่อ Server Middle	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:30:30:478	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server Middle	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:30:32:412	_Error	Login failed for user 'sa'.	cls_condbsecuill.chk_connect_db
+2024-09-09 14:30:34:319	_Error	ไม่สามารถเชื่อมต่อ Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:30:36:163	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:30:44:866	ERROR	Login failed for user 'sa'.	cls_condbmiddle.chk_connect_db()
+2024-09-09 14:30:46:765	_Error	ไม่สามารถเชื่อมต่อ Server Middle	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:30:48:653	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server Middle	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:30:50:580	_Error	Login failed for user 'sa'.	cls_condbsecuill.chk_connect_db
+2024-09-09 14:30:52:486	_Error	ไม่สามารถเชื่อมต่อ Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:30:54:354	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:31:03:013	ERROR	Login failed for user 'sa'.	cls_condbmiddle.chk_connect_db()
+2024-09-09 14:31:04:491	_Error	ไม่สามารถเชื่อมต่อ Server Middle	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:31:06:886	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server Middle	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:31:07:653	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 14:31:08:816	_Error	Login failed for user 'sa'.	cls_condbsecuill.chk_connect_db
+2024-09-09 14:31:10:737	_Error	ไม่สามารถเชื่อมต่อ Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:31:12:628	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:31:21:184	ERROR	Login failed for user 'sa'.	cls_condbmiddle.chk_connect_db()
+2024-09-09 14:31:22:703	_Error	ไม่สามารถเชื่อมต่อ Server Middle	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:31:25:157	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server Middle	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:31:27:095	_Error	Login failed for user 'sa'.	cls_condbsecuill.chk_connect_db
+2024-09-09 14:31:28:878	_Error	ไม่สามารถเชื่อมต่อ Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:31:30:794	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:31:39:332	ERROR	Login failed for user 'sa'.	cls_condbmiddle.chk_connect_db()
+2024-09-09 14:31:40:868	_Error	ไม่สามารถเชื่อมต่อ Server Middle	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:31:42:789	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server Middle	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:31:45:228	_Error	Login failed for user 'sa'.	cls_condbsecuill.chk_connect_db
+2024-09-09 14:31:47:132	_Error	ไม่สามารถเชื่อมต่อ Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:31:49:036	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:31:57:496	ERROR	Login failed for user 'sa'.	cls_condbmiddle.chk_connect_db()
+2024-09-09 14:31:59:129	_Error	ไม่สามารถเชื่อมต่อ Server Middle	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:32:01:069	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server Middle	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:32:03:011	_Error	Login failed for user 'sa'.	cls_condbsecuill.chk_connect_db
+2024-09-09 14:32:04:891	_Error	ไม่สามารถเชื่อมต่อ Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:32:06:797	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:32:15:632	ERROR	Login failed for user 'sa'.	cls_condbmiddle.chk_connect_db()
+2024-09-09 14:32:17:427	_Error	ไม่สามารถเชื่อมต่อ Server Middle	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:32:19:369	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server Middle	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:32:21:308	_Error	Login failed for user 'sa'.	cls_condbsecuill.chk_connect_db
+2024-09-09 14:32:23:215	_Error	ไม่สามารถเชื่อมต่อ Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:32:25:119	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:32:33:806	ERROR	Login failed for user 'sa'.	cls_condbmiddle.chk_connect_db()
+2024-09-09 14:32:35:768	_Error	ไม่สามารถเชื่อมต่อ Server Middle	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:32:37:708	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server Middle	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:32:39:645	_Error	Login failed for user 'sa'.	cls_condbsecuill.chk_connect_db
+2024-09-09 14:32:41:536	_Error	ไม่สามารถเชื่อมต่อ Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:32:43:449	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:32:52:001	ERROR	Login failed for user 'sa'.	cls_condbmiddle.chk_connect_db()
+2024-09-09 14:32:53:570	_Error	ไม่สามารถเชื่อมต่อ Server Middle	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:32:55:506	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server Middle	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:32:56:660	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 14:32:57:968	_Error	Login failed for user 'sa'.	cls_condbsecuill.chk_connect_db
+2024-09-09 14:32:59:881	_Error	ไม่สามารถเชื่อมต่อ Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:33:01:788	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:33:10:167	ERROR	Login failed for user 'sa'.	cls_condbmiddle.chk_connect_db()
+2024-09-09 14:33:11:887	_Error	ไม่สามารถเชื่อมต่อ Server Middle	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:33:13:822	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server Middle	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:33:15:759	_Error	Login failed for user 'sa'.	cls_condbsecuill.chk_connect_db
+2024-09-09 14:33:17:662	_Error	ไม่สามารถเชื่อมต่อ Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:33:19:568	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:33:28:321	ERROR	Login failed for user 'sa'.	cls_condbmiddle.chk_connect_db()
+2024-09-09 14:33:30:078	_Error	ไม่สามารถเชื่อมต่อ Server Middle	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:33:32:016	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server Middle	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:33:33:890	_Error	Login failed for user 'sa'.	cls_condbsecuill.chk_connect_db
+2024-09-09 14:33:35:787	_Error	ไม่สามารถเชื่อมต่อ Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:33:37:684	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:33:46:472	ERROR	Login failed for user 'sa'.	cls_condbmiddle.chk_connect_db()
+2024-09-09 14:33:48:223	_Error	ไม่สามารถเชื่อมต่อ Server Middle	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:33:50:152	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server Middle	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:33:52:084	_Error	Login failed for user 'sa'.	cls_condbsecuill.chk_connect_db
+2024-09-09 14:33:54:010	_Error	ไม่สามารถเชื่อมต่อ Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:33:55:830	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:34:04:649	ERROR	Login failed for user 'sa'.	cls_condbmiddle.chk_connect_db()
+2024-09-09 14:34:06:466	_Error	ไม่สามารถเชื่อมต่อ Server Middle	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:34:08:424	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server Middle	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:34:10:220	_Error	Login failed for user 'sa'.	cls_condbsecuill.chk_connect_db
+2024-09-09 14:34:12:130	_Error	ไม่สามารถเชื่อมต่อ Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:34:14:038	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:34:22:842	ERROR	Login failed for user 'sa'.	cls_condbmiddle.chk_connect_db()
+2024-09-09 14:34:24:565	_Error	ไม่สามารถเชื่อมต่อ Server Middle	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:34:26:528	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server Middle	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:34:28:472	_Error	Login failed for user 'sa'.	cls_condbsecuill.chk_connect_db
+2024-09-09 14:34:30:313	_Error	ไม่สามารถเชื่อมต่อ Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:34:32:223	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:34:41:012	ERROR	Login failed for user 'sa'.	cls_condbmiddle.chk_connect_db()
+2024-09-09 14:34:42:828	_Error	ไม่สามารถเชื่อมต่อ Server Middle	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:34:44:723	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server Middle	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:34:45:637	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 14:34:46:635	_Error	Login failed for user 'sa'.	cls_condbsecuill.chk_connect_db
+2024-09-09 14:34:48:542	_Error	ไม่สามารถเชื่อมต่อ Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:34:50:455	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:34:59:164	ERROR	Login failed for user 'sa'.	cls_condbmiddle.chk_connect_db()
+2024-09-09 14:35:01:072	_Error	ไม่สามารถเชื่อมต่อ Server Middle	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:35:03:020	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server Middle	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:35:04:948	_Error	Login failed for user 'sa'.	cls_condbsecuill.chk_connect_db
+2024-09-09 14:35:06:846	_Error	ไม่สามารถเชื่อมต่อ Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:35:08:758	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:35:17:336	ERROR	Login failed for user 'sa'.	cls_condbmiddle.chk_connect_db()
+2024-09-09 14:35:18:845	_Error	ไม่สามารถเชื่อมต่อ Server Middle	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:35:21:298	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server Middle	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:35:23:237	_Error	Login failed for user 'sa'.	cls_condbsecuill.chk_connect_db
+2024-09-09 14:35:25:136	_Error	ไม่สามารถเชื่อมต่อ Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:35:27:030	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:35:35:507	ERROR	Login failed for user 'sa'.	cls_condbmiddle.chk_connect_db()
+2024-09-09 14:35:37:119	_Error	ไม่สามารถเชื่อมต่อ Server Middle	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:35:39:063	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server Middle	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:35:41:496	_Error	Login failed for user 'sa'.	cls_condbsecuill.chk_connect_db
+2024-09-09 14:35:43:399	_Error	ไม่สามารถเชื่อมต่อ Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:35:45:312	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:35:53:658	ERROR	Login failed for user 'sa'.	cls_condbmiddle.chk_connect_db()
+2024-09-09 14:35:55:431	_Error	ไม่สามารถเชื่อมต่อ Server Middle	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:35:57:366	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server Middle	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:35:59:312	_Error	Login failed for user 'sa'.	cls_condbsecuill.chk_connect_db
+2024-09-09 14:36:01:218	_Error	ไม่สามารถเชื่อมต่อ Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:36:03:106	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:36:11:824	ERROR	Login failed for user 'sa'.	cls_condbmiddle.chk_connect_db()
+2024-09-09 14:36:13:719	_Error	ไม่สามารถเชื่อมต่อ Server Middle	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:36:15:662	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server Middle	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:36:17:576	_Error	Login failed for user 'sa'.	cls_condbsecuill.chk_connect_db
+2024-09-09 14:36:19:477	_Error	ไม่สามารถเชื่อมต่อ Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:36:21:386	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:36:30:029	ERROR	Login failed for user 'sa'.	cls_condbmiddle.chk_connect_db()
+2024-09-09 14:36:31:405	_Error	ไม่สามารถเชื่อมต่อ Server Middle	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:36:33:858	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server Middle	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:36:34:645	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 14:36:35:743	_Error	Login failed for user 'sa'.	cls_condbsecuill.chk_connect_db
+2024-09-09 14:36:37:651	_Error	ไม่สามารถเชื่อมต่อ Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:36:39:563	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:36:48:159	ERROR	Login failed for user 'sa'.	cls_condbmiddle.chk_connect_db()
+2024-09-09 14:36:49:624	_Error	ไม่สามารถเชื่อมต่อ Server Middle	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:36:52:063	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server Middle	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:36:54:003	_Error	Login failed for user 'sa'.	cls_condbsecuill.chk_connect_db
+2024-09-09 14:36:55:701	_Error	ไม่สามารถเชื่อมต่อ Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:36:57:601	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:37:06:340	ERROR	Login failed for user 'sa'.	cls_condbmiddle.chk_connect_db()
+2024-09-09 14:37:08:215	_Error	ไม่สามารถเชื่อมต่อ Server Middle	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:37:10:150	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server Middle	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:37:11:898	_Error	Login failed for user 'sa'.	cls_condbsecuill.chk_connect_db
+2024-09-09 14:37:13:800	_Error	ไม่สามารถเชื่อมต่อ Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:37:15:699	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:37:24:504	ERROR	Login failed for user 'sa'.	cls_condbmiddle.chk_connect_db()
+2024-09-09 14:37:26:243	_Error	ไม่สามารถเชื่อมต่อ Server Middle	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:37:28:189	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server Middle	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:37:30:126	_Error	Login failed for user 'sa'.	cls_condbsecuill.chk_connect_db
+2024-09-09 14:37:32:032	_Error	ไม่สามารถเชื่อมต่อ Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:37:33:841	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:37:42:712	ERROR	Login failed for user 'sa'.	cls_condbmiddle.chk_connect_db()
+2024-09-09 14:37:44:479	_Error	ไม่สามารถเชื่อมต่อ Server Middle	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:37:46:428	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server Middle	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:37:48:354	_Error	Login failed for user 'sa'.	cls_condbsecuill.chk_connect_db
+2024-09-09 14:37:50:245	_Error	ไม่สามารถเชื่อมต่อ Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:37:52:147	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:38:00:857	ERROR	Login failed for user 'sa'.	cls_condbmiddle.chk_connect_db()
+2024-09-09 14:38:02:748	_Error	ไม่สามารถเชื่อมต่อ Server Middle	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:38:04:688	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server Middle	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:38:06:604	_Error	Login failed for user 'sa'.	cls_condbsecuill.chk_connect_db
+2024-09-09 14:38:08:509	_Error	ไม่สามารถเชื่อมต่อ Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:38:10:409	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:38:19:001	ERROR	Login failed for user 'sa'.	cls_condbmiddle.chk_connect_db()
+2024-09-09 14:38:20:529	_Error	ไม่สามารถเชื่อมต่อ Server Middle	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:38:22:476	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server Middle	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:38:23:648	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 14:38:24:939	_Error	Login failed for user 'sa'.	cls_condbsecuill.chk_connect_db
+2024-09-09 14:38:28:350	Init	#########################################	frmMain.frmMain_Load
+2024-09-09 14:38:29:718	Init	เริ่มต้นการทำงานของโปรแกรม . . .	frmMain.frmMain_Load
+2024-09-09 14:38:31:569	Init	Auto connection . 	frmMain.frmMain_Load
+2024-09-09 14:38:33:450	Init	เริ่มต้นการเชื่อมต่อกับ Server . . . 	frmMain.frmMain_Load
+2024-09-09 14:38:34:543	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:38:34:579	ERROR	Login failed for user 'sa'.	md.Fill()
+2024-09-09 14:38:35:357	Status	เริ่มต้นการทำงานดึงข้อมูล . . .	frmMain.BgwGetMiddle_DoWork
+2024-09-09 14:38:37:227	Status	เชื่อมต่อ Middle สำเร็จ	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:38:39:141	Status	เชื่อมต่อ Secuill สำเร็จ	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 14:38:42:061	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 14:38:42:081	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 14:38:44:608	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:38:44:627	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 14:38:54:678	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:39:04:716	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:39:14:757	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:39:24:811	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:39:34:863	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:39:44:911	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:39:54:975	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:39:59:618	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 14:40:05:010	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:40:15:049	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:40:25:102	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:40:35:138	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:40:45:175	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:40:55:219	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:40:59:849	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 14:41:05:275	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:41:15:325	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:41:25:378	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:41:35:425	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:41:45:483	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:41:55:524	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:42:00:149	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 14:42:05:568	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:42:15:624	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:42:25:675	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:42:35:728	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:42:45:785	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:42:55:850	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:43:00:454	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 14:43:05:903	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:43:15:951	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:43:25:989	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:43:36:015	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:43:46:065	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:43:56:115	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:44:00:746	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 14:44:06:172	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:44:16:223	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:44:26:272	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:44:36:309	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:44:46:352	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:44:56:409	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:45:01:019	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 14:45:06:451	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:45:16:497	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:45:26:554	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:45:36:602	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:45:46:643	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:45:56:699	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:46:01:338	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 14:46:06:754	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:46:16:803	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:46:26:842	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:46:36:896	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:46:46:941	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:46:56:978	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:47:01:606	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 14:47:07:017	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:47:17:066	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:47:27:119	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:47:37:150	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:47:47:201	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:47:57:256	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:48:01:874	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 14:48:07:309	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:48:17:366	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:48:27:410	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:48:37:464	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:48:47:519	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:48:57:560	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:49:02:164	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 14:49:07:596	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:49:17:656	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:49:27:697	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:49:37:738	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:49:47:786	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:49:57:838	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:50:02:474	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 14:50:07:891	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:50:17:945	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:50:27:972	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:50:37:997	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:50:48:031	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:50:58:085	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:51:02:735	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 14:51:08:114	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:51:18:172	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:51:28:220	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:51:38:265	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:51:48:298	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:51:58:352	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:52:02:938	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 14:52:08:398	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:52:18:454	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:52:28:509	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:52:38:560	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:52:48:600	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:52:58:660	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:53:03:302	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 14:53:08:701	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:53:18:745	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:53:28:803	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:53:38:862	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:53:48:926	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:53:58:978	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:54:03:627	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 14:54:09:028	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:54:19:080	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:54:29:125	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:54:39:162	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:54:49:224	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:54:59:283	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:55:03:958	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 14:55:09:344	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:55:19:405	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:55:29:450	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:55:39:492	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:55:49:543	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:55:59:615	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:56:04:258	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 14:56:09:661	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:56:19:720	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:56:29:761	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:56:39:813	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:56:49:870	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:56:59:915	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:57:04:544	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 14:57:09:959	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:57:20:003	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:57:30:055	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:57:40:094	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:57:50:145	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:58:00:189	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:58:04:849	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 14:58:10:240	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:58:20:287	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:58:30:336	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:58:40:393	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:58:50:441	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:59:00:498	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:59:05:176	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 14:59:10:554	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:59:20:601	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:59:30:646	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:59:40:692	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 14:59:50:752	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:00:00:795	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:00:05:479	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 15:00:10:844	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:00:20:887	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:00:30:941	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:00:40:990	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:00:51:034	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:01:01:092	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:01:05:745	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 15:01:11:142	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:01:21:195	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:01:31:239	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:01:41:300	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:01:51:350	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:02:01:398	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:02:06:045	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 15:02:11:447	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:02:21:500	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:02:31:550	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:02:41:604	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:02:51:658	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:03:01:708	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:03:06:369	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 15:03:11:750	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:03:21:799	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:03:31:847	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:03:41:875	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:03:51:920	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:04:01:971	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:04:06:619	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 15:04:12:027	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:04:22:089	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:04:32:150	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:04:42:207	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:04:52:255	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:05:02:300	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:05:06:954	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 15:05:12:349	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:05:22:397	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:05:32:437	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:05:42:486	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:05:52:541	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:06:02:587	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:06:07:238	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 15:06:12:632	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:06:22:696	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:06:32:755	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:06:42:805	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:06:52:857	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:07:02:915	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:07:07:569	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 15:07:12:970	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:07:23:022	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:07:33:052	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:07:43:104	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:07:53:145	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:08:03:194	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:08:07:824	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 15:08:13:232	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:08:23:266	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:08:33:323	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:08:43:360	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:08:53:416	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:08:53:436	ERROR	Login failed for user 'sa'.	md.Fill()
+2024-09-09 15:09:03:468	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:09:08:110	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 15:09:13:519	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:09:18:191	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 15:09:23:576	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:09:33:621	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:09:43:675	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:09:53:727	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:10:03:782	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:10:13:831	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:10:18:469	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 15:10:23:881	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:10:33:925	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:10:43:968	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:10:54:021	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:11:04:068	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:11:14:118	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:11:18:809	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 15:11:24:165	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:11:34:208	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:11:44:262	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:11:54:318	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:12:04:365	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:12:14:415	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:12:19:074	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 15:12:24:472	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:12:34:510	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:12:44:558	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:12:54:606	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:13:04:657	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:13:14:711	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:13:19:356	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 15:13:24:757	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:13:34:802	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:13:44:857	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:13:54:888	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:14:04:934	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:14:14:987	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:14:19:650	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 15:14:25:035	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:14:35:089	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:14:45:142	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:14:55:190	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:15:05:218	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:15:15:283	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:15:19:896	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 15:15:25:338	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:15:35:375	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:15:45:420	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:15:55:469	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:16:05:516	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:16:15:568	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:16:20:214	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 15:16:25:615	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:16:35:671	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:16:45:719	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:16:55:760	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:17:05:803	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:17:15:846	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:17:20:456	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 15:17:25:895	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:17:35:945	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:17:45:994	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:17:56:059	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:18:06:127	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:18:16:189	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:18:20:841	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 15:18:26:246	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:18:36:302	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:18:46:357	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:18:56:413	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:19:06:450	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:19:16:522	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:19:21:135	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 15:19:26:567	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:19:36:614	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:19:46:663	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:19:56:729	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:20:06:760	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:20:16:826	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:20:21:462	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 15:20:26:893	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:20:36:949	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:20:47:013	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:20:57:066	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:21:07:123	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:21:17:189	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:21:21:836	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 15:21:27:237	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:21:37:286	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:21:47:341	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:21:57:389	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:22:07:425	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:22:17:477	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:22:22:154	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 15:22:27:523	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:22:37:567	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:22:47:612	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:22:57:662	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:23:07:701	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:23:17:761	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:23:22:385	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 15:23:27:804	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:23:37:858	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:23:47:900	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:23:57:957	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:24:07:987	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:24:18:035	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:24:22:711	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 15:24:28:087	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:24:38:139	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:24:48:173	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:24:58:218	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:25:08:258	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:25:18:321	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:25:22:970	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 15:25:28:365	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:25:38:405	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:25:48:448	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:25:58:499	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:26:08:531	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:26:18:584	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:26:23:226	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 15:26:28:641	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:26:38:688	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:26:48:739	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:26:58:797	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:27:08:826	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:27:18:882	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:27:23:539	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 15:27:28:918	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:27:38:971	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:27:49:007	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:27:59:058	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:28:09:100	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:28:19:150	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:28:23:836	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 15:28:29:203	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:28:39:259	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:28:49:289	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:28:59:327	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:29:09:371	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:29:19:414	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:29:24:078	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 15:29:29:462	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:29:39:518	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:29:49:568	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:29:59:623	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:30:09:677	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:30:19:738	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:30:24:406	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 15:30:29:786	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:30:39:833	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:30:49:883	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:30:59:942	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:31:10:001	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:31:20:062	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:31:24:728	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 15:31:30:125	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:31:40:169	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:31:50:224	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:32:00:272	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:32:10:327	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:32:20:386	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:32:25:052	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 15:32:30:444	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:32:40:490	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:32:50:535	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:33:00:590	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:33:10:638	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:33:20:683	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:33:25:362	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 15:33:30:735	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:33:40:786	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:33:50:832	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:34:00:886	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:34:10:941	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:34:20:990	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:34:25:611	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 15:34:31:038	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:34:41:087	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:34:51:134	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:35:01:190	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:35:11:238	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:35:21:286	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:35:25:932	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 15:35:31:330	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:35:41:384	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:35:51:432	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:36:01:473	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:36:11:519	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:36:21:575	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:36:26:247	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 15:36:31:623	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:36:41:671	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:36:51:729	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:37:01:775	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:37:11:819	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:37:21:872	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:37:26:501	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 15:37:31:929	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:37:41:974	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:37:52:024	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:38:02:075	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:38:12:132	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:38:22:183	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:38:26:854	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 15:38:32:234	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:38:42:287	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:38:52:333	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:39:02:385	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:39:12:439	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:39:12:465	ERROR	Login failed for user 'sa'.	md.Fill()
+2024-09-09 15:39:22:491	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:39:27:146	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 15:39:27:164	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 15:39:32:552	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:39:42:599	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:39:52:647	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:40:02:704	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:40:12:736	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:40:22:773	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:40:32:826	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:40:37:494	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 15:40:42:884	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:40:52:930	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:41:02:990	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:41:13:032	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:41:23:068	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:41:33:112	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:41:37:796	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 15:41:43:160	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:41:53:214	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:42:03:276	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:42:13:318	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:42:23:366	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:42:33:414	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:42:38:034	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 15:42:43:460	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:42:53:503	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:43:03:536	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:43:13:570	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:43:23:613	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:43:33:674	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:43:38:306	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 15:43:43:705	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:43:53:751	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:44:03:813	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:44:13:858	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:44:23:902	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:44:33:958	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:44:38:556	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 15:44:44:017	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:44:54:074	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:45:04:121	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:45:14:176	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:45:24:238	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:45:34:281	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:45:38:952	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 15:45:44:337	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:45:54:392	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:46:04:442	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:46:14:488	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:46:24:533	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:46:34:592	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:46:39:231	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 15:46:44:647	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:46:54:688	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:47:04:729	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:47:14:768	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:47:24:815	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:47:34:867	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:47:39:517	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 15:47:44:918	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:47:54:974	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:48:05:024	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:48:15:082	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:48:25:126	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:48:35:182	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:48:39:838	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 15:48:45:231	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:48:55:284	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:49:05:342	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:49:15:376	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:49:25:435	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:49:35:486	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:49:40:109	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 15:49:45:532	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:49:55:586	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:50:05:643	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:50:15:687	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:50:25:737	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:50:35:792	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:50:40:460	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 15:50:45:831	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:50:55:883	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:51:05:927	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:51:15:984	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:51:26:037	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:51:36:094	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:51:40:729	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 15:51:46:137	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:51:56:195	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:52:06:234	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:52:16:273	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:52:26:330	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:52:36:378	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:52:41:023	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 15:52:46:412	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:52:56:472	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:53:06:510	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:53:16:542	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:53:26:599	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:53:36:665	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:53:41:267	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 15:53:46:711	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:53:56:758	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:54:06:809	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:54:16:850	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:54:26:892	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:54:36:947	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:54:41:588	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 15:54:46:996	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:54:57:042	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:55:07:090	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:55:17:142	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:55:27:193	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:55:37:238	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:55:41:895	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 15:55:47:281	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:55:57:331	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:56:07:376	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:56:17:423	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:56:27:467	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:56:37:526	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:56:42:130	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 15:56:47:561	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:56:57:605	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:57:07:647	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:57:17:690	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:57:27:738	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:57:37:798	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:57:42:411	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 15:57:47:852	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:57:57:905	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:58:07:953	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:58:18:007	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:58:28:041	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:58:38:091	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:58:42:723	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 15:58:48:147	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:58:58:196	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:59:08:226	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:59:18:282	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:59:28:332	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:59:38:383	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:59:43:029	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 15:59:48:423	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 15:59:58:478	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:00:08:522	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:00:18:554	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:00:28:602	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:00:38:660	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:00:43:285	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 16:00:48:710	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:00:58:756	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:01:08:792	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:01:18:840	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:01:28:880	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:01:38:922	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:01:43:564	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 16:01:48:975	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:01:59:029	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:02:09:070	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:02:19:102	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:02:29:149	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:02:39:206	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:02:43:823	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 16:02:49:240	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:02:59:288	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:03:09:337	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:03:19:380	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:03:29:414	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:03:39:456	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:03:44:075	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 16:03:49:499	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:03:59:552	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:04:09:594	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:04:19:639	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:04:29:695	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:04:39:745	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:04:44:380	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 16:04:49:786	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:04:59:839	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:05:09:894	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:05:19:926	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:05:29:976	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:05:40:032	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:05:44:643	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 16:05:50:072	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:06:00:110	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:06:10:158	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:06:20:191	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:06:30:235	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:06:40:292	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:06:44:922	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 16:06:50:336	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:07:00:381	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:07:10:435	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:07:20:476	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:07:30:529	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:07:40:579	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:07:45:191	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 16:07:50:636	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:08:00:688	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:08:10:731	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:08:20:775	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:08:30:829	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:08:40:881	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:08:45:500	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 16:08:50:931	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:09:00:974	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:09:11:029	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:09:21:080	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:09:31:134	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:09:31:164	ERROR	Login failed for user 'sa'.	md.Fill()
+2024-09-09 16:09:41:178	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:09:45:812	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 16:09:45:830	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 16:09:51:223	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:10:01:275	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:10:11:320	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:10:21:362	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:10:31:407	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:10:41:438	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:10:51:493	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:10:56:119	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 16:11:01:539	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:11:11:588	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:11:21:632	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:11:31:676	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:11:41:718	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:11:51:776	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:11:56:396	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 16:12:01:828	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:12:11:869	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:12:21:906	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:12:31:953	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:12:42:006	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:12:52:040	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:12:56:679	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 16:13:02:091	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:13:12:141	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:13:22:198	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:13:32:249	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:13:42:286	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:13:52:339	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:13:56:955	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 16:14:02:389	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:14:12:433	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:14:22:491	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:14:32:521	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:14:42:565	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:14:52:612	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:14:57:247	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 16:15:02:668	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:15:12:720	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:15:22:751	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:15:32:796	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:15:42:846	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:15:52:896	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:15:57:564	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 16:16:02:944	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:16:12:997	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:16:23:044	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:16:33:076	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:16:43:138	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:16:53:196	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:16:57:816	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 16:17:03:266	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:17:13:327	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:17:23:386	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:17:33:467	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:17:43:547	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:17:53:622	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:17:58:236	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 16:18:03:687	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:18:13:746	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:18:23:827	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:18:33:896	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:18:43:956	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:18:54:004	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:18:58:617	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 16:19:04:056	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:19:14:129	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:19:24:221	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:19:34:290	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:19:44:336	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:19:54:386	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:19:59:026	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 16:20:04:436	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:20:14:496	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:20:24:561	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:20:34:617	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:20:44:687	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:20:54:746	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:20:59:367	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 16:21:04:807	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:21:14:880	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:21:24:936	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:21:34:996	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:21:45:066	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:21:55:142	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:21:59:767	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 16:22:05:207	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:22:15:247	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:22:25:287	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:22:35:338	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:22:45:387	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:22:55:437	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:23:00:037	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 16:23:05:487	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:23:15:537	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:23:25:587	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:23:35:651	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:23:45:716	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:23:55:787	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:24:00:412	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 16:24:05:847	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:24:15:936	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:24:26:004	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:24:36:076	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:24:46:137	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:24:56:217	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:25:00:817	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 16:25:06:276	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:25:16:327	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:25:26:387	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:25:36:437	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:25:46:507	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:25:56:572	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:26:01:217	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 16:26:06:627	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:26:16:687	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:26:26:737	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:26:36:796	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:26:46:857	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:26:56:927	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:27:01:530	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 16:27:06:987	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:27:17:055	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:27:27:126	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:27:37:177	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:27:47:232	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:27:57:292	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:28:01:932	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 16:28:07:347	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:28:17:427	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:28:27:496	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:28:37:567	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:28:47:627	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:28:57:697	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:29:02:342	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 16:29:07:767	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:29:17:832	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:29:27:903	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:29:37:967	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:29:48:022	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:29:58:107	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:30:02:696	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 16:30:08:172	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:30:18:247	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:30:28:296	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:30:38:370	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:30:48:418	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:30:58:467	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:31:03:118	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 16:31:08:527	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:31:18:587	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:31:28:647	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:31:38:717	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:31:48:776	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:31:58:842	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:32:03:507	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 16:32:08:907	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:32:18:972	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:32:29:037	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:32:39:087	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill()cls_getmiddletosecuill.CountDataMiddle()
+2024-09-09 16:55:57:768	Init	#########################################	frmMain.frmMain_Load
+2024-09-09 16:55:59:148	Init	เริ่มต้นการทำงานของโปรแกรม . . .	frmMain.frmMain_Load
+2024-09-09 16:56:00:796	Init	Auto connection . 	frmMain.frmMain_Load
+2024-09-09 16:56:02:556	Init	เริ่มต้นการเชื่อมต่อกับ Server . . . 	frmMain.frmMain_Load
+2024-09-09 16:57:00:463	Init	#########################################	frmMain.frmMain_Load
+2024-09-09 16:57:01:812	Init	เริ่มต้นการทำงานของโปรแกรม . . .	frmMain.frmMain_Load
+2024-09-09 16:57:03:296	Init	Auto connection . 	frmMain.frmMain_Load
+2024-09-09 16:57:05:051	Init	เริ่มต้นการเชื่อมต่อกับ Server . . . 	frmMain.frmMain_Load
+2024-09-09 16:57:06:464	ERROR	Login failed for user 'sa'.	cls_condbmiddle.chk_connect_db()
+2024-09-09 16:57:06:929	Status	เริ่มต้นการทำงานดึงข้อมูล . . .	frmMain.BgwGetMiddle_DoWork
+2024-09-09 16:57:08:847	_Error	ไม่สามารถเชื่อมต่อ Server Middle	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 16:57:10:743	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server Middle	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 16:57:12:564	_Error	Login failed for user 'sa'.	cls_condbsecuill.chk_connect_db
+2024-09-09 16:57:13:956	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 16:57:14:491	_Error	ไม่สามารถเชื่อมต่อ Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 16:57:14:720	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 16:57:16:362	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 16:57:18:346	_Error	Login failed for user 'sa'.	cls_condbsecuill.chk_connect_db
+2024-09-09 16:57:24:797	ERROR	Login failed for user 'sa'.	cls_condbmiddle.chk_connect_db()
+2024-09-09 16:57:26:412	_Error	ไม่สามารถเชื่อมต่อ Server Middle	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 16:57:28:341	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server Middle	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 16:57:47:889	Init	#########################################	frmMain.frmMain_Load
+2024-09-09 16:57:49:289	Init	เริ่มต้นการทำงานของโปรแกรม . . .	frmMain.frmMain_Load
+2024-09-09 16:57:50:883	Init	Auto connection . 	frmMain.frmMain_Load
+2024-09-09 16:57:52:665	Init	เริ่มต้นการเชื่อมต่อกับ Server . . . 	frmMain.frmMain_Load
+2024-09-09 16:57:54:509	Status	เริ่มต้นการทำงานดึงข้อมูล . . .	frmMain.BgwGetMiddle_DoWork
+2024-09-09 16:58:01:401	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 16:58:04:004	ERROR	Cannot open database "CONHIS_MIDDLE_UBCH" requested by the login. The login failed.
+Login failed for user 'sa'.	cls_condbmiddle.chk_connect_db()
+2024-09-09 16:58:05:624	_Error	ไม่สามารถเชื่อมต่อ Server Middle	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 16:58:07:634	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server Middle	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 16:58:08:159	ERROR	Login failed for user 'sa'.	md.Fill()
+2024-09-09 16:58:09:623	Status	เชื่อมต่อ Secuill สำเร็จ	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 16:58:34:504	Init	#########################################	frmMain.frmMain_Load
+2024-09-09 16:58:35:834	Init	เริ่มต้นการทำงานของโปรแกรม . . .	frmMain.frmMain_Load
+2024-09-09 16:58:37:289	Init	Auto connection . 	frmMain.frmMain_Load
+2024-09-09 16:58:39:084	Init	เริ่มต้นการเชื่อมต่อกับ Server . . . 	frmMain.frmMain_Load
+2024-09-09 16:58:49:564	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 16:58:52:868	Status	เริ่มต้นการทำงานดึงข้อมูล . . .	frmMain.BgwGetMiddle_DoWork
+2024-09-09 16:59:10:033	EVENT	Count prescription: 1	cls_getmiddletosecuill.GetDataMidle()
+2024-09-09 16:59:11:401	ERROR	Invalid column name 'f_dispensetosecuill'.	cls_condbmiddle.Fill() (cls_getmiddletosecuill.GetDataMidle())
+2024-09-09 17:00:49:179	Init	#########################################	frmMain.frmMain_Load
+2024-09-09 17:00:50:534	Init	เริ่มต้นการทำงานของโปรแกรม . . .	frmMain.frmMain_Load
+2024-09-09 17:00:52:002	Init	Auto connection . 	frmMain.frmMain_Load
+2024-09-09 17:00:53:772	Init	เริ่มต้นการเชื่อมต่อกับ Server . . . 	frmMain.frmMain_Load
+2024-09-09 17:03:14:559	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 17:03:14:769	Status	เริ่มต้นการทำงานดึงข้อมูล . . .	frmMain.BgwGetMiddle_DoWork
+2024-09-09 17:03:21:076	EVENT	Count prescription: 1	cls_getmiddletosecuill.GetDataMidle()
+2024-09-09 17:03:47:650	Init	#########################################	frmMain.frmMain_Load
+2024-09-09 17:03:49:046	Init	เริ่มต้นการทำงานของโปรแกรม . . .	frmMain.frmMain_Load
+2024-09-09 17:03:50:889	Init	Auto connection . 	frmMain.frmMain_Load
+2024-09-09 17:03:52:774	Init	เริ่มต้นการเชื่อมต่อกับ Server . . . 	frmMain.frmMain_Load
+2024-09-09 17:03:56:656	EVENT	Count prescription: 1	cls_getmiddletosecuill.GetDataMidle()
+2024-09-09 17:04:01:526	Status	เริ่มต้นการทำงานดึงข้อมูล . . .	frmMain.BgwGetMiddle_DoWork
+2024-09-09 17:04:01:719	ERROR	Column 'f_en' does not belong to table 0.	cls_middleObject.GenObjectMiddle()
+2024-09-09 17:04:02:339	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 17:04:03:560	Status	เชื่อมต่อ Middle สำเร็จ	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 17:04:05:438	Status	เชื่อมต่อ Secuill สำเร็จ	frmMain.CheckConnectMiddleAndSecuill
+2024-09-09 17:04:07:353	Process	ข้อมูล Middle 1 Rows	frmMain.BgwGetMiddle_DoWork
+2024-09-09 17:05:23:843	Init	#########################################	frmMain.frmMain_Load
+2024-09-09 17:05:25:345	Init	เริ่มต้นการทำงานของโปรแกรม . . .	frmMain.frmMain_Load
+2024-09-09 17:05:27:178	Init	Auto connection . 	frmMain.frmMain_Load
+2024-09-09 17:05:29:053	Init	เริ่มต้นการเชื่อมต่อกับ Server . . . 	frmMain.frmMain_Load
+2024-09-09 17:05:33:635	EVENT	Count prescription: 1	cls_getmiddletosecuill.GetDataMidle()
+2024-09-09 17:05:43:399	ERROR	Column 'f_en' does not belong to table 0.	cls_middleObject.GenObjectMiddle()
+2024-09-09 17:05:52:041	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 17:07:03:250	Init	#########################################	frmMain.frmMain_Load
+2024-09-09 17:07:04:809	Init	เริ่มต้นการทำงานของโปรแกรม . . .	frmMain.frmMain_Load
+2024-09-09 17:07:06:648	Init	Auto connection . 	frmMain.frmMain_Load
+2024-09-09 17:07:08:518	Init	เริ่มต้นการเชื่อมต่อกับ Server . . . 	frmMain.frmMain_Load
+2024-09-09 17:07:12:305	EVENT	Count prescription: 1	cls_getmiddletosecuill.GetDataMidle()
+2024-09-09 17:07:13:790	ERROR	Column 'f_en' does not belong to table 0.	cls_middleObject.GenObjectMiddle()
+2024-09-09 17:07:24:881	ERROR	Column 'f_en' does not belong to table 0.	cls_middleObject.GenObjectMiddle()
+2024-09-09 17:07:31:392	Init	#########################################	frmMain.frmMain_Load
+2024-09-09 17:07:32:810	Init	เริ่มต้นการทำงานของโปรแกรม . . .	frmMain.frmMain_Load
+2024-09-09 17:07:34:656	Init	Auto connection . 	frmMain.frmMain_Load
+2024-09-09 17:07:36:533	Init	เริ่มต้นการเชื่อมต่อกับ Server . . . 	frmMain.frmMain_Load
+2024-09-09 17:07:40:338	EVENT	Count prescription: 1	cls_getmiddletosecuill.GetDataMidle()
+2024-09-09 17:07:40:744	Status	เริ่มต้นการทำงานดึงข้อมูล . . .	frmMain.BgwGetMiddle_DoWork
+2024-09-09 17:07:41:518	ERROR	Column 'f_en' does not belong to table 0.	cls_middleObject.GenObjectMiddle()
+2024-09-09 17:08:02:858	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())
+2024-09-09 17:09:03:179	Init	#########################################	frmMain.frmMain_Load
+2024-09-09 17:09:04:889	Init	เริ่มต้นการทำงานของโปรแกรม . . .	frmMain.frmMain_Load
+2024-09-09 17:09:06:741	Init	Auto connection . 	frmMain.frmMain_Load
+2024-09-09 17:09:08:620	Init	เริ่มต้นการเชื่อมต่อกับ Server . . . 	frmMain.frmMain_Load
+2024-09-09 17:09:11:729	EVENT	Count prescription: 1	cls_getmiddletosecuill.GetDataMidle()
+2024-09-09 17:09:14:989	ERROR	Column 'f_patientepisodedate' does not belong to table 0.	cls_middleObject.GenObjectMiddle()
+2024-09-09 17:09:24:101	Status	เริ่มต้นการทำงานดึงข้อมูล . . .	frmMain.BgwGetMiddle_DoWork
+2024-09-09 17:09:24:620	ERROR	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 (cls_condbserver.ExecuteNonQuery())

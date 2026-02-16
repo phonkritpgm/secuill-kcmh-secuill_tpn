@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "TPN_SECUILL_V4", "TPN_SECUILL_V4\TPN_SECUILL_V4.vbproj", "{B28BAB06-536D-4A48-B101-AC3F05ABAF3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B28BAB06-536D-4A48-B101-AC3F05ABAF3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B28BAB06-536D-4A48-B101-AC3F05ABAF3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B28BAB06-536D-4A48-B101-AC3F05ABAF3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B28BAB06-536D-4A48-B101-AC3F05ABAF3A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {778291E3-E4F6-495D-B50C-C48FC9844070}
+	EndGlobalSection
+EndGlobal
