@@ -1,9 +1,14 @@
 ﻿;server connect | Connect Timeout=200 | Connect Timeout=200
-connserver-middle=Data Source=thanespgm.com;Initial Catalog=CONHIS_MIDDLE_V4_UBCH;User Id=sa;Password=@Thanes1234;Asynchronous Processing=True;
-connserver-secuill=Data Source=thanespgm.com;Initial Catalog=SECUILL_V5_TU;User Id=sa;Password=@Thanes1234;Asynchronous Processing=True;
-connserver-server=Data Source=.\SQLEXPRESS;Initial Catalog=CONHIS_MIDDLE_TU;User Id=sa;Password=yuyama;Asynchronous Processing=True;
+connserver-middle=Data Source=(local);Initial Catalog=CONHIS_MIDDLE_V4-KCMH;User Id=sa;Password=12345678;Asynchronous Processing=True;
+
+
+connserver-secuill-1=Data Source=(local);Initial Catalog=SECUILL_V5_UBCH;User Id=sa;Password=12345678;Asynchronous Processing=True;
+connserver-secuill-2=Data Source=(local);Initial Catalog=SECUILL_V5.1_UBCH;User Id=sa;Password=12345678;Asynchronous Processing=True;
+connserver-secuill-3=Data Source=(local);Initial Catalog=SECUILL_V5.2_UBCH;User Id=sa;Password=12345678;Asynchronous Processing=True;
+
+
 location=TEST
-Middle-Tomachineno = 31
+Middle-Tomachineno = 2
 
 ;path log file
 logpath=TPN_log
@@ -14,4 +19,9 @@ logpath=TPN_log
 SECUILL_V5_TU
 
 ;Filter ward use machine location
-ward-code='1500'
+ward-code='01','02','03'
+
+; รูปแบบ: ward-machine-[หมายเลขเครื่อง]=[รหัสวอร์ด] Ex รับผิดชอบวอร์ด 03 และ 05 ward-machine-3='03','05' 
+ward-machine-1='01'
+ward-machine-2='02'
+ward-machine-3='03'

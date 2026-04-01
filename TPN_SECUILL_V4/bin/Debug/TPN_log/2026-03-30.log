@@ -1,0 +1,1561 @@
+﻿2026-03-30 10:44:07:390	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 10:44:14:533	EVENT	พบงานรอส่งรวมทุกตู้: 205	cls_getmiddletosecuill.RunProcess()
+2026-03-30 10:44:42:787	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 10:44:52:872	ERROR	Cannot open database "SECUILL_V5_" requested by the login. The login failed. Login failed for user 'sa'.	md.Fill()
+2026-03-30 10:45:02:917	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 10:46:03:039	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 10:47:03:140	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 10:48:03:315	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 10:49:03:430	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 10:50:03:556	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 10:51:03:667	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 10:52:03:776	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 10:53:03:923	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 10:54:04:055	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 10:55:04:205	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 10:56:04:371	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 10:57:04:466	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 10:57:43:938	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 10:57:44:698	EVENT	พบงานรอส่งรวมทุกตู้: 158	cls_getmiddletosecuill.RunProcess()
+2026-03-30 10:58:06:032	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 10:58:16:084	ERROR	Cannot open database "SECUILL_V5_" requested by the login. The login failed. Login failed for user 'sa'.	md.Fill()
+2026-03-30 10:58:26:108	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 10:59:26:228	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 11:00:26:342	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 11:01:26:434	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 11:02:26:561	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 11:03:26:766	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 11:04:26:893	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 11:05:27:011	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 11:06:27:113	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 11:07:27:243	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 11:08:27:425	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 11:09:27:549	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 11:10:27:745	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 11:11:27:860	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 11:12:27:990	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 11:13:28:192	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 11:14:28:339	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 11:15:28:540	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 11:16:28:680	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 11:17:28:847	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 11:18:28:996	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 11:19:29:139	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 11:20:29:282	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 11:21:29:385	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 11:22:29:511	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 11:23:29:713	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 11:24:29:852	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 11:25:30:011	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 11:26:30:109	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 11:27:30:306	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 11:28:30:467	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 11:28:40:505	ERROR	Cannot open database "SECUILL_V5_" requested by the login. The login failed. Login failed for user 'sa'.	md.Fill()
+2026-03-30 11:28:50:531	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 11:29:50:672	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 11:30:50:859	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 11:31:50:984	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 11:32:51:127	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 11:33:51:280	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 11:34:51:418	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 11:35:51:630	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 11:36:51:783	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 11:37:51:969	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 11:38:52:084	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 11:39:52:219	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 11:40:52:340	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 11:41:52:452	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 11:42:52:629	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 11:43:52:768	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 11:44:52:918	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 11:45:53:026	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 11:46:53:161	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 11:47:53:292	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 11:48:53:436	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 11:49:53:578	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 11:50:53:745	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 11:51:53:892	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 11:52:54:078	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 11:53:54:201	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 11:54:54:406	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 11:55:54:521	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 11:56:54:650	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 11:57:54:745	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 11:58:54:949	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 11:59:04:992	ERROR	Cannot open database "SECUILL_V5_" requested by the login. The login failed. Login failed for user 'sa'.	md.Fill()
+2026-03-30 11:59:15:076	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 12:00:15:247	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 12:01:15:348	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 12:02:15:476	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 12:03:15:689	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 12:04:15:851	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 12:05:16:078	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 12:06:16:211	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 12:07:16:332	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 12:08:16:496	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 12:09:16:629	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 12:10:16:806	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 12:11:16:968	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 12:12:17:055	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 12:13:17:202	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 12:14:17:350	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 12:15:17:516	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 12:16:17:699	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 12:17:17:847	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 12:23:06:063	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 12:23:06:390	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 12:23:16:464	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 12:24:16:622	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 14:25:40:010	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 14:25:40:806	EVENT	พบงานรอส่งรวมทุกตู้: 363	cls_getmiddletosecuill.RunProcess()
+2026-03-30 14:25:40:926	SUCCESS	Order 53716 sent to Machine 2
+2026-03-30 14:25:41:000	SUCCESS	Order 53721 sent to Machine 2
+2026-03-30 14:25:41:097	SUCCESS	Order 53726 sent to Machine 2
+2026-03-30 14:25:41:257	SUCCESS	Order 53731 sent to Machine 1
+2026-03-30 14:25:41:353	SUCCESS	Order 53731 sent to Machine 1
+2026-03-30 14:25:41:433	SUCCESS	Order 53745 sent to Machine 2
+2026-03-30 14:25:41:511	SUCCESS	Order 53750 sent to Machine 2
+2026-03-30 14:25:41:601	SUCCESS	Order 53749 sent to Machine 2
+2026-03-30 14:25:41:706	SUCCESS	Order 53754 sent to Machine 2
+2026-03-30 14:25:41:778	SUCCESS	Order 53758 sent to Machine 1
+2026-03-30 14:25:41:857	SUCCESS	Order 53761 sent to Machine 2
+2026-03-30 14:25:41:941	SUCCESS	Order 53746 sent to Machine 1
+2026-03-30 14:25:42:013	SUCCESS	Order 53770 sent to Machine 1
+2026-03-30 14:25:42:103	SUCCESS	Order 53775 sent to Machine 1
+2026-03-30 14:25:42:190	SUCCESS	Order 53772 sent to Machine 1
+2026-03-30 14:25:42:268	SUCCESS	Order 53782 sent to Machine 1
+2026-03-30 14:25:42:348	SUCCESS	Order 53785 sent to Machine 1
+2026-03-30 14:25:42:428	SUCCESS	Order 53788 sent to Machine 2
+2026-03-30 14:25:42:501	SUCCESS	Order 53740 sent to Machine 1
+2026-03-30 14:25:42:587	SUCCESS	Order 53796 sent to Machine 1
+2026-03-30 14:25:42:676	SUCCESS	Order 53800 sent to Machine 2
+2026-03-30 14:25:42:759	SUCCESS	Order 53758 sent to Machine 1
+2026-03-30 14:25:42:851	SUCCESS	Order 53804 sent to Machine 1
+2026-03-30 14:25:42:951	SUCCESS	Order 53761 sent to Machine 2
+2026-03-30 14:25:43:032	SUCCESS	Order 53808 sent to Machine 1
+2026-03-30 14:25:43:111	SUCCESS	Order 53746 sent to Machine 1
+2026-03-30 14:25:43:205	SUCCESS	Order 53817 sent to Machine 1
+2026-03-30 14:25:43:279	SUCCESS	Order 53817 sent to Machine 1
+2026-03-30 14:25:43:359	SUCCESS	Order 53818 sent to Machine 1
+2026-03-30 14:25:43:440	SUCCESS	Order 53819 sent to Machine 1
+2026-03-30 14:25:43:536	SUCCESS	Order 53820 sent to Machine 1
+2026-03-30 14:25:43:612	SUCCESS	Order 53789 sent to Machine 2
+2026-03-30 14:25:43:677	SUCCESS	Order 53789 sent to Machine 2
+2026-03-30 14:25:43:748	SUCCESS	Order 53790 sent to Machine 1
+2026-03-30 14:25:43:825	SUCCESS	Order 53790 sent to Machine 1
+2026-03-30 14:25:43:910	SUCCESS	Order 53790 sent to Machine 1
+2026-03-30 14:25:44:006	SUCCESS	Order 53791 sent to Machine 1
+2026-03-30 14:25:44:099	SUCCESS	Order 53791 sent to Machine 1
+2026-03-30 14:25:44:192	SUCCESS	Order 53791 sent to Machine 1
+2026-03-30 14:25:44:298	SUCCESS	Order 53783 sent to Machine 2
+2026-03-30 14:25:44:370	SUCCESS	Order 53783 sent to Machine 2
+2026-03-30 14:25:44:466	SUCCESS	Order 53792 sent to Machine 2
+2026-03-30 14:25:44:544	SUCCESS	Order 53792 sent to Machine 2
+2026-03-30 14:25:44:626	SUCCESS	Order 53740 sent to Machine 1
+2026-03-30 14:25:44:711	SUCCESS	Order 53774 sent to Machine 1
+2026-03-30 14:25:44:824	SUCCESS	Order 53793 sent to Machine 2
+2026-03-30 14:25:44:912	SUCCESS	Order 53793 sent to Machine 2
+2026-03-30 14:25:45:010	SUCCESS	Order 53793 sent to Machine 2
+2026-03-30 14:25:45:090	SUCCESS	Order 53793 sent to Machine 2
+2026-03-30 14:25:45:175	SUCCESS	Order 53794 sent to Machine 2
+2026-03-30 14:25:45:275	SUCCESS	Order 53794 sent to Machine 2
+2026-03-30 14:25:45:371	SUCCESS	Order 53795 sent to Machine 2
+2026-03-30 14:25:45:443	SUCCESS	Order 53795 sent to Machine 2
+2026-03-30 14:25:45:535	SUCCESS	Order 53795 sent to Machine 2
+2026-03-30 14:25:45:625	SUCCESS	Order 53796 sent to Machine 1
+2026-03-30 14:25:45:711	SUCCESS	Order 53796 sent to Machine 1
+2026-03-30 14:25:45:808	SUCCESS	Order 53794 sent to Machine 2
+2026-03-30 14:25:45:902	SUCCESS	Order 53797 sent to Machine 1
+2026-03-30 14:25:45:974	SUCCESS	Order 53797 sent to Machine 1
+2026-03-30 14:25:46:058	SUCCESS	Order 53797 sent to Machine 1
+2026-03-30 14:25:46:129	SUCCESS	Order 53797 sent to Machine 1
+2026-03-30 14:25:46:218	SUCCESS	Order 53797 sent to Machine 1
+2026-03-30 14:25:46:288	SUCCESS	Order 53797 sent to Machine 1
+2026-03-30 14:25:46:380	SUCCESS	Order 53798 sent to Machine 1
+2026-03-30 14:25:46:462	SUCCESS	Order 53798 sent to Machine 1
+2026-03-30 14:25:46:534	SUCCESS	Order 53798 sent to Machine 1
+2026-03-30 14:25:46:629	SUCCESS	Order 53799 sent to Machine 2
+2026-03-30 14:25:46:708	SUCCESS	Order 53800 sent to Machine 2
+2026-03-30 14:25:46:797	SUCCESS	Order 53800 sent to Machine 2
+2026-03-30 14:25:46:912	SUCCESS	Order 53722 sent to Machine 1
+2026-03-30 14:25:47:007	SUCCESS	Order 53742 sent to Machine 2
+2026-03-30 14:25:47:095	SUCCESS	Order 53742 sent to Machine 2
+2026-03-30 14:25:47:189	SUCCESS	Order 53799 sent to Machine 2
+2026-03-30 14:25:47:270	SUCCESS	Order 53797 sent to Machine 1
+2026-03-30 14:25:47:359	SUCCESS	Order 53797 sent to Machine 1
+2026-03-30 14:25:47:439	SUCCESS	Order 53801 sent to Machine 2
+2026-03-30 14:25:47:513	SUCCESS	Order 53801 sent to Machine 2
+2026-03-30 14:25:47:593	SUCCESS	Order 53798 sent to Machine 1
+2026-03-30 14:25:47:704	SUCCESS	Order 53771 sent to Machine 1
+2026-03-30 14:25:47:802	SUCCESS	Order 53784 sent to Machine 1
+2026-03-30 14:25:47:892	SUCCESS	Order 53758 sent to Machine 1
+2026-03-30 14:25:47:986	SUCCESS	Order 53786 sent to Machine 1
+2026-03-30 14:25:48:070	SUCCESS	Order 53757 sent to Machine 1
+2026-03-30 14:25:48:150	SUCCESS	Order 53757 sent to Machine 1
+2026-03-30 14:25:48:227	SUCCESS	Order 53786 sent to Machine 1
+2026-03-30 14:25:48:311	SUCCESS	Order 53802 sent to Machine 2
+2026-03-30 14:25:48:403	SUCCESS	Order 53802 sent to Machine 2
+2026-03-30 14:25:48:488	SUCCESS	Order 53802 sent to Machine 2
+2026-03-30 14:25:48:608	SUCCESS	Order 53803 sent to Machine 2
+2026-03-30 14:25:48:701	SUCCESS	Order 53803 sent to Machine 2
+2026-03-30 14:25:48:792	SUCCESS	Order 53803 sent to Machine 2
+2026-03-30 14:25:48:865	SUCCESS	Order 53803 sent to Machine 2
+2026-03-30 14:25:48:937	SUCCESS	Order 53804 sent to Machine 1
+2026-03-30 14:25:49:017	SUCCESS	Order 53804 sent to Machine 1
+2026-03-30 14:25:49:095	SUCCESS	Order 53804 sent to Machine 1
+2026-03-30 14:25:49:175	SUCCESS	Order 53804 sent to Machine 1
+2026-03-30 14:25:49:243	SUCCESS	Order 53804 sent to Machine 1
+2026-03-30 14:25:49:328	SUCCESS	Order 53804 sent to Machine 1
+2026-03-30 14:25:49:402	SUCCESS	Order 53804 sent to Machine 1
+2026-03-30 14:25:49:491	SUCCESS	Order 53748 sent to Machine 2
+2026-03-30 14:25:49:587	SUCCESS	Order 53748 sent to Machine 2
+2026-03-30 14:25:49:690	SUCCESS	Order 53733 sent to Machine 2
+2026-03-30 14:25:49:778	SUCCESS	Order 53733 sent to Machine 2
+2026-03-30 14:25:49:845	SUCCESS	Order 53733 sent to Machine 2
+2026-03-30 14:25:49:939	SUCCESS	Order 53761 sent to Machine 2
+2026-03-30 14:25:50:029	SUCCESS	Order 53735 sent to Machine 1
+2026-03-30 14:25:50:107	SUCCESS	Order 53718 sent to Machine 2
+2026-03-30 14:25:50:183	SUCCESS	Order 53718 sent to Machine 2
+2026-03-30 14:25:50:278	SUCCESS	Order 53755 sent to Machine 1
+2026-03-30 14:25:50:358	SUCCESS	Order 53805 sent to Machine 2
+2026-03-30 14:25:50:434	SUCCESS	Order 53805 sent to Machine 2
+2026-03-30 14:25:50:512	SUCCESS	Order 53805 sent to Machine 2
+2026-03-30 14:25:50:588	SUCCESS	Order 53806 sent to Machine 2
+2026-03-30 14:25:50:664	SUCCESS	Order 53806 sent to Machine 2
+2026-03-30 14:25:50:742	SUCCESS	Order 53806 sent to Machine 2
+2026-03-30 14:25:50:823	SUCCESS	Order 53807 sent to Machine 2
+2026-03-30 14:25:50:896	SUCCESS	Order 53808 sent to Machine 1
+2026-03-30 14:25:50:985	SUCCESS	Order 53808 sent to Machine 1
+2026-03-30 14:25:51:081	SUCCESS	Order 53809 sent to Machine 1
+2026-03-30 14:25:51:178	SUCCESS	Order 53809 sent to Machine 1
+2026-03-30 14:25:51:264	SUCCESS	Order 53809 sent to Machine 1
+2026-03-30 14:25:51:368	SUCCESS	Order 53810 sent to Machine 1
+2026-03-30 14:25:51:432	SUCCESS	Order 53810 sent to Machine 1
+2026-03-30 14:25:51:506	SUCCESS	Order 53810 sent to Machine 1
+2026-03-30 14:25:51:586	SUCCESS	Order 53793 sent to Machine 2
+2026-03-30 14:25:51:664	SUCCESS	Order 53793 sent to Machine 2
+2026-03-30 14:25:51:746	SUCCESS	Order 53793 sent to Machine 2
+2026-03-30 14:25:51:843	SUCCESS	Order 53793 sent to Machine 2
+2026-03-30 14:25:51:930	SUCCESS	Order 53746 sent to Machine 1
+2026-03-30 14:25:52:001	SUCCESS	Order 53746 sent to Machine 1
+2026-03-30 14:25:52:079	SUCCESS	Order 53811 sent to Machine 1
+2026-03-30 14:25:52:160	SUCCESS	Order 53812 sent to Machine 1
+2026-03-30 14:25:52:241	SUCCESS	Order 53813 sent to Machine 1
+2026-03-30 14:25:52:339	SUCCESS	Order 53813 sent to Machine 1
+2026-03-30 14:25:52:437	SUCCESS	Order 53814 sent to Machine 1
+2026-03-30 14:25:52:529	SUCCESS	Order 53814 sent to Machine 1
+2026-03-30 14:25:52:620	SUCCESS	Order 53815 sent to Machine 1
+2026-03-30 14:25:52:709	SUCCESS	Order 53815 sent to Machine 1
+2026-03-30 14:25:52:782	SUCCESS	Order 53815 sent to Machine 1
+2026-03-30 14:25:52:859	SUCCESS	Order 53816 sent to Machine 1
+2026-03-30 14:25:52:938	SUCCESS	Order 53816 sent to Machine 1
+2026-03-30 14:25:53:017	SUCCESS	Order 53817 sent to Machine 1
+2026-03-30 14:25:53:098	SUCCESS	Order 53726 sent to Machine 2
+2026-03-30 14:25:53:175	SUCCESS	Order 53726 sent to Machine 2
+2026-03-30 14:25:53:253	SUCCESS	Order 53727 sent to Machine 2
+2026-03-30 14:25:53:326	SUCCESS	Order 53727 sent to Machine 2
+2026-03-30 14:25:53:405	SUCCESS	Order 53727 sent to Machine 2
+2026-03-30 14:25:53:490	SUCCESS	Order 53728 sent to Machine 2
+2026-03-30 14:25:53:563	SUCCESS	Order 53728 sent to Machine 2
+2026-03-30 14:25:53:654	SUCCESS	Order 53729 sent to Machine 2
+2026-03-30 14:25:53:739	SUCCESS	Order 53729 sent to Machine 2
+2026-03-30 14:25:53:825	SUCCESS	Order 53729 sent to Machine 2
+2026-03-30 14:25:53:916	SUCCESS	Order 53729 sent to Machine 2
+2026-03-30 14:25:54:028	SUCCESS	Order 53730 sent to Machine 2
+2026-03-30 14:25:54:122	SUCCESS	Order 53732 sent to Machine 2
+2026-03-30 14:25:54:206	SUCCESS	Order 53733 sent to Machine 2
+2026-03-30 14:25:54:335	SUCCESS	Order 53734 sent to Machine 2
+2026-03-30 14:25:54:423	SUCCESS	Order 53734 sent to Machine 2
+2026-03-30 14:25:54:509	SUCCESS	Order 53735 sent to Machine 1
+2026-03-30 14:25:54:594	SUCCESS	Order 53735 sent to Machine 1
+2026-03-30 14:25:54:669	SUCCESS	Order 53736 sent to Machine 2
+2026-03-30 14:25:54:750	SUCCESS	Order 53736 sent to Machine 2
+2026-03-30 14:25:54:815	SUCCESS	Order 53736 sent to Machine 2
+2026-03-30 14:25:54:904	SUCCESS	Order 53736 sent to Machine 2
+2026-03-30 14:25:55:002	SUCCESS	Order 53737 sent to Machine 2
+2026-03-30 14:25:55:109	SUCCESS	Order 53724 sent to Machine 1
+2026-03-30 14:25:55:189	SUCCESS	Order 53731 sent to Machine 1
+2026-03-30 14:25:55:284	SUCCESS	Order 53738 sent to Machine 2
+2026-03-30 14:25:55:393	SUCCESS	Order 53738 sent to Machine 2
+2026-03-30 14:25:55:490	SUCCESS	Order 53739 sent to Machine 2
+2026-03-30 14:25:55:569	SUCCESS	Order 53739 sent to Machine 2
+2026-03-30 14:25:55:648	SUCCESS	Order 53739 sent to Machine 2
+2026-03-30 14:25:55:727	SUCCESS	Order 53740 sent to Machine 1
+2026-03-30 14:25:55:824	SUCCESS	Order 53741 sent to Machine 2
+2026-03-30 14:25:55:916	SUCCESS	Order 53741 sent to Machine 2
+2026-03-30 14:25:55:998	SUCCESS	Order 53742 sent to Machine 2
+2026-03-30 14:25:56:090	SUCCESS	Order 53743 sent to Machine 2
+2026-03-30 14:25:56:187	SUCCESS	Order 53744 sent to Machine 2
+2026-03-30 14:25:56:266	SUCCESS	Order 53745 sent to Machine 2
+2026-03-30 14:25:56:360	SUCCESS	Order 53746 sent to Machine 1
+2026-03-30 14:25:56:440	SUCCESS	Order 53746 sent to Machine 1
+2026-03-30 14:25:56:519	SUCCESS	Order 53732 sent to Machine 2
+2026-03-30 14:25:56:591	SUCCESS	Order 53732 sent to Machine 2
+2026-03-30 14:25:56:685	SUCCESS	Order 53747 sent to Machine 1
+2026-03-30 14:25:56:788	SUCCESS	Order 53748 sent to Machine 2
+2026-03-30 14:25:56:886	SUCCESS	Order 53748 sent to Machine 2
+2026-03-30 14:25:56:972	SUCCESS	Order 53749 sent to Machine 2
+2026-03-30 14:25:57:052	SUCCESS	Order 53749 sent to Machine 2
+2026-03-30 14:25:57:142	SUCCESS	Order 53749 sent to Machine 2
+2026-03-30 14:25:57:213	SUCCESS	Order 53750 sent to Machine 2
+2026-03-30 14:25:57:301	SUCCESS	Order 53750 sent to Machine 2
+2026-03-30 14:25:57:383	SUCCESS	Order 53750 sent to Machine 2
+2026-03-30 14:25:57:482	SUCCESS	Order 53751 sent to Machine 1
+2026-03-30 14:25:57:572	SUCCESS	Order 53751 sent to Machine 1
+2026-03-30 14:25:57:658	SUCCESS	Order 53716 sent to Machine 2
+2026-03-30 14:25:57:740	SUCCESS	Order 53744 sent to Machine 2
+2026-03-30 14:25:57:824	SUCCESS	Order 53744 sent to Machine 2
+2026-03-30 14:25:57:906	SUCCESS	Order 53744 sent to Machine 2
+2026-03-30 14:25:57:986	SUCCESS	Order 53744 sent to Machine 2
+2026-03-30 14:25:58:075	SUCCESS	Order 53709 sent to Machine 2
+2026-03-30 14:25:58:160	SUCCESS	Order 53742 sent to Machine 2
+2026-03-30 14:25:58:229	SUCCESS	Order 53749 sent to Machine 2
+2026-03-30 14:25:58:316	SUCCESS	Order 53749 sent to Machine 2
+2026-03-30 14:25:58:415	SUCCESS	Order 53746 sent to Machine 1
+2026-03-30 14:25:58:492	SUCCESS	Order 53752 sent to Machine 2
+2026-03-30 14:25:58:584	SUCCESS	Order 53753 sent to Machine 2
+2026-03-30 14:25:58:675	SUCCESS	Order 53753 sent to Machine 2
+2026-03-30 14:25:58:767	SUCCESS	Order 53753 sent to Machine 2
+2026-03-30 14:25:58:849	SUCCESS	Order 53753 sent to Machine 2
+2026-03-30 14:25:58:928	SUCCESS	Order 53753 sent to Machine 2
+2026-03-30 14:25:59:024	SUCCESS	Order 53753 sent to Machine 2
+2026-03-30 14:25:59:110	SUCCESS	Order 53753 sent to Machine 2
+2026-03-30 14:25:59:202	SUCCESS	Order 53754 sent to Machine 2
+2026-03-30 14:25:59:286	SUCCESS	Order 53754 sent to Machine 2
+2026-03-30 14:25:59:379	SUCCESS	Order 53715 sent to Machine 2
+2026-03-30 14:25:59:462	SUCCESS	Order 53724 sent to Machine 1
+2026-03-30 14:25:59:563	SUCCESS	Order 53714 sent to Machine 2
+2026-03-30 14:25:59:644	SUCCESS	Order 53755 sent to Machine 1
+2026-03-30 14:25:59:721	SUCCESS	Order 53756 sent to Machine 2
+2026-03-30 14:25:59:793	SUCCESS	Order 53756 sent to Machine 2
+2026-03-30 14:25:59:890	SUCCESS	Order 53756 sent to Machine 2
+2026-03-30 14:25:59:968	SUCCESS	Order 53756 sent to Machine 2
+2026-03-30 14:26:00:052	SUCCESS	Order 53737 sent to Machine 2
+2026-03-30 14:26:00:140	SUCCESS	Order 53737 sent to Machine 2
+2026-03-30 14:26:00:220	SUCCESS	Order 53737 sent to Machine 2
+2026-03-30 14:26:00:295	SUCCESS	Order 53757 sent to Machine 1
+2026-03-30 14:26:00:378	SUCCESS	Order 53758 sent to Machine 1
+2026-03-30 14:26:00:469	SUCCESS	Order 53758 sent to Machine 1
+2026-03-30 14:26:00:546	SUCCESS	Order 53724 sent to Machine 1
+2026-03-30 14:26:00:634	SUCCESS	Order 53757 sent to Machine 1
+2026-03-30 14:26:00:726	SUCCESS	Order 53710 sent to Machine 2
+2026-03-30 14:26:00:814	SUCCESS	Order 53759 sent to Machine 1
+2026-03-30 14:26:00:884	SUCCESS	Order 53709 sent to Machine 2
+2026-03-30 14:26:00:969	SUCCESS	Order 53736 sent to Machine 2
+2026-03-30 14:26:01:056	SUCCESS	Order 53748 sent to Machine 2
+2026-03-30 14:26:01:137	SUCCESS	Order 53734 sent to Machine 2
+2026-03-30 14:26:01:222	SUCCESS	Order 53710 sent to Machine 2
+2026-03-30 14:26:01:309	SUCCESS	Order 53717 sent to Machine 2
+2026-03-30 14:26:01:384	SUCCESS	Order 53760 sent to Machine 2
+2026-03-30 14:26:01:462	SUCCESS	Order 53762 sent to Machine 1
+2026-03-30 14:26:01:551	SUCCESS	Order 53762 sent to Machine 1
+2026-03-30 14:26:01:626	SUCCESS	Order 53762 sent to Machine 1
+2026-03-30 14:26:01:707	SUCCESS	Order 53759 sent to Machine 1
+2026-03-30 14:26:01:789	SUCCESS	Order 53759 sent to Machine 1
+2026-03-30 14:26:01:862	SUCCESS	Order 53763 sent to Machine 1
+2026-03-30 14:26:01:947	SUCCESS	Order 53763 sent to Machine 1
+2026-03-30 14:26:02:039	SUCCESS	Order 53763 sent to Machine 1
+2026-03-30 14:26:02:138	SUCCESS	Order 53759 sent to Machine 1
+2026-03-30 14:26:02:243	SUCCESS	Order 53763 sent to Machine 1
+2026-03-30 14:26:02:333	SUCCESS	Order 53764 sent to Machine 1
+2026-03-30 14:26:02:398	SUCCESS	Order 53764 sent to Machine 1
+2026-03-30 14:26:02:474	SUCCESS	Order 53764 sent to Machine 1
+2026-03-30 14:26:02:548	SUCCESS	Order 53709 sent to Machine 2
+2026-03-30 14:26:02:641	SUCCESS	Order 53710 sent to Machine 2
+2026-03-30 14:26:02:728	SUCCESS	Order 53711 sent to Machine 2
+2026-03-30 14:26:02:816	SUCCESS	Order 53711 sent to Machine 2
+2026-03-30 14:26:02:896	SUCCESS	Order 53712 sent to Machine 2
+2026-03-30 14:26:02:976	SUCCESS	Order 53712 sent to Machine 2
+2026-03-30 14:26:03:057	SUCCESS	Order 53713 sent to Machine 2
+2026-03-30 14:26:03:150	SUCCESS	Order 53713 sent to Machine 2
+2026-03-30 14:26:03:249	SUCCESS	Order 53714 sent to Machine 2
+2026-03-30 14:26:03:330	SUCCESS	Order 53714 sent to Machine 2
+2026-03-30 14:26:03:409	SUCCESS	Order 53715 sent to Machine 2
+2026-03-30 14:26:03:483	SUCCESS	Order 53715 sent to Machine 2
+2026-03-30 14:26:03:577	SUCCESS	Order 53759 sent to Machine 1
+2026-03-30 14:26:03:669	SUCCESS	Order 53765 sent to Machine 2
+2026-03-30 14:26:03:747	SUCCESS	Order 53765 sent to Machine 2
+2026-03-30 14:26:03:829	SUCCESS	Order 53765 sent to Machine 2
+2026-03-30 14:26:03:925	SUCCESS	Order 53766 sent to Machine 2
+2026-03-30 14:26:04:005	SUCCESS	Order 53767 sent to Machine 2
+2026-03-30 14:26:04:095	SUCCESS	Order 53767 sent to Machine 2
+2026-03-30 14:26:04:176	SUCCESS	Order 53768 sent to Machine 2
+2026-03-30 14:26:04:256	SUCCESS	Order 53768 sent to Machine 2
+2026-03-30 14:26:04:341	SUCCESS	Order 53768 sent to Machine 2
+2026-03-30 14:26:04:433	SUCCESS	Order 53769 sent to Machine 2
+2026-03-30 14:26:04:512	SUCCESS	Order 53770 sent to Machine 1
+2026-03-30 14:26:04:600	SUCCESS	Order 53770 sent to Machine 1
+2026-03-30 14:26:04:697	SUCCESS	Order 53771 sent to Machine 1
+2026-03-30 14:26:04:790	SUCCESS	Order 53771 sent to Machine 1
+2026-03-30 14:26:04:880	SUCCESS	Order 53772 sent to Machine 1
+2026-03-30 14:26:04:966	SUCCESS	Order 53772 sent to Machine 1
+2026-03-30 14:26:05:034	SUCCESS	Order 53772 sent to Machine 1
+2026-03-30 14:26:05:118	SUCCESS	Order 53771 sent to Machine 1
+2026-03-30 14:26:05:198	SUCCESS	Order 53773 sent to Machine 2
+2026-03-30 14:26:05:285	SUCCESS	Order 53773 sent to Machine 2
+2026-03-30 14:26:05:470	SUCCESS	Order 53773 sent to Machine 2
+2026-03-30 14:26:05:670	SUCCESS	Order 53774 sent to Machine 1
+2026-03-30 14:26:05:832	SUCCESS	Order 53774 sent to Machine 1
+2026-03-30 14:26:05:991	SUCCESS	Order 53774 sent to Machine 1
+2026-03-30 14:26:06:149	SUCCESS	Order 53775 sent to Machine 1
+2026-03-30 14:26:06:322	SUCCESS	Order 53776 sent to Machine 2
+2026-03-30 14:26:06:518	SUCCESS	Order 53776 sent to Machine 2
+2026-03-30 14:26:06:644	SUCCESS	Order 53776 sent to Machine 2
+2026-03-30 14:26:06:786	SUCCESS	Order 53777 sent to Machine 2
+2026-03-30 14:26:06:939	SUCCESS	Order 53777 sent to Machine 2
+2026-03-30 14:26:07:082	SUCCESS	Order 53778 sent to Machine 2
+2026-03-30 14:26:07:213	SUCCESS	Order 53778 sent to Machine 2
+2026-03-30 14:26:07:374	SUCCESS	Order 53778 sent to Machine 2
+2026-03-30 14:26:07:523	SUCCESS	Order 53779 sent to Machine 1
+2026-03-30 14:26:07:680	SUCCESS	Order 53779 sent to Machine 1
+2026-03-30 14:26:07:838	SUCCESS	Order 53757 sent to Machine 1
+2026-03-30 14:26:07:986	SUCCESS	Order 53772 sent to Machine 1
+2026-03-30 14:26:08:138	SUCCESS	Order 53747 sent to Machine 1
+2026-03-30 14:26:08:267	SUCCESS	Order 53747 sent to Machine 1
+2026-03-30 14:26:08:433	SUCCESS	Order 53730 sent to Machine 2
+2026-03-30 14:26:08:580	SUCCESS	Order 53780 sent to Machine 2
+2026-03-30 14:26:08:716	SUCCESS	Order 53760 sent to Machine 2
+2026-03-30 14:26:08:875	SUCCESS	Order 53760 sent to Machine 2
+2026-03-30 14:26:09:035	SUCCESS	Order 53719 sent to Machine 2
+2026-03-30 14:26:09:153	SUCCESS	Order 53781 sent to Machine 2
+2026-03-30 14:26:09:297	SUCCESS	Order 53735 sent to Machine 1
+2026-03-30 14:26:09:445	SUCCESS	Order 53731 sent to Machine 1
+2026-03-30 14:26:09:576	SUCCESS	Order 53782 sent to Machine 1
+2026-03-30 14:26:09:714	SUCCESS	Order 53782 sent to Machine 1
+2026-03-30 14:26:09:857	SUCCESS	Order 53783 sent to Machine 2
+2026-03-30 14:26:10:013	SUCCESS	Order 53783 sent to Machine 2
+2026-03-30 14:26:10:174	SUCCESS	Order 53783 sent to Machine 2
+2026-03-30 14:26:10:295	SUCCESS	Order 53783 sent to Machine 2
+2026-03-30 14:26:10:446	SUCCESS	Order 53784 sent to Machine 1
+2026-03-30 14:26:10:537	SUCCESS	Order 53784 sent to Machine 1
+2026-03-30 14:26:10:624	SUCCESS	Order 53784 sent to Machine 1
+2026-03-30 14:26:10:720	SUCCESS	Order 53784 sent to Machine 1
+2026-03-30 14:26:10:809	SUCCESS	Order 53784 sent to Machine 1
+2026-03-30 14:26:10:889	SUCCESS	Order 53784 sent to Machine 1
+2026-03-30 14:26:10:969	SUCCESS	Order 53785 sent to Machine 1
+2026-03-30 14:26:11:068	SUCCESS	Order 53717 sent to Machine 2
+2026-03-30 14:26:11:167	SUCCESS	Order 53718 sent to Machine 2
+2026-03-30 14:26:11:256	SUCCESS	Order 53718 sent to Machine 2
+2026-03-30 14:26:11:343	SUCCESS	Order 53719 sent to Machine 2
+2026-03-30 14:26:11:436	SUCCESS	Order 53719 sent to Machine 2
+2026-03-30 14:26:11:528	SUCCESS	Order 53719 sent to Machine 2
+2026-03-30 14:26:11:617	SUCCESS	Order 53719 sent to Machine 2
+2026-03-30 14:26:11:692	SUCCESS	Order 53719 sent to Machine 2
+2026-03-30 14:26:11:784	SUCCESS	Order 53720 sent to Machine 1
+2026-03-30 14:26:11:874	SUCCESS	Order 53720 sent to Machine 1
+2026-03-30 14:26:11:967	SUCCESS	Order 53720 sent to Machine 1
+2026-03-30 14:26:12:055	SUCCESS	Order 53720 sent to Machine 1
+2026-03-30 14:26:12:135	SUCCESS	Order 53720 sent to Machine 1
+2026-03-30 14:26:12:210	SUCCESS	Order 53785 sent to Machine 1
+2026-03-30 14:26:12:288	SUCCESS	Order 53785 sent to Machine 1
+2026-03-30 14:26:12:368	SUCCESS	Order 53786 sent to Machine 1
+2026-03-30 14:26:12:462	SUCCESS	Order 53786 sent to Machine 1
+2026-03-30 14:26:12:546	SUCCESS	Order 53717 sent to Machine 2
+2026-03-30 14:26:12:651	SUCCESS	Order 53787 sent to Machine 2
+2026-03-30 14:26:12:724	SUCCESS	Order 53766 sent to Machine 2
+2026-03-30 14:26:12:829	SUCCESS	Order 53755 sent to Machine 1
+2026-03-30 14:26:12:927	SUCCESS	Order 53735 sent to Machine 1
+2026-03-30 14:26:13:015	SUCCESS	Order 53735 sent to Machine 1
+2026-03-30 14:26:13:118	SUCCESS	Order 53735 sent to Machine 1
+2026-03-30 14:26:13:196	SUCCESS	Order 53788 sent to Machine 2
+2026-03-30 14:26:13:274	SUCCESS	Order 53788 sent to Machine 2
+2026-03-30 14:26:13:375	SUCCESS	Order 53721 sent to Machine 2
+2026-03-30 14:26:13:451	SUCCESS	Order 53721 sent to Machine 2
+2026-03-30 14:26:13:537	SUCCESS	Order 53722 sent to Machine 1
+2026-03-30 14:26:13:624	SUCCESS	Order 53723 sent to Machine 2
+2026-03-30 14:26:13:717	SUCCESS	Order 53711 sent to Machine 2
+2026-03-30 14:26:13:801	SUCCESS	Order 53724 sent to Machine 1
+2026-03-30 14:26:13:897	SUCCESS	Order 53725 sent to Machine 2
+2026-03-30 14:26:13:967	SUCCESS	Order 53725 sent to Machine 2
+2026-03-30 14:26:14:047	SUCCESS	Order 53725 sent to Machine 2
+2026-03-30 14:26:14:136	SUCCESS	Order 53725 sent to Machine 2
+2026-03-30 14:26:14:228	SUCCESS	Order 53725 sent to Machine 2
+2026-03-30 14:26:14:334	SUCCESS	Order 53726 sent to Machine 2
+2026-03-30 14:26:14:421	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 14:26:24:467	ERROR	Cannot open database "SECUILL_V5_" requested by the login. The login failed. Login failed for user 'sa'.	md.Fill()
+2026-03-30 14:26:34:504	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 14:27:34:709	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 14:28:26:994	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 15:34:49:400	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 15:34:50:178	EVENT	พบงานรอส่งรวมทุกตู้: 252	cls_getmiddletosecuill.RunProcess()
+2026-03-30 15:34:50:343	SUCCESS	Order 53716 sent to Machine 2
+2026-03-30 15:34:50:424	SUCCESS	Order 53745 sent to Machine 2
+2026-03-30 15:34:50:503	SUCCESS	Order 53750 sent to Machine 2
+2026-03-30 15:34:50:577	SUCCESS	Order 53749 sent to Machine 2
+2026-03-30 15:34:50:671	SUCCESS	Order 53754 sent to Machine 2
+2026-03-30 15:34:50:843	SUCCESS	Order 53758 sent to Machine 1
+2026-03-30 15:34:50:932	SUCCESS	Order 53761 sent to Machine 2
+2026-03-30 15:34:51:017	SUCCESS	Order 53746 sent to Machine 1
+2026-03-30 15:34:51:098	SUCCESS	Order 53770 sent to Machine 1
+2026-03-30 15:34:51:185	SUCCESS	Order 53775 sent to Machine 1
+2026-03-30 15:34:51:263	SUCCESS	Order 53740 sent to Machine 1
+2026-03-30 15:34:51:346	SUCCESS	Order 53796 sent to Machine 1
+2026-03-30 15:34:51:424	SUCCESS	Order 53800 sent to Machine 2
+2026-03-30 15:34:51:528	SUCCESS	Order 53758 sent to Machine 1
+2026-03-30 15:34:51:613	SUCCESS	Order 53804 sent to Machine 1
+2026-03-30 15:34:51:693	SUCCESS	Order 53761 sent to Machine 2
+2026-03-30 15:34:51:767	SUCCESS	Order 53808 sent to Machine 1
+2026-03-30 15:34:51:858	SUCCESS	Order 53746 sent to Machine 1
+2026-03-30 15:34:51:954	SUCCESS	Order 53817 sent to Machine 1
+2026-03-30 15:34:52:044	SUCCESS	Order 53817 sent to Machine 1
+2026-03-30 15:34:52:129	SUCCESS	Order 53818 sent to Machine 1
+2026-03-30 15:34:52:223	SUCCESS	Order 53819 sent to Machine 1
+2026-03-30 15:34:52:334	SUCCESS	Order 53820 sent to Machine 1
+2026-03-30 15:34:52:431	SUCCESS	Order 53789 sent to Machine 2
+2026-03-30 15:34:52:509	SUCCESS	Order 53789 sent to Machine 2
+2026-03-30 15:34:52:579	SUCCESS	Order 53790 sent to Machine 1
+2026-03-30 15:34:52:652	SUCCESS	Order 53790 sent to Machine 1
+2026-03-30 15:34:52:731	SUCCESS	Order 53790 sent to Machine 1
+2026-03-30 15:34:52:799	SUCCESS	Order 53791 sent to Machine 1
+2026-03-30 15:34:52:878	SUCCESS	Order 53791 sent to Machine 1
+2026-03-30 15:34:52:954	SUCCESS	Order 53791 sent to Machine 1
+2026-03-30 15:34:53:044	SUCCESS	Order 53792 sent to Machine 2
+2026-03-30 15:34:53:126	SUCCESS	Order 53792 sent to Machine 2
+2026-03-30 15:34:53:206	SUCCESS	Order 53740 sent to Machine 1
+2026-03-30 15:34:53:292	SUCCESS	Order 53774 sent to Machine 1
+2026-03-30 15:34:53:409	SUCCESS	Order 53793 sent to Machine 2
+2026-03-30 15:34:53:507	SUCCESS	Order 53793 sent to Machine 2
+2026-03-30 15:34:53:602	SUCCESS	Order 53793 sent to Machine 2
+2026-03-30 15:34:53:676	SUCCESS	Order 53793 sent to Machine 2
+2026-03-30 15:34:53:753	SUCCESS	Order 53794 sent to Machine 2
+2026-03-30 15:34:53:855	SUCCESS	Order 53794 sent to Machine 2
+2026-03-30 15:34:53:943	SUCCESS	Order 53795 sent to Machine 2
+2026-03-30 15:34:54:017	SUCCESS	Order 53795 sent to Machine 2
+2026-03-30 15:34:54:098	SUCCESS	Order 53795 sent to Machine 2
+2026-03-30 15:34:54:174	SUCCESS	Order 53796 sent to Machine 1
+2026-03-30 15:34:54:252	SUCCESS	Order 53796 sent to Machine 1
+2026-03-30 15:34:54:336	SUCCESS	Order 53794 sent to Machine 2
+2026-03-30 15:34:54:435	SUCCESS	Order 53797 sent to Machine 1
+2026-03-30 15:34:54:512	SUCCESS	Order 53797 sent to Machine 1
+2026-03-30 15:34:54:604	SUCCESS	Order 53797 sent to Machine 1
+2026-03-30 15:34:54:692	SUCCESS	Order 53797 sent to Machine 1
+2026-03-30 15:34:54:765	SUCCESS	Order 53797 sent to Machine 1
+2026-03-30 15:34:54:846	SUCCESS	Order 53797 sent to Machine 1
+2026-03-30 15:34:54:927	SUCCESS	Order 53798 sent to Machine 1
+2026-03-30 15:34:55:015	SUCCESS	Order 53798 sent to Machine 1
+2026-03-30 15:34:55:089	SUCCESS	Order 53798 sent to Machine 1
+2026-03-30 15:34:55:190	SUCCESS	Order 53799 sent to Machine 2
+2026-03-30 15:34:55:273	SUCCESS	Order 53800 sent to Machine 2
+2026-03-30 15:34:55:360	SUCCESS	Order 53800 sent to Machine 2
+2026-03-30 15:34:55:435	SUCCESS	Order 53742 sent to Machine 2
+2026-03-30 15:34:55:512	SUCCESS	Order 53742 sent to Machine 2
+2026-03-30 15:34:55:598	SUCCESS	Order 53799 sent to Machine 2
+2026-03-30 15:34:55:685	SUCCESS	Order 53797 sent to Machine 1
+2026-03-30 15:34:55:767	SUCCESS	Order 53797 sent to Machine 1
+2026-03-30 15:34:55:861	SUCCESS	Order 53801 sent to Machine 2
+2026-03-30 15:34:55:932	SUCCESS	Order 53801 sent to Machine 2
+2026-03-30 15:34:56:022	SUCCESS	Order 53798 sent to Machine 1
+2026-03-30 15:34:56:129	SUCCESS	Order 53771 sent to Machine 1
+2026-03-30 15:34:56:228	SUCCESS	Order 53758 sent to Machine 1
+2026-03-30 15:34:56:304	SUCCESS	Order 53802 sent to Machine 2
+2026-03-30 15:34:56:379	SUCCESS	Order 53802 sent to Machine 2
+2026-03-30 15:34:56:456	SUCCESS	Order 53802 sent to Machine 2
+2026-03-30 15:34:56:554	SUCCESS	Order 53803 sent to Machine 2
+2026-03-30 15:34:56:641	SUCCESS	Order 53803 sent to Machine 2
+2026-03-30 15:34:56:738	SUCCESS	Order 53803 sent to Machine 2
+2026-03-30 15:34:56:820	SUCCESS	Order 53803 sent to Machine 2
+2026-03-30 15:34:56:900	SUCCESS	Order 53804 sent to Machine 1
+2026-03-30 15:34:56:984	SUCCESS	Order 53804 sent to Machine 1
+2026-03-30 15:34:57:078	SUCCESS	Order 53804 sent to Machine 1
+2026-03-30 15:34:57:170	SUCCESS	Order 53804 sent to Machine 1
+2026-03-30 15:34:57:256	SUCCESS	Order 53804 sent to Machine 1
+2026-03-30 15:34:57:336	SUCCESS	Order 53804 sent to Machine 1
+2026-03-30 15:34:57:416	SUCCESS	Order 53804 sent to Machine 1
+2026-03-30 15:34:57:494	SUCCESS	Order 53748 sent to Machine 2
+2026-03-30 15:34:57:561	SUCCESS	Order 53748 sent to Machine 2
+2026-03-30 15:34:57:680	SUCCESS	Order 53733 sent to Machine 2
+2026-03-30 15:34:57:769	SUCCESS	Order 53733 sent to Machine 2
+2026-03-30 15:34:57:874	SUCCESS	Order 53733 sent to Machine 2
+2026-03-30 15:34:57:968	SUCCESS	Order 53761 sent to Machine 2
+2026-03-30 15:34:58:060	SUCCESS	Order 53805 sent to Machine 2
+2026-03-30 15:34:58:148	SUCCESS	Order 53805 sent to Machine 2
+2026-03-30 15:34:58:215	SUCCESS	Order 53805 sent to Machine 2
+2026-03-30 15:34:58:309	SUCCESS	Order 53806 sent to Machine 2
+2026-03-30 15:34:58:389	SUCCESS	Order 53806 sent to Machine 2
+2026-03-30 15:34:58:466	SUCCESS	Order 53806 sent to Machine 2
+2026-03-30 15:34:58:556	SUCCESS	Order 53807 sent to Machine 2
+2026-03-30 15:34:58:634	SUCCESS	Order 53808 sent to Machine 1
+2026-03-30 15:34:58:718	SUCCESS	Order 53808 sent to Machine 1
+2026-03-30 15:34:58:802	SUCCESS	Order 53809 sent to Machine 1
+2026-03-30 15:34:58:900	SUCCESS	Order 53809 sent to Machine 1
+2026-03-30 15:34:58:991	SUCCESS	Order 53809 sent to Machine 1
+2026-03-30 15:34:59:074	SUCCESS	Order 53810 sent to Machine 1
+2026-03-30 15:34:59:165	SUCCESS	Order 53810 sent to Machine 1
+2026-03-30 15:34:59:261	SUCCESS	Order 53810 sent to Machine 1
+2026-03-30 15:34:59:347	SUCCESS	Order 53793 sent to Machine 2
+2026-03-30 15:34:59:453	SUCCESS	Order 53793 sent to Machine 2
+2026-03-30 15:34:59:555	SUCCESS	Order 53793 sent to Machine 2
+2026-03-30 15:34:59:642	SUCCESS	Order 53793 sent to Machine 2
+2026-03-30 15:34:59:730	SUCCESS	Order 53746 sent to Machine 1
+2026-03-30 15:34:59:808	SUCCESS	Order 53746 sent to Machine 1
+2026-03-30 15:34:59:901	SUCCESS	Order 53811 sent to Machine 1
+2026-03-30 15:34:59:981	SUCCESS	Order 53812 sent to Machine 1
+2026-03-30 15:35:00:076	SUCCESS	Order 53813 sent to Machine 1
+2026-03-30 15:35:00:156	SUCCESS	Order 53813 sent to Machine 1
+2026-03-30 15:35:00:242	SUCCESS	Order 53814 sent to Machine 1
+2026-03-30 15:35:00:347	SUCCESS	Order 53814 sent to Machine 1
+2026-03-30 15:35:00:452	SUCCESS	Order 53815 sent to Machine 1
+2026-03-30 15:35:00:548	SUCCESS	Order 53815 sent to Machine 1
+2026-03-30 15:35:00:636	SUCCESS	Order 53815 sent to Machine 1
+2026-03-30 15:35:00:721	SUCCESS	Order 53816 sent to Machine 1
+2026-03-30 15:35:00:823	SUCCESS	Order 53816 sent to Machine 1
+2026-03-30 15:35:00:908	SUCCESS	Order 53817 sent to Machine 1
+2026-03-30 15:35:00:997	SUCCESS	Order 53727 sent to Machine 2
+2026-03-30 15:35:01:091	SUCCESS	Order 53727 sent to Machine 2
+2026-03-30 15:35:01:177	SUCCESS	Order 53727 sent to Machine 2
+2026-03-30 15:35:01:260	SUCCESS	Order 53728 sent to Machine 2
+2026-03-30 15:35:01:343	SUCCESS	Order 53728 sent to Machine 2
+2026-03-30 15:35:01:427	SUCCESS	Order 53729 sent to Machine 2
+2026-03-30 15:35:01:516	SUCCESS	Order 53729 sent to Machine 2
+2026-03-30 15:35:01:601	SUCCESS	Order 53729 sent to Machine 2
+2026-03-30 15:35:01:667	SUCCESS	Order 53729 sent to Machine 2
+2026-03-30 15:35:01:758	SUCCESS	Order 53732 sent to Machine 2
+2026-03-30 15:35:01:838	SUCCESS	Order 53733 sent to Machine 2
+2026-03-30 15:35:01:946	SUCCESS	Order 53734 sent to Machine 2
+2026-03-30 15:35:02:016	SUCCESS	Order 53734 sent to Machine 2
+2026-03-30 15:35:02:110	SUCCESS	Order 53736 sent to Machine 2
+2026-03-30 15:35:02:207	SUCCESS	Order 53736 sent to Machine 2
+2026-03-30 15:35:02:284	SUCCESS	Order 53736 sent to Machine 2
+2026-03-30 15:35:02:369	SUCCESS	Order 53736 sent to Machine 2
+2026-03-30 15:35:02:453	SUCCESS	Order 53737 sent to Machine 2
+2026-03-30 15:35:02:540	SUCCESS	Order 53738 sent to Machine 2
+2026-03-30 15:35:02:648	SUCCESS	Order 53738 sent to Machine 2
+2026-03-30 15:35:02:742	SUCCESS	Order 53739 sent to Machine 2
+2026-03-30 15:35:02:826	SUCCESS	Order 53739 sent to Machine 2
+2026-03-30 15:35:02:902	SUCCESS	Order 53739 sent to Machine 2
+2026-03-30 15:35:02:999	SUCCESS	Order 53740 sent to Machine 1
+2026-03-30 15:35:03:095	SUCCESS	Order 53741 sent to Machine 2
+2026-03-30 15:35:03:191	SUCCESS	Order 53741 sent to Machine 2
+2026-03-30 15:35:03:293	SUCCESS	Order 53742 sent to Machine 2
+2026-03-30 15:35:03:394	SUCCESS	Order 53743 sent to Machine 2
+2026-03-30 15:35:03:480	SUCCESS	Order 53744 sent to Machine 2
+2026-03-30 15:35:03:571	SUCCESS	Order 53745 sent to Machine 2
+2026-03-30 15:35:03:671	SUCCESS	Order 53746 sent to Machine 1
+2026-03-30 15:35:03:739	SUCCESS	Order 53746 sent to Machine 1
+2026-03-30 15:35:03:830	SUCCESS	Order 53732 sent to Machine 2
+2026-03-30 15:35:03:920	SUCCESS	Order 53732 sent to Machine 2
+2026-03-30 15:35:04:011	SUCCESS	Order 53748 sent to Machine 2
+2026-03-30 15:35:04:104	SUCCESS	Order 53748 sent to Machine 2
+2026-03-30 15:35:04:179	SUCCESS	Order 53749 sent to Machine 2
+2026-03-30 15:35:04:276	SUCCESS	Order 53749 sent to Machine 2
+2026-03-30 15:35:04:364	SUCCESS	Order 53749 sent to Machine 2
+2026-03-30 15:35:04:460	SUCCESS	Order 53750 sent to Machine 2
+2026-03-30 15:35:04:552	SUCCESS	Order 53750 sent to Machine 2
+2026-03-30 15:35:04:650	SUCCESS	Order 53750 sent to Machine 2
+2026-03-30 15:35:04:742	SUCCESS	Order 53751 sent to Machine 1
+2026-03-30 15:35:04:823	SUCCESS	Order 53751 sent to Machine 1
+2026-03-30 15:35:04:905	SUCCESS	Order 53716 sent to Machine 2
+2026-03-30 15:35:04:994	SUCCESS	Order 53744 sent to Machine 2
+2026-03-30 15:35:05:073	SUCCESS	Order 53744 sent to Machine 2
+2026-03-30 15:35:05:148	SUCCESS	Order 53744 sent to Machine 2
+2026-03-30 15:35:05:240	SUCCESS	Order 53744 sent to Machine 2
+2026-03-30 15:35:05:325	SUCCESS	Order 53709 sent to Machine 2
+2026-03-30 15:35:05:402	SUCCESS	Order 53742 sent to Machine 2
+2026-03-30 15:35:05:492	SUCCESS	Order 53749 sent to Machine 2
+2026-03-30 15:35:05:567	SUCCESS	Order 53749 sent to Machine 2
+2026-03-30 15:35:05:658	SUCCESS	Order 53746 sent to Machine 1
+2026-03-30 15:35:05:753	SUCCESS	Order 53752 sent to Machine 2
+2026-03-30 15:35:05:852	SUCCESS	Order 53753 sent to Machine 2
+2026-03-30 15:35:05:932	SUCCESS	Order 53753 sent to Machine 2
+2026-03-30 15:35:06:027	SUCCESS	Order 53753 sent to Machine 2
+2026-03-30 15:35:06:112	SUCCESS	Order 53753 sent to Machine 2
+2026-03-30 15:35:06:192	SUCCESS	Order 53753 sent to Machine 2
+2026-03-30 15:35:06:273	SUCCESS	Order 53753 sent to Machine 2
+2026-03-30 15:35:06:350	SUCCESS	Order 53753 sent to Machine 2
+2026-03-30 15:35:06:429	SUCCESS	Order 53754 sent to Machine 2
+2026-03-30 15:35:06:517	SUCCESS	Order 53754 sent to Machine 2
+2026-03-30 15:35:06:613	SUCCESS	Order 53715 sent to Machine 2
+2026-03-30 15:35:06:691	SUCCESS	Order 53714 sent to Machine 2
+2026-03-30 15:35:06:764	SUCCESS	Order 53756 sent to Machine 2
+2026-03-30 15:35:06:847	SUCCESS	Order 53756 sent to Machine 2
+2026-03-30 15:35:06:921	SUCCESS	Order 53756 sent to Machine 2
+2026-03-30 15:35:06:987	SUCCESS	Order 53756 sent to Machine 2
+2026-03-30 15:35:07:079	SUCCESS	Order 53737 sent to Machine 2
+2026-03-30 15:35:07:173	SUCCESS	Order 53737 sent to Machine 2
+2026-03-30 15:35:07:272	SUCCESS	Order 53737 sent to Machine 2
+2026-03-30 15:35:07:350	SUCCESS	Order 53758 sent to Machine 1
+2026-03-30 15:35:07:439	SUCCESS	Order 53758 sent to Machine 1
+2026-03-30 15:35:07:511	SUCCESS	Order 53710 sent to Machine 2
+2026-03-30 15:35:07:608	SUCCESS	Order 53759 sent to Machine 1
+2026-03-30 15:35:07:686	SUCCESS	Order 53709 sent to Machine 2
+2026-03-30 15:35:07:774	SUCCESS	Order 53736 sent to Machine 2
+2026-03-30 15:35:07:850	SUCCESS	Order 53748 sent to Machine 2
+2026-03-30 15:35:07:934	SUCCESS	Order 53734 sent to Machine 2
+2026-03-30 15:35:08:011	SUCCESS	Order 53710 sent to Machine 2
+2026-03-30 15:35:08:101	SUCCESS	Order 53762 sent to Machine 1
+2026-03-30 15:35:08:192	SUCCESS	Order 53762 sent to Machine 1
+2026-03-30 15:35:08:272	SUCCESS	Order 53762 sent to Machine 1
+2026-03-30 15:35:08:359	SUCCESS	Order 53759 sent to Machine 1
+2026-03-30 15:35:08:498	SUCCESS	Order 53759 sent to Machine 1
+2026-03-30 15:35:08:691	SUCCESS	Order 53763 sent to Machine 1
+2026-03-30 15:35:08:875	SUCCESS	Order 53763 sent to Machine 1
+2026-03-30 15:35:09:011	SUCCESS	Order 53763 sent to Machine 1
+2026-03-30 15:35:09:177	SUCCESS	Order 53759 sent to Machine 1
+2026-03-30 15:35:09:341	SUCCESS	Order 53763 sent to Machine 1
+2026-03-30 15:35:09:485	SUCCESS	Order 53764 sent to Machine 1
+2026-03-30 15:35:09:639	SUCCESS	Order 53764 sent to Machine 1
+2026-03-30 15:35:09:775	SUCCESS	Order 53764 sent to Machine 1
+2026-03-30 15:35:09:948	SUCCESS	Order 53709 sent to Machine 2
+2026-03-30 15:35:10:059	SUCCESS	Order 53710 sent to Machine 2
+2026-03-30 15:35:10:199	SUCCESS	Order 53712 sent to Machine 2
+2026-03-30 15:35:10:352	SUCCESS	Order 53712 sent to Machine 2
+2026-03-30 15:35:10:495	SUCCESS	Order 53713 sent to Machine 2
+2026-03-30 15:35:10:603	SUCCESS	Order 53713 sent to Machine 2
+2026-03-30 15:35:10:757	SUCCESS	Order 53714 sent to Machine 2
+2026-03-30 15:35:10:914	SUCCESS	Order 53714 sent to Machine 2
+2026-03-30 15:35:11:054	SUCCESS	Order 53715 sent to Machine 2
+2026-03-30 15:35:11:207	SUCCESS	Order 53715 sent to Machine 2
+2026-03-30 15:35:11:390	SUCCESS	Order 53759 sent to Machine 1
+2026-03-30 15:35:11:566	SUCCESS	Order 53765 sent to Machine 2
+2026-03-30 15:35:11:722	SUCCESS	Order 53765 sent to Machine 2
+2026-03-30 15:35:11:849	SUCCESS	Order 53765 sent to Machine 2
+2026-03-30 15:35:12:006	SUCCESS	Order 53767 sent to Machine 2
+2026-03-30 15:35:12:149	SUCCESS	Order 53767 sent to Machine 2
+2026-03-30 15:35:12:295	SUCCESS	Order 53768 sent to Machine 2
+2026-03-30 15:35:12:445	SUCCESS	Order 53768 sent to Machine 2
+2026-03-30 15:35:12:599	SUCCESS	Order 53768 sent to Machine 2
+2026-03-30 15:35:12:741	SUCCESS	Order 53769 sent to Machine 2
+2026-03-30 15:35:12:899	SUCCESS	Order 53770 sent to Machine 1
+2026-03-30 15:35:13:029	SUCCESS	Order 53770 sent to Machine 1
+2026-03-30 15:35:13:178	SUCCESS	Order 53771 sent to Machine 1
+2026-03-30 15:35:13:308	SUCCESS	Order 53771 sent to Machine 1
+2026-03-30 15:35:13:449	SUCCESS	Order 53771 sent to Machine 1
+2026-03-30 15:35:13:598	SUCCESS	Order 53773 sent to Machine 2
+2026-03-30 15:35:13:680	SUCCESS	Order 53773 sent to Machine 2
+2026-03-30 15:35:13:755	SUCCESS	Order 53773 sent to Machine 2
+2026-03-30 15:35:13:841	SUCCESS	Order 53774 sent to Machine 1
+2026-03-30 15:35:13:926	SUCCESS	Order 53774 sent to Machine 1
+2026-03-30 15:35:14:002	SUCCESS	Order 53774 sent to Machine 1
+2026-03-30 15:35:14:088	SUCCESS	Order 53775 sent to Machine 1
+2026-03-30 15:35:14:183	SUCCESS	Order 53776 sent to Machine 2
+2026-03-30 15:35:14:281	SUCCESS	Order 53776 sent to Machine 2
+2026-03-30 15:35:14:355	SUCCESS	Order 53776 sent to Machine 2
+2026-03-30 15:35:14:440	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 15:35:24:475	ERROR	Cannot open database "SECUILL_V5_" requested by the login. The login failed. Login failed for user 'sa'.	md.Fill()
+2026-03-30 15:35:34:502	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 15:36:34:591	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 15:37:34:755	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 15:38:34:920	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 15:39:25:493	EVENT	พบงานรอส่งรวมทุกตู้: 252	cls_getmiddletosecuill.RunProcess()
+2026-03-30 15:39:25:645	SUCCESS	Order 53716 sent to Machine 2
+2026-03-30 15:39:25:740	SUCCESS	Order 53745 sent to Machine 2
+2026-03-30 15:39:25:833	SUCCESS	Order 53750 sent to Machine 2
+2026-03-30 15:39:25:935	SUCCESS	Order 53749 sent to Machine 2
+2026-03-30 15:39:26:044	SUCCESS	Order 53754 sent to Machine 2
+2026-03-30 15:39:26:235	SUCCESS	Order 53758 sent to Machine 1
+2026-03-30 15:39:26:341	SUCCESS	Order 53761 sent to Machine 2
+2026-03-30 15:39:26:455	SUCCESS	Order 53746 sent to Machine 1
+2026-03-30 15:39:26:545	SUCCESS	Order 53770 sent to Machine 1
+2026-03-30 15:39:26:644	SUCCESS	Order 53775 sent to Machine 1
+2026-03-30 15:39:26:756	SUCCESS	Order 53740 sent to Machine 1
+2026-03-30 15:39:26:869	SUCCESS	Order 53796 sent to Machine 1
+2026-03-30 15:39:26:971	SUCCESS	Order 53800 sent to Machine 2
+2026-03-30 15:39:27:054	SUCCESS	Order 53758 sent to Machine 1
+2026-03-30 15:39:27:155	SUCCESS	Order 53804 sent to Machine 1
+2026-03-30 15:39:27:239	SUCCESS	Order 53761 sent to Machine 2
+2026-03-30 15:39:27:327	SUCCESS	Order 53808 sent to Machine 1
+2026-03-30 15:39:27:421	SUCCESS	Order 53746 sent to Machine 1
+2026-03-30 15:39:27:527	SUCCESS	Order 53817 sent to Machine 1
+2026-03-30 15:39:27:633	SUCCESS	Order 53817 sent to Machine 1
+2026-03-30 15:39:27:727	SUCCESS	Order 53818 sent to Machine 1
+2026-03-30 15:39:27:828	SUCCESS	Order 53819 sent to Machine 1
+2026-03-30 15:39:27:929	SUCCESS	Order 53820 sent to Machine 1
+2026-03-30 15:39:28:040	SUCCESS	Order 53789 sent to Machine 2
+2026-03-30 15:39:28:134	SUCCESS	Order 53789 sent to Machine 2
+2026-03-30 15:39:28:228	SUCCESS	Order 53790 sent to Machine 1
+2026-03-30 15:39:28:335	SUCCESS	Order 53790 sent to Machine 1
+2026-03-30 15:39:28:420	SUCCESS	Order 53790 sent to Machine 1
+2026-03-30 15:39:28:525	SUCCESS	Order 53791 sent to Machine 1
+2026-03-30 15:39:28:617	SUCCESS	Order 53791 sent to Machine 1
+2026-03-30 15:39:28:708	SUCCESS	Order 53791 sent to Machine 1
+2026-03-30 15:39:28:835	SUCCESS	Order 53792 sent to Machine 2
+2026-03-30 15:39:28:919	SUCCESS	Order 53792 sent to Machine 2
+2026-03-30 15:39:29:026	SUCCESS	Order 53740 sent to Machine 1
+2026-03-30 15:39:29:108	SUCCESS	Order 53774 sent to Machine 1
+2026-03-30 15:39:29:204	SUCCESS	Order 53793 sent to Machine 2
+2026-03-30 15:39:29:310	SUCCESS	Order 53793 sent to Machine 2
+2026-03-30 15:39:29:401	SUCCESS	Order 53793 sent to Machine 2
+2026-03-30 15:39:29:492	SUCCESS	Order 53793 sent to Machine 2
+2026-03-30 15:39:29:584	SUCCESS	Order 53794 sent to Machine 2
+2026-03-30 15:39:29:680	SUCCESS	Order 53794 sent to Machine 2
+2026-03-30 15:39:29:771	SUCCESS	Order 53795 sent to Machine 2
+2026-03-30 15:39:29:858	SUCCESS	Order 53795 sent to Machine 2
+2026-03-30 15:39:29:953	SUCCESS	Order 53795 sent to Machine 2
+2026-03-30 15:39:30:042	SUCCESS	Order 53796 sent to Machine 1
+2026-03-30 15:39:30:139	SUCCESS	Order 53796 sent to Machine 1
+2026-03-30 15:39:30:233	SUCCESS	Order 53794 sent to Machine 2
+2026-03-30 15:39:30:338	SUCCESS	Order 53797 sent to Machine 1
+2026-03-30 15:39:30:437	SUCCESS	Order 53797 sent to Machine 1
+2026-03-30 15:39:30:529	SUCCESS	Order 53797 sent to Machine 1
+2026-03-30 15:39:30:621	SUCCESS	Order 53797 sent to Machine 1
+2026-03-30 15:39:30:712	SUCCESS	Order 53797 sent to Machine 1
+2026-03-30 15:39:56:749	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 15:39:57:519	EVENT	พบงานรอส่งรวมทุกตู้: 252	cls_getmiddletosecuill.RunProcess()
+2026-03-30 15:39:57:636	SUCCESS	Order 53716 sent to Machine 2
+2026-03-30 15:39:57:717	SUCCESS	Order 53745 sent to Machine 2
+2026-03-30 15:39:57:792	SUCCESS	Order 53750 sent to Machine 2
+2026-03-30 15:39:57:865	SUCCESS	Order 53749 sent to Machine 2
+2026-03-30 15:39:57:965	SUCCESS	Order 53754 sent to Machine 2
+2026-03-30 15:39:58:099	SUCCESS	Order 53758 sent to Machine 1
+2026-03-30 15:39:58:185	SUCCESS	Order 53761 sent to Machine 2
+2026-03-30 15:39:58:271	SUCCESS	Order 53746 sent to Machine 1
+2026-03-30 15:39:58:354	SUCCESS	Order 53770 sent to Machine 1
+2026-03-30 15:39:58:426	SUCCESS	Order 53775 sent to Machine 1
+2026-03-30 15:39:58:510	SUCCESS	Order 53740 sent to Machine 1
+2026-03-30 15:39:58:585	SUCCESS	Order 53796 sent to Machine 1
+2026-03-30 15:39:58:667	SUCCESS	Order 53800 sent to Machine 2
+2026-03-30 15:39:58:781	SUCCESS	Order 53758 sent to Machine 1
+2026-03-30 15:39:58:873	SUCCESS	Order 53804 sent to Machine 1
+2026-03-30 15:39:58:973	SUCCESS	Order 53761 sent to Machine 2
+2026-03-30 15:39:59:053	SUCCESS	Order 53808 sent to Machine 1
+2026-03-30 15:39:59:151	SUCCESS	Order 53746 sent to Machine 1
+2026-03-30 15:39:59:254	SUCCESS	Order 53817 sent to Machine 1
+2026-03-30 15:39:59:336	SUCCESS	Order 53817 sent to Machine 1
+2026-03-30 15:39:59:436	SUCCESS	Order 53818 sent to Machine 1
+2026-03-30 15:39:59:520	SUCCESS	Order 53819 sent to Machine 1
+2026-03-30 15:39:59:617	SUCCESS	Order 53820 sent to Machine 1
+2026-03-30 15:39:59:694	SUCCESS	Order 53789 sent to Machine 2
+2026-03-30 15:39:59:782	SUCCESS	Order 53789 sent to Machine 2
+2026-03-30 15:39:59:866	SUCCESS	Order 53790 sent to Machine 1
+2026-03-30 15:39:59:939	SUCCESS	Order 53790 sent to Machine 1
+2026-03-30 15:40:00:060	SUCCESS	Order 53790 sent to Machine 1
+2026-03-30 15:40:00:156	SUCCESS	Order 53791 sent to Machine 1
+2026-03-30 15:40:00:246	SUCCESS	Order 53791 sent to Machine 1
+2026-03-30 15:40:00:331	SUCCESS	Order 53791 sent to Machine 1
+2026-03-30 15:40:00:407	SUCCESS	Order 53792 sent to Machine 2
+2026-03-30 15:40:00:505	SUCCESS	Order 53792 sent to Machine 2
+2026-03-30 15:40:00:591	SUCCESS	Order 53740 sent to Machine 1
+2026-03-30 15:40:00:671	SUCCESS	Order 53774 sent to Machine 1
+2026-03-30 15:40:00:778	SUCCESS	Order 53793 sent to Machine 2
+2026-03-30 15:40:00:869	SUCCESS	Order 53793 sent to Machine 2
+2026-03-30 15:40:00:962	SUCCESS	Order 53793 sent to Machine 2
+2026-03-30 15:40:01:048	SUCCESS	Order 53793 sent to Machine 2
+2026-03-30 15:40:01:131	SUCCESS	Order 53794 sent to Machine 2
+2026-03-30 15:40:01:236	SUCCESS	Order 53794 sent to Machine 2
+2026-03-30 15:40:01:330	SUCCESS	Order 53795 sent to Machine 2
+2026-03-30 15:40:01:421	SUCCESS	Order 53795 sent to Machine 2
+2026-03-30 15:40:01:505	SUCCESS	Order 53795 sent to Machine 2
+2026-03-30 15:40:01:594	SUCCESS	Order 53796 sent to Machine 1
+2026-03-30 15:40:01:693	SUCCESS	Order 53796 sent to Machine 1
+2026-03-30 15:40:01:795	SUCCESS	Order 53794 sent to Machine 2
+2026-03-30 15:40:01:902	SUCCESS	Order 53797 sent to Machine 1
+2026-03-30 15:40:02:010	SUCCESS	Order 53797 sent to Machine 1
+2026-03-30 15:40:02:114	SUCCESS	Order 53797 sent to Machine 1
+2026-03-30 15:40:02:218	SUCCESS	Order 53797 sent to Machine 1
+2026-03-30 15:40:02:300	SUCCESS	Order 53797 sent to Machine 1
+2026-03-30 15:40:02:397	SUCCESS	Order 53797 sent to Machine 1
+2026-03-30 15:40:02:494	SUCCESS	Order 53798 sent to Machine 1
+2026-03-30 15:40:02:593	SUCCESS	Order 53798 sent to Machine 1
+2026-03-30 15:40:02:693	SUCCESS	Order 53798 sent to Machine 1
+2026-03-30 15:40:02:783	SUCCESS	Order 53799 sent to Machine 2
+2026-03-30 15:40:02:863	SUCCESS	Order 53800 sent to Machine 2
+2026-03-30 15:40:02:956	SUCCESS	Order 53800 sent to Machine 2
+2026-03-30 15:40:03:056	SUCCESS	Order 53742 sent to Machine 2
+2026-03-30 15:40:03:143	SUCCESS	Order 53742 sent to Machine 2
+2026-03-30 15:40:03:235	SUCCESS	Order 53799 sent to Machine 2
+2026-03-30 15:40:03:307	SUCCESS	Order 53797 sent to Machine 1
+2026-03-30 15:40:03:403	SUCCESS	Order 53797 sent to Machine 1
+2026-03-30 15:40:03:508	SUCCESS	Order 53801 sent to Machine 2
+2026-03-30 15:40:03:593	SUCCESS	Order 53801 sent to Machine 2
+2026-03-30 15:40:03:700	SUCCESS	Order 53798 sent to Machine 1
+2026-03-30 15:40:03:869	SUCCESS	Order 53771 sent to Machine 1
+2026-03-30 15:40:03:949	SUCCESS	Order 53758 sent to Machine 1
+2026-03-30 15:40:04:037	SUCCESS	Order 53802 sent to Machine 2
+2026-03-30 15:40:04:113	SUCCESS	Order 53802 sent to Machine 2
+2026-03-30 15:40:04:192	SUCCESS	Order 53802 sent to Machine 2
+2026-03-30 15:40:04:289	SUCCESS	Order 53803 sent to Machine 2
+2026-03-30 15:40:04:401	SUCCESS	Order 53803 sent to Machine 2
+2026-03-30 15:40:04:493	SUCCESS	Order 53803 sent to Machine 2
+2026-03-30 15:40:04:583	SUCCESS	Order 53803 sent to Machine 2
+2026-03-30 15:40:04:665	SUCCESS	Order 53804 sent to Machine 1
+2026-03-30 15:40:04:755	SUCCESS	Order 53804 sent to Machine 1
+2026-03-30 15:40:04:852	SUCCESS	Order 53804 sent to Machine 1
+2026-03-30 15:40:04:951	SUCCESS	Order 53804 sent to Machine 1
+2026-03-30 15:40:05:035	SUCCESS	Order 53804 sent to Machine 1
+2026-03-30 15:40:05:131	SUCCESS	Order 53804 sent to Machine 1
+2026-03-30 15:40:05:220	SUCCESS	Order 53804 sent to Machine 1
+2026-03-30 15:40:05:303	SUCCESS	Order 53748 sent to Machine 2
+2026-03-30 15:40:05:401	SUCCESS	Order 53748 sent to Machine 2
+2026-03-30 15:40:05:493	SUCCESS	Order 53733 sent to Machine 2
+2026-03-30 15:40:05:581	SUCCESS	Order 53733 sent to Machine 2
+2026-03-30 15:40:05:666	SUCCESS	Order 53733 sent to Machine 2
+2026-03-30 15:40:05:759	SUCCESS	Order 53761 sent to Machine 2
+2026-03-30 15:40:05:855	SUCCESS	Order 53805 sent to Machine 2
+2026-03-30 15:40:05:934	SUCCESS	Order 53805 sent to Machine 2
+2026-03-30 15:40:06:005	SUCCESS	Order 53805 sent to Machine 2
+2026-03-30 15:40:06:093	SUCCESS	Order 53806 sent to Machine 2
+2026-03-30 15:40:06:170	SUCCESS	Order 53806 sent to Machine 2
+2026-03-30 15:40:06:249	SUCCESS	Order 53806 sent to Machine 2
+2026-03-30 15:40:06:347	SUCCESS	Order 53807 sent to Machine 2
+2026-03-30 15:40:06:433	SUCCESS	Order 53808 sent to Machine 1
+2026-03-30 15:40:06:508	SUCCESS	Order 53808 sent to Machine 1
+2026-03-30 15:40:06:590	SUCCESS	Order 53809 sent to Machine 1
+2026-03-30 15:40:06:665	SUCCESS	Order 53809 sent to Machine 1
+2026-03-30 15:40:06:737	SUCCESS	Order 53809 sent to Machine 1
+2026-03-30 15:40:06:832	SUCCESS	Order 53810 sent to Machine 1
+2026-03-30 15:40:06:912	SUCCESS	Order 53810 sent to Machine 1
+2026-03-30 15:40:06:996	SUCCESS	Order 53810 sent to Machine 1
+2026-03-30 15:40:07:070	SUCCESS	Order 53793 sent to Machine 2
+2026-03-30 15:40:07:156	SUCCESS	Order 53793 sent to Machine 2
+2026-03-30 15:40:07:256	SUCCESS	Order 53793 sent to Machine 2
+2026-03-30 15:40:07:354	SUCCESS	Order 53793 sent to Machine 2
+2026-03-30 15:40:07:457	SUCCESS	Order 53746 sent to Machine 1
+2026-03-30 15:40:07:530	SUCCESS	Order 53746 sent to Machine 1
+2026-03-30 15:40:07:627	SUCCESS	Order 53811 sent to Machine 1
+2026-03-30 15:40:07:720	SUCCESS	Order 53812 sent to Machine 1
+2026-03-30 15:40:07:809	SUCCESS	Order 53813 sent to Machine 1
+2026-03-30 15:40:07:909	SUCCESS	Order 53813 sent to Machine 1
+2026-03-30 15:40:08:006	SUCCESS	Order 53814 sent to Machine 1
+2026-03-30 15:40:08:102	SUCCESS	Order 53814 sent to Machine 1
+2026-03-30 15:40:08:195	SUCCESS	Order 53815 sent to Machine 1
+2026-03-30 15:40:08:281	SUCCESS	Order 53815 sent to Machine 1
+2026-03-30 15:40:08:370	SUCCESS	Order 53815 sent to Machine 1
+2026-03-30 15:40:08:467	SUCCESS	Order 53816 sent to Machine 1
+2026-03-30 15:40:08:562	SUCCESS	Order 53816 sent to Machine 1
+2026-03-30 15:40:08:654	SUCCESS	Order 53817 sent to Machine 1
+2026-03-30 15:40:08:754	SUCCESS	Order 53727 sent to Machine 2
+2026-03-30 15:40:08:834	SUCCESS	Order 53727 sent to Machine 2
+2026-03-30 15:40:08:906	SUCCESS	Order 53727 sent to Machine 2
+2026-03-30 15:40:08:997	SUCCESS	Order 53728 sent to Machine 2
+2026-03-30 15:40:09:074	SUCCESS	Order 53728 sent to Machine 2
+2026-03-30 15:40:09:167	SUCCESS	Order 53729 sent to Machine 2
+2026-03-30 15:40:09:253	SUCCESS	Order 53729 sent to Machine 2
+2026-03-30 15:40:09:327	SUCCESS	Order 53729 sent to Machine 2
+2026-03-30 15:40:09:409	SUCCESS	Order 53729 sent to Machine 2
+2026-03-30 15:40:09:490	SUCCESS	Order 53732 sent to Machine 2
+2026-03-30 15:40:09:562	SUCCESS	Order 53733 sent to Machine 2
+2026-03-30 15:40:09:662	SUCCESS	Order 53734 sent to Machine 2
+2026-03-30 15:40:09:732	SUCCESS	Order 53734 sent to Machine 2
+2026-03-30 15:40:09:819	SUCCESS	Order 53736 sent to Machine 2
+2026-03-30 15:40:09:901	SUCCESS	Order 53736 sent to Machine 2
+2026-03-30 15:40:10:005	SUCCESS	Order 53736 sent to Machine 2
+2026-03-30 15:40:10:093	SUCCESS	Order 53736 sent to Machine 2
+2026-03-30 15:40:10:179	SUCCESS	Order 53737 sent to Machine 2
+2026-03-30 15:40:10:266	SUCCESS	Order 53738 sent to Machine 2
+2026-03-30 15:40:10:351	SUCCESS	Order 53738 sent to Machine 2
+2026-03-30 15:40:10:441	SUCCESS	Order 53739 sent to Machine 2
+2026-03-30 15:40:10:530	SUCCESS	Order 53739 sent to Machine 2
+2026-03-30 15:40:10:611	SUCCESS	Order 53739 sent to Machine 2
+2026-03-30 15:40:10:696	SUCCESS	Order 53740 sent to Machine 1
+2026-03-30 15:40:10:791	SUCCESS	Order 53741 sent to Machine 2
+2026-03-30 15:40:10:884	SUCCESS	Order 53741 sent to Machine 2
+2026-03-30 15:40:10:990	SUCCESS	Order 53742 sent to Machine 2
+2026-03-30 15:40:11:106	SUCCESS	Order 53743 sent to Machine 2
+2026-03-30 15:40:11:203	SUCCESS	Order 53744 sent to Machine 2
+2026-03-30 15:40:11:302	SUCCESS	Order 53745 sent to Machine 2
+2026-03-30 15:40:11:396	SUCCESS	Order 53746 sent to Machine 1
+2026-03-30 15:40:11:489	SUCCESS	Order 53746 sent to Machine 1
+2026-03-30 15:40:11:576	SUCCESS	Order 53732 sent to Machine 2
+2026-03-30 15:40:11:649	SUCCESS	Order 53732 sent to Machine 2
+2026-03-30 15:40:11:740	SUCCESS	Order 53748 sent to Machine 2
+2026-03-30 15:40:11:840	SUCCESS	Order 53748 sent to Machine 2
+2026-03-30 15:40:11:921	SUCCESS	Order 53749 sent to Machine 2
+2026-03-30 15:40:12:003	SUCCESS	Order 53749 sent to Machine 2
+2026-03-30 15:40:12:091	SUCCESS	Order 53749 sent to Machine 2
+2026-03-30 15:40:12:161	SUCCESS	Order 53750 sent to Machine 2
+2026-03-30 15:40:12:246	SUCCESS	Order 53750 sent to Machine 2
+2026-03-30 15:40:12:320	SUCCESS	Order 53750 sent to Machine 2
+2026-03-30 15:40:12:401	SUCCESS	Order 53751 sent to Machine 1
+2026-03-30 15:40:12:495	SUCCESS	Order 53751 sent to Machine 1
+2026-03-30 15:40:12:583	SUCCESS	Order 53716 sent to Machine 2
+2026-03-30 15:40:12:668	SUCCESS	Order 53744 sent to Machine 2
+2026-03-30 15:40:12:750	SUCCESS	Order 53744 sent to Machine 2
+2026-03-30 15:40:12:820	SUCCESS	Order 53744 sent to Machine 2
+2026-03-30 15:40:12:905	SUCCESS	Order 53744 sent to Machine 2
+2026-03-30 15:40:13:014	SUCCESS	Order 53709 sent to Machine 2
+2026-03-30 15:40:13:106	SUCCESS	Order 53742 sent to Machine 2
+2026-03-30 15:40:13:185	SUCCESS	Order 53749 sent to Machine 2
+2026-03-30 15:40:13:264	SUCCESS	Order 53749 sent to Machine 2
+2026-03-30 15:40:13:345	SUCCESS	Order 53746 sent to Machine 1
+2026-03-30 15:40:13:443	SUCCESS	Order 53752 sent to Machine 2
+2026-03-30 15:40:13:531	SUCCESS	Order 53753 sent to Machine 2
+2026-03-30 15:40:13:624	SUCCESS	Order 53753 sent to Machine 2
+2026-03-30 15:40:13:718	SUCCESS	Order 53753 sent to Machine 2
+2026-03-30 15:40:13:786	SUCCESS	Order 53753 sent to Machine 2
+2026-03-30 15:40:13:867	SUCCESS	Order 53753 sent to Machine 2
+2026-03-30 15:40:13:952	SUCCESS	Order 53753 sent to Machine 2
+2026-03-30 15:40:14:035	SUCCESS	Order 53753 sent to Machine 2
+2026-03-30 15:40:14:132	SUCCESS	Order 53754 sent to Machine 2
+2026-03-30 15:40:14:212	SUCCESS	Order 53754 sent to Machine 2
+2026-03-30 15:40:14:299	SUCCESS	Order 53715 sent to Machine 2
+2026-03-30 15:40:14:389	SUCCESS	Order 53714 sent to Machine 2
+2026-03-30 15:40:14:465	SUCCESS	Order 53756 sent to Machine 2
+2026-03-30 15:40:14:539	SUCCESS	Order 53756 sent to Machine 2
+2026-03-30 15:40:14:618	SUCCESS	Order 53756 sent to Machine 2
+2026-03-30 15:40:14:698	SUCCESS	Order 53756 sent to Machine 2
+2026-03-30 15:40:14:792	SUCCESS	Order 53737 sent to Machine 2
+2026-03-30 15:40:14:865	SUCCESS	Order 53737 sent to Machine 2
+2026-03-30 15:40:14:958	SUCCESS	Order 53737 sent to Machine 2
+2026-03-30 15:40:15:025	SUCCESS	Order 53758 sent to Machine 1
+2026-03-30 15:40:15:106	SUCCESS	Order 53758 sent to Machine 1
+2026-03-30 15:40:15:196	SUCCESS	Order 53710 sent to Machine 2
+2026-03-30 15:40:15:288	SUCCESS	Order 53759 sent to Machine 1
+2026-03-30 15:40:15:373	SUCCESS	Order 53709 sent to Machine 2
+2026-03-30 15:40:15:457	SUCCESS	Order 53736 sent to Machine 2
+2026-03-30 15:40:15:547	SUCCESS	Order 53748 sent to Machine 2
+2026-03-30 15:40:15:620	SUCCESS	Order 53734 sent to Machine 2
+2026-03-30 15:40:15:695	SUCCESS	Order 53710 sent to Machine 2
+2026-03-30 15:40:15:785	SUCCESS	Order 53762 sent to Machine 1
+2026-03-30 15:40:15:887	SUCCESS	Order 53762 sent to Machine 1
+2026-03-30 15:40:15:962	SUCCESS	Order 53762 sent to Machine 1
+2026-03-30 15:40:16:050	SUCCESS	Order 53759 sent to Machine 1
+2026-03-30 15:40:16:150	SUCCESS	Order 53759 sent to Machine 1
+2026-03-30 15:40:16:238	SUCCESS	Order 53763 sent to Machine 1
+2026-03-30 15:40:16:339	SUCCESS	Order 53763 sent to Machine 1
+2026-03-30 15:40:16:418	SUCCESS	Order 53763 sent to Machine 1
+2026-03-30 15:40:16:503	SUCCESS	Order 53759 sent to Machine 1
+2026-03-30 15:40:16:605	SUCCESS	Order 53763 sent to Machine 1
+2026-03-30 15:40:16:690	SUCCESS	Order 53764 sent to Machine 1
+2026-03-30 15:40:16:775	SUCCESS	Order 53764 sent to Machine 1
+2026-03-30 15:40:16:867	SUCCESS	Order 53764 sent to Machine 1
+2026-03-30 15:40:16:946	SUCCESS	Order 53709 sent to Machine 2
+2026-03-30 15:40:17:041	SUCCESS	Order 53710 sent to Machine 2
+2026-03-30 15:40:17:126	SUCCESS	Order 53712 sent to Machine 2
+2026-03-30 15:40:17:220	SUCCESS	Order 53712 sent to Machine 2
+2026-03-30 15:40:17:306	SUCCESS	Order 53713 sent to Machine 2
+2026-03-30 15:40:17:393	SUCCESS	Order 53713 sent to Machine 2
+2026-03-30 15:40:17:492	SUCCESS	Order 53714 sent to Machine 2
+2026-03-30 15:40:17:565	SUCCESS	Order 53714 sent to Machine 2
+2026-03-30 15:40:17:667	SUCCESS	Order 53715 sent to Machine 2
+2026-03-30 15:40:17:758	SUCCESS	Order 53715 sent to Machine 2
+2026-03-30 15:40:17:849	SUCCESS	Order 53759 sent to Machine 1
+2026-03-30 15:40:17:938	SUCCESS	Order 53765 sent to Machine 2
+2026-03-30 15:40:18:020	SUCCESS	Order 53765 sent to Machine 2
+2026-03-30 15:40:18:099	SUCCESS	Order 53765 sent to Machine 2
+2026-03-30 15:40:18:174	SUCCESS	Order 53767 sent to Machine 2
+2026-03-30 15:40:18:260	SUCCESS	Order 53767 sent to Machine 2
+2026-03-30 15:40:18:365	SUCCESS	Order 53768 sent to Machine 2
+2026-03-30 15:40:18:445	SUCCESS	Order 53768 sent to Machine 2
+2026-03-30 15:40:18:509	SUCCESS	Order 53768 sent to Machine 2
+2026-03-30 15:40:18:587	SUCCESS	Order 53769 sent to Machine 2
+2026-03-30 15:40:18:683	SUCCESS	Order 53770 sent to Machine 1
+2026-03-30 15:40:18:764	SUCCESS	Order 53770 sent to Machine 1
+2026-03-30 15:40:18:847	SUCCESS	Order 53771 sent to Machine 1
+2026-03-30 15:40:18:927	SUCCESS	Order 53771 sent to Machine 1
+2026-03-30 15:40:18:996	SUCCESS	Order 53771 sent to Machine 1
+2026-03-30 15:40:19:086	SUCCESS	Order 53773 sent to Machine 2
+2026-03-30 15:40:19:169	SUCCESS	Order 53773 sent to Machine 2
+2026-03-30 15:40:19:249	SUCCESS	Order 53773 sent to Machine 2
+2026-03-30 15:40:19:342	SUCCESS	Order 53774 sent to Machine 1
+2026-03-30 15:40:19:413	SUCCESS	Order 53774 sent to Machine 1
+2026-03-30 15:40:19:499	SUCCESS	Order 53774 sent to Machine 1
+2026-03-30 15:40:19:579	SUCCESS	Order 53775 sent to Machine 1
+2026-03-30 15:40:19:657	SUCCESS	Order 53776 sent to Machine 2
+2026-03-30 15:40:19:740	SUCCESS	Order 53776 sent to Machine 2
+2026-03-30 15:40:19:828	SUCCESS	Order 53776 sent to Machine 2
+2026-03-30 15:40:19:909	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 15:40:29:953	ERROR	Cannot open database "SECUILL_V5_" requested by the login. The login failed. Login failed for user 'sa'.	md.Fill()
+2026-03-30 15:40:40:022	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 15:45:14:271	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 15:46:46:565	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 15:46:54:348	EVENT	พบงานรอส่งรวมทุกตู้: 111	cls_getmiddletosecuill.RunProcess()
+2026-03-30 15:46:54:505	SUCCESS	Order 53721 sent to Machine 3
+2026-03-30 15:46:54:594	SUCCESS	Order 53726 sent to Machine 3
+2026-03-30 15:46:54:694	SUCCESS	Order 53731 sent to Machine 3
+2026-03-30 15:46:54:776	SUCCESS	Order 53731 sent to Machine 3
+2026-03-30 15:46:54:868	SUCCESS	Order 53772 sent to Machine 3
+2026-03-30 15:46:54:952	SUCCESS	Order 53782 sent to Machine 3
+2026-03-30 15:46:55:028	SUCCESS	Order 53785 sent to Machine 3
+2026-03-30 15:46:55:103	SUCCESS	Order 53788 sent to Machine 3
+2026-03-30 15:46:55:196	SUCCESS	Order 53783 sent to Machine 3
+2026-03-30 15:46:55:276	SUCCESS	Order 53783 sent to Machine 3
+2026-03-30 15:46:55:377	SUCCESS	Order 53722 sent to Machine 3
+2026-03-30 15:46:55:469	SUCCESS	Order 53784 sent to Machine 3
+2026-03-30 15:46:55:562	SUCCESS	Order 53786 sent to Machine 3
+2026-03-30 15:46:55:634	SUCCESS	Order 53757 sent to Machine 3
+2026-03-30 15:46:55:714	SUCCESS	Order 53757 sent to Machine 3
+2026-03-30 15:46:55:789	SUCCESS	Order 53786 sent to Machine 3
+2026-03-30 15:46:55:873	SUCCESS	Order 53735 sent to Machine 3
+2026-03-30 15:46:55:956	SUCCESS	Order 53718 sent to Machine 3
+2026-03-30 15:46:56:042	SUCCESS	Order 53718 sent to Machine 3
+2026-03-30 15:46:56:128	SUCCESS	Order 53755 sent to Machine 3
+2026-03-30 15:46:56:235	SUCCESS	Order 53726 sent to Machine 3
+2026-03-30 15:46:56:336	SUCCESS	Order 53726 sent to Machine 3
+2026-03-30 15:46:56:423	SUCCESS	Order 53730 sent to Machine 3
+2026-03-30 15:46:56:522	SUCCESS	Order 53735 sent to Machine 3
+2026-03-30 15:46:56:599	SUCCESS	Order 53735 sent to Machine 3
+2026-03-30 15:46:56:709	SUCCESS	Order 53724 sent to Machine 3
+2026-03-30 15:46:56:802	SUCCESS	Order 53731 sent to Machine 3
+2026-03-30 15:46:56:886	SUCCESS	Order 53747 sent to Machine 3
+2026-03-30 15:46:56:978	SUCCESS	Order 53724 sent to Machine 3
+2026-03-30 15:46:57:051	SUCCESS	Order 53755 sent to Machine 3
+2026-03-30 15:46:57:153	SUCCESS	Order 53757 sent to Machine 3
+2026-03-30 15:46:57:239	SUCCESS	Order 53724 sent to Machine 3
+2026-03-30 15:46:57:340	SUCCESS	Order 53757 sent to Machine 3
+2026-03-30 15:46:57:430	SUCCESS	Order 53717 sent to Machine 3
+2026-03-30 15:46:57:526	SUCCESS	Order 53760 sent to Machine 3
+2026-03-30 15:46:57:618	SUCCESS	Order 53711 sent to Machine 3
+2026-03-30 15:46:57:699	SUCCESS	Order 53711 sent to Machine 3
+2026-03-30 15:46:57:803	SUCCESS	Order 53766 sent to Machine 3
+2026-03-30 15:46:57:894	SUCCESS	Order 53772 sent to Machine 3
+2026-03-30 15:46:57:965	SUCCESS	Order 53772 sent to Machine 3
+2026-03-30 15:46:58:040	SUCCESS	Order 53772 sent to Machine 3
+2026-03-30 15:46:58:128	SUCCESS	Order 53777 sent to Machine 3
+2026-03-30 15:46:58:208	SUCCESS	Order 53777 sent to Machine 3
+2026-03-30 15:46:58:299	SUCCESS	Order 53778 sent to Machine 3
+2026-03-30 15:46:58:366	SUCCESS	Order 53778 sent to Machine 3
+2026-03-30 15:46:58:477	SUCCESS	Order 53778 sent to Machine 3
+2026-03-30 15:46:58:572	SUCCESS	Order 53779 sent to Machine 3
+2026-03-30 15:46:58:674	SUCCESS	Order 53779 sent to Machine 3
+2026-03-30 15:46:58:769	SUCCESS	Order 53757 sent to Machine 3
+2026-03-30 15:46:58:847	SUCCESS	Order 53772 sent to Machine 3
+2026-03-30 15:46:58:919	SUCCESS	Order 53747 sent to Machine 3
+2026-03-30 15:46:58:992	SUCCESS	Order 53747 sent to Machine 3
+2026-03-30 15:46:59:080	SUCCESS	Order 53730 sent to Machine 3
+2026-03-30 15:46:59:156	SUCCESS	Order 53780 sent to Machine 3
+2026-03-30 15:46:59:240	SUCCESS	Order 53760 sent to Machine 3
+2026-03-30 15:46:59:328	SUCCESS	Order 53760 sent to Machine 3
+2026-03-30 15:46:59:403	SUCCESS	Order 53719 sent to Machine 3
+2026-03-30 15:46:59:487	SUCCESS	Order 53781 sent to Machine 3
+2026-03-30 15:46:59:579	SUCCESS	Order 53735 sent to Machine 3
+2026-03-30 15:46:59:654	SUCCESS	Order 53731 sent to Machine 3
+2026-03-30 15:46:59:718	SUCCESS	Order 53782 sent to Machine 3
+2026-03-30 15:46:59:799	SUCCESS	Order 53782 sent to Machine 3
+2026-03-30 15:46:59:863	SUCCESS	Order 53783 sent to Machine 3
+2026-03-30 15:46:59:957	SUCCESS	Order 53783 sent to Machine 3
+2026-03-30 15:47:00:058	SUCCESS	Order 53783 sent to Machine 3
+2026-03-30 15:47:00:131	SUCCESS	Order 53783 sent to Machine 3
+2026-03-30 15:47:00:212	SUCCESS	Order 53784 sent to Machine 3
+2026-03-30 15:47:00:295	SUCCESS	Order 53784 sent to Machine 3
+2026-03-30 15:47:00:370	SUCCESS	Order 53784 sent to Machine 3
+2026-03-30 15:47:00:451	SUCCESS	Order 53784 sent to Machine 3
+2026-03-30 15:47:00:543	SUCCESS	Order 53784 sent to Machine 3
+2026-03-30 15:47:00:618	SUCCESS	Order 53784 sent to Machine 3
+2026-03-30 15:47:00:698	SUCCESS	Order 53785 sent to Machine 3
+2026-03-30 15:47:00:780	SUCCESS	Order 53717 sent to Machine 3
+2026-03-30 15:47:00:860	SUCCESS	Order 53718 sent to Machine 3
+2026-03-30 15:47:00:953	SUCCESS	Order 53718 sent to Machine 3
+2026-03-30 15:47:01:049	SUCCESS	Order 53719 sent to Machine 3
+2026-03-30 15:47:01:130	SUCCESS	Order 53719 sent to Machine 3
+2026-03-30 15:47:01:208	SUCCESS	Order 53719 sent to Machine 3
+2026-03-30 15:47:01:289	SUCCESS	Order 53719 sent to Machine 3
+2026-03-30 15:47:01:369	SUCCESS	Order 53719 sent to Machine 3
+2026-03-30 15:47:01:445	SUCCESS	Order 53720 sent to Machine 3
+2026-03-30 15:47:01:515	SUCCESS	Order 53720 sent to Machine 3
+2026-03-30 15:47:01:600	SUCCESS	Order 53720 sent to Machine 3
+2026-03-30 15:47:01:678	SUCCESS	Order 53720 sent to Machine 3
+2026-03-30 15:47:01:761	SUCCESS	Order 53720 sent to Machine 3
+2026-03-30 15:47:01:839	SUCCESS	Order 53785 sent to Machine 3
+2026-03-30 15:47:01:932	SUCCESS	Order 53785 sent to Machine 3
+2026-03-30 15:47:02:023	SUCCESS	Order 53786 sent to Machine 3
+2026-03-30 15:47:02:106	SUCCESS	Order 53786 sent to Machine 3
+2026-03-30 15:47:02:185	SUCCESS	Order 53717 sent to Machine 3
+2026-03-30 15:47:02:272	SUCCESS	Order 53787 sent to Machine 3
+2026-03-30 15:47:02:346	SUCCESS	Order 53766 sent to Machine 3
+2026-03-30 15:47:02:432	SUCCESS	Order 53755 sent to Machine 3
+2026-03-30 15:47:02:514	SUCCESS	Order 53735 sent to Machine 3
+2026-03-30 15:47:02:595	SUCCESS	Order 53735 sent to Machine 3
+2026-03-30 15:47:02:676	SUCCESS	Order 53735 sent to Machine 3
+2026-03-30 15:47:02:758	SUCCESS	Order 53788 sent to Machine 3
+2026-03-30 15:47:02:834	SUCCESS	Order 53788 sent to Machine 3
+2026-03-30 15:47:02:925	SUCCESS	Order 53721 sent to Machine 3
+2026-03-30 15:47:03:020	SUCCESS	Order 53721 sent to Machine 3
+2026-03-30 15:47:03:102	SUCCESS	Order 53722 sent to Machine 3
+2026-03-30 15:47:03:206	SUCCESS	Order 53723 sent to Machine 3
+2026-03-30 15:47:03:290	SUCCESS	Order 53711 sent to Machine 3
+2026-03-30 15:47:03:367	SUCCESS	Order 53724 sent to Machine 3
+2026-03-30 15:47:03:442	SUCCESS	Order 53725 sent to Machine 3
+2026-03-30 15:47:03:534	SUCCESS	Order 53725 sent to Machine 3
+2026-03-30 15:47:03:615	SUCCESS	Order 53725 sent to Machine 3
+2026-03-30 15:47:03:718	SUCCESS	Order 53725 sent to Machine 3
+2026-03-30 15:47:03:799	SUCCESS	Order 53725 sent to Machine 3
+2026-03-30 15:47:03:907	SUCCESS	Order 53726 sent to Machine 3
+2026-03-30 15:47:03:979	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 15:47:14:024	ERROR	Cannot open database "SECUILL_V5_" requested by the login. The login failed. Login failed for user 'sa'.	md.Fill()
+2026-03-30 16:22:35:311	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 16:22:35:647	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 16:23:29:753	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 16:23:30:659	EVENT	พบงานรอส่งรวมทุกตู้: 363	cls_getmiddletosecuill.RunProcess()
+2026-03-30 16:23:30:777	SUCCESS	Order 53716 sent to Machine 2
+2026-03-30 16:23:30:945	SUCCESS	Order 53721 sent to Machine 3
+2026-03-30 16:23:31:037	SUCCESS	Order 53726 sent to Machine 3
+2026-03-30 16:23:31:158	SUCCESS	Order 53731 sent to Machine 3
+2026-03-30 16:23:31:247	SUCCESS	Order 53731 sent to Machine 3
+2026-03-30 16:23:31:327	SUCCESS	Order 53745 sent to Machine 2
+2026-03-30 16:23:31:415	SUCCESS	Order 53750 sent to Machine 2
+2026-03-30 16:23:31:490	SUCCESS	Order 53749 sent to Machine 2
+2026-03-30 16:23:31:572	SUCCESS	Order 53754 sent to Machine 2
+2026-03-30 16:23:31:734	SUCCESS	Order 53758 sent to Machine 1
+2026-03-30 16:23:31:824	SUCCESS	Order 53761 sent to Machine 2
+2026-03-30 16:23:31:933	SUCCESS	Order 53746 sent to Machine 1
+2026-03-30 16:23:32:024	SUCCESS	Order 53770 sent to Machine 1
+2026-03-30 16:23:32:101	SUCCESS	Order 53775 sent to Machine 1
+2026-03-30 16:23:32:186	SUCCESS	Order 53772 sent to Machine 3
+2026-03-30 16:23:32:280	SUCCESS	Order 53782 sent to Machine 3
+2026-03-30 16:23:32:369	SUCCESS	Order 53785 sent to Machine 3
+2026-03-30 16:23:32:471	SUCCESS	Order 53788 sent to Machine 3
+2026-03-30 16:23:32:551	SUCCESS	Order 53740 sent to Machine 1
+2026-03-30 16:23:32:635	SUCCESS	Order 53796 sent to Machine 1
+2026-03-30 16:23:32:721	SUCCESS	Order 53800 sent to Machine 2
+2026-03-30 16:23:32:816	SUCCESS	Order 53758 sent to Machine 1
+2026-03-30 16:23:32:911	SUCCESS	Order 53804 sent to Machine 1
+2026-03-30 16:23:33:004	SUCCESS	Order 53761 sent to Machine 2
+2026-03-30 16:23:33:104	SUCCESS	Order 53808 sent to Machine 1
+2026-03-30 16:23:33:222	SUCCESS	Order 53746 sent to Machine 1
+2026-03-30 16:23:33:333	SUCCESS	Order 53817 sent to Machine 1
+2026-03-30 16:23:33:421	SUCCESS	Order 53817 sent to Machine 1
+2026-03-30 16:23:33:497	SUCCESS	Order 53818 sent to Machine 1
+2026-03-30 16:23:33:574	SUCCESS	Order 53819 sent to Machine 1
+2026-03-30 16:23:33:673	SUCCESS	Order 53820 sent to Machine 1
+2026-03-30 16:23:33:752	SUCCESS	Order 53789 sent to Machine 2
+2026-03-30 16:23:33:818	SUCCESS	Order 53789 sent to Machine 2
+2026-03-30 16:23:33:891	SUCCESS	Order 53790 sent to Machine 1
+2026-03-30 16:23:33:979	SUCCESS	Order 53790 sent to Machine 1
+2026-03-30 16:23:34:078	SUCCESS	Order 53790 sent to Machine 1
+2026-03-30 16:23:34:153	SUCCESS	Order 53791 sent to Machine 1
+2026-03-30 16:23:34:233	SUCCESS	Order 53791 sent to Machine 1
+2026-03-30 16:23:34:314	SUCCESS	Order 53791 sent to Machine 1
+2026-03-30 16:23:34:394	SUCCESS	Order 53783 sent to Machine 3
+2026-03-30 16:23:34:488	SUCCESS	Order 53783 sent to Machine 3
+2026-03-30 16:23:34:592	SUCCESS	Order 53792 sent to Machine 2
+2026-03-30 16:23:34:684	SUCCESS	Order 53792 sent to Machine 2
+2026-03-30 16:23:34:763	SUCCESS	Order 53740 sent to Machine 1
+2026-03-30 16:23:34:854	SUCCESS	Order 53774 sent to Machine 1
+2026-03-30 16:23:34:978	SUCCESS	Order 53793 sent to Machine 2
+2026-03-30 16:23:35:056	SUCCESS	Order 53793 sent to Machine 2
+2026-03-30 16:23:35:152	SUCCESS	Order 53793 sent to Machine 2
+2026-03-30 16:23:35:235	SUCCESS	Order 53793 sent to Machine 2
+2026-03-30 16:23:35:322	SUCCESS	Order 53794 sent to Machine 2
+2026-03-30 16:23:35:449	SUCCESS	Order 53794 sent to Machine 2
+2026-03-30 16:23:35:542	SUCCESS	Order 53795 sent to Machine 2
+2026-03-30 16:23:35:633	SUCCESS	Order 53795 sent to Machine 2
+2026-03-30 16:23:35:712	SUCCESS	Order 53795 sent to Machine 2
+2026-03-30 16:23:35:790	SUCCESS	Order 53796 sent to Machine 1
+2026-03-30 16:23:35:890	SUCCESS	Order 53796 sent to Machine 1
+2026-03-30 16:23:35:991	SUCCESS	Order 53794 sent to Machine 2
+2026-03-30 16:23:36:074	SUCCESS	Order 53797 sent to Machine 1
+2026-03-30 16:23:36:140	SUCCESS	Order 53797 sent to Machine 1
+2026-03-30 16:23:36:214	SUCCESS	Order 53797 sent to Machine 1
+2026-03-30 16:23:36:278	SUCCESS	Order 53797 sent to Machine 1
+2026-03-30 16:23:36:364	SUCCESS	Order 53797 sent to Machine 1
+2026-03-30 16:23:36:432	SUCCESS	Order 53797 sent to Machine 1
+2026-03-30 16:23:36:501	SUCCESS	Order 53798 sent to Machine 1
+2026-03-30 16:23:36:580	SUCCESS	Order 53798 sent to Machine 1
+2026-03-30 16:23:36:652	SUCCESS	Order 53798 sent to Machine 1
+2026-03-30 16:23:36:728	SUCCESS	Order 53799 sent to Machine 2
+2026-03-30 16:23:36:797	SUCCESS	Order 53800 sent to Machine 2
+2026-03-30 16:23:36:877	SUCCESS	Order 53800 sent to Machine 2
+2026-03-30 16:23:36:962	SUCCESS	Order 53722 sent to Machine 3
+2026-03-30 16:23:37:039	SUCCESS	Order 53742 sent to Machine 2
+2026-03-30 16:23:37:114	SUCCESS	Order 53742 sent to Machine 2
+2026-03-30 16:23:37:191	SUCCESS	Order 53799 sent to Machine 2
+2026-03-30 16:23:37:259	SUCCESS	Order 53797 sent to Machine 1
+2026-03-30 16:23:37:334	SUCCESS	Order 53797 sent to Machine 1
+2026-03-30 16:23:37:427	SUCCESS	Order 53801 sent to Machine 2
+2026-03-30 16:23:37:506	SUCCESS	Order 53801 sent to Machine 2
+2026-03-30 16:23:37:595	SUCCESS	Order 53798 sent to Machine 1
+2026-03-30 16:23:37:686	SUCCESS	Order 53771 sent to Machine 1
+2026-03-30 16:23:37:785	SUCCESS	Order 53784 sent to Machine 3
+2026-03-30 16:23:37:868	SUCCESS	Order 53758 sent to Machine 1
+2026-03-30 16:23:37:975	SUCCESS	Order 53786 sent to Machine 3
+2026-03-30 16:23:38:054	SUCCESS	Order 53757 sent to Machine 3
+2026-03-30 16:23:38:136	SUCCESS	Order 53757 sent to Machine 3
+2026-03-30 16:23:38:215	SUCCESS	Order 53786 sent to Machine 3
+2026-03-30 16:23:38:308	SUCCESS	Order 53802 sent to Machine 2
+2026-03-30 16:23:38:393	SUCCESS	Order 53802 sent to Machine 2
+2026-03-30 16:23:38:484	SUCCESS	Order 53802 sent to Machine 2
+2026-03-30 16:23:38:567	SUCCESS	Order 53803 sent to Machine 2
+2026-03-30 16:23:38:676	SUCCESS	Order 53803 sent to Machine 2
+2026-03-30 16:23:38:763	SUCCESS	Order 53803 sent to Machine 2
+2026-03-30 16:23:38:831	SUCCESS	Order 53803 sent to Machine 2
+2026-03-30 16:23:38:921	SUCCESS	Order 53804 sent to Machine 1
+2026-03-30 16:23:38:999	SUCCESS	Order 53804 sent to Machine 1
+2026-03-30 16:23:39:073	SUCCESS	Order 53804 sent to Machine 1
+2026-03-30 16:23:39:162	SUCCESS	Order 53804 sent to Machine 1
+2026-03-30 16:23:39:247	SUCCESS	Order 53804 sent to Machine 1
+2026-03-30 16:23:39:326	SUCCESS	Order 53804 sent to Machine 1
+2026-03-30 16:23:39:402	SUCCESS	Order 53804 sent to Machine 1
+2026-03-30 16:23:39:495	SUCCESS	Order 53748 sent to Machine 2
+2026-03-30 16:23:39:581	SUCCESS	Order 53748 sent to Machine 2
+2026-03-30 16:23:39:688	SUCCESS	Order 53733 sent to Machine 2
+2026-03-30 16:23:39:785	SUCCESS	Order 53733 sent to Machine 2
+2026-03-30 16:23:39:869	SUCCESS	Order 53733 sent to Machine 2
+2026-03-30 16:23:39:953	SUCCESS	Order 53761 sent to Machine 2
+2026-03-30 16:23:40:044	SUCCESS	Order 53735 sent to Machine 3
+2026-03-30 16:23:40:140	SUCCESS	Order 53718 sent to Machine 3
+2026-03-30 16:23:40:220	SUCCESS	Order 53718 sent to Machine 3
+2026-03-30 16:23:40:313	SUCCESS	Order 53755 sent to Machine 3
+2026-03-30 16:23:40:405	SUCCESS	Order 53805 sent to Machine 2
+2026-03-30 16:23:40:489	SUCCESS	Order 53805 sent to Machine 2
+2026-03-30 16:23:40:560	SUCCESS	Order 53805 sent to Machine 2
+2026-03-30 16:23:40:652	SUCCESS	Order 53806 sent to Machine 2
+2026-03-30 16:23:40:736	SUCCESS	Order 53806 sent to Machine 2
+2026-03-30 16:23:40:820	SUCCESS	Order 53806 sent to Machine 2
+2026-03-30 16:23:40:922	SUCCESS	Order 53807 sent to Machine 2
+2026-03-30 16:23:41:008	SUCCESS	Order 53808 sent to Machine 1
+2026-03-30 16:23:41:079	SUCCESS	Order 53808 sent to Machine 1
+2026-03-30 16:23:41:168	SUCCESS	Order 53809 sent to Machine 1
+2026-03-30 16:23:41:256	SUCCESS	Order 53809 sent to Machine 1
+2026-03-30 16:23:41:339	SUCCESS	Order 53809 sent to Machine 1
+2026-03-30 16:23:41:433	SUCCESS	Order 53810 sent to Machine 1
+2026-03-30 16:23:41:516	SUCCESS	Order 53810 sent to Machine 1
+2026-03-30 16:23:41:597	SUCCESS	Order 53810 sent to Machine 1
+2026-03-30 16:23:41:674	SUCCESS	Order 53793 sent to Machine 2
+2026-03-30 16:23:41:758	SUCCESS	Order 53793 sent to Machine 2
+2026-03-30 16:23:41:859	SUCCESS	Order 53793 sent to Machine 2
+2026-03-30 16:23:41:942	SUCCESS	Order 53793 sent to Machine 2
+2026-03-30 16:23:42:025	SUCCESS	Order 53746 sent to Machine 1
+2026-03-30 16:23:42:103	SUCCESS	Order 53746 sent to Machine 1
+2026-03-30 16:23:42:192	SUCCESS	Order 53811 sent to Machine 1
+2026-03-30 16:23:42:288	SUCCESS	Order 53812 sent to Machine 1
+2026-03-30 16:23:42:375	SUCCESS	Order 53813 sent to Machine 1
+2026-03-30 16:23:42:468	SUCCESS	Order 53813 sent to Machine 1
+2026-03-30 16:23:42:538	SUCCESS	Order 53814 sent to Machine 1
+2026-03-30 16:23:42:632	SUCCESS	Order 53814 sent to Machine 1
+2026-03-30 16:23:42:714	SUCCESS	Order 53815 sent to Machine 1
+2026-03-30 16:23:42:788	SUCCESS	Order 53815 sent to Machine 1
+2026-03-30 16:23:42:876	SUCCESS	Order 53815 sent to Machine 1
+2026-03-30 16:23:42:958	SUCCESS	Order 53816 sent to Machine 1
+2026-03-30 16:23:43:048	SUCCESS	Order 53816 sent to Machine 1
+2026-03-30 16:23:43:147	SUCCESS	Order 53817 sent to Machine 1
+2026-03-30 16:23:43:236	SUCCESS	Order 53726 sent to Machine 3
+2026-03-30 16:23:43:332	SUCCESS	Order 53726 sent to Machine 3
+2026-03-30 16:23:43:425	SUCCESS	Order 53727 sent to Machine 2
+2026-03-30 16:23:43:520	SUCCESS	Order 53727 sent to Machine 2
+2026-03-30 16:23:43:605	SUCCESS	Order 53727 sent to Machine 2
+2026-03-30 16:23:43:684	SUCCESS	Order 53728 sent to Machine 2
+2026-03-30 16:23:43:774	SUCCESS	Order 53728 sent to Machine 2
+2026-03-30 16:23:43:858	SUCCESS	Order 53729 sent to Machine 2
+2026-03-30 16:23:43:939	SUCCESS	Order 53729 sent to Machine 2
+2026-03-30 16:23:44:022	SUCCESS	Order 53729 sent to Machine 2
+2026-03-30 16:23:44:095	SUCCESS	Order 53729 sent to Machine 2
+2026-03-30 16:23:44:183	SUCCESS	Order 53730 sent to Machine 3
+2026-03-30 16:23:44:260	SUCCESS	Order 53732 sent to Machine 2
+2026-03-30 16:23:44:331	SUCCESS	Order 53733 sent to Machine 2
+2026-03-30 16:23:44:431	SUCCESS	Order 53734 sent to Machine 2
+2026-03-30 16:23:44:502	SUCCESS	Order 53734 sent to Machine 2
+2026-03-30 16:23:44:596	SUCCESS	Order 53735 sent to Machine 3
+2026-03-30 16:23:44:684	SUCCESS	Order 53735 sent to Machine 3
+2026-03-30 16:23:44:764	SUCCESS	Order 53736 sent to Machine 2
+2026-03-30 16:23:44:853	SUCCESS	Order 53736 sent to Machine 2
+2026-03-30 16:23:44:926	SUCCESS	Order 53736 sent to Machine 2
+2026-03-30 16:23:45:020	SUCCESS	Order 53736 sent to Machine 2
+2026-03-30 16:23:45:116	SUCCESS	Order 53737 sent to Machine 2
+2026-03-30 16:23:45:242	SUCCESS	Order 53724 sent to Machine 3
+2026-03-30 16:23:45:318	SUCCESS	Order 53731 sent to Machine 3
+2026-03-30 16:23:45:408	SUCCESS	Order 53738 sent to Machine 2
+2026-03-30 16:23:45:490	SUCCESS	Order 53738 sent to Machine 2
+2026-03-30 16:23:45:566	SUCCESS	Order 53739 sent to Machine 2
+2026-03-30 16:23:45:652	SUCCESS	Order 53739 sent to Machine 2
+2026-03-30 16:23:45:726	SUCCESS	Order 53739 sent to Machine 2
+2026-03-30 16:23:45:808	SUCCESS	Order 53740 sent to Machine 1
+2026-03-30 16:23:45:915	SUCCESS	Order 53741 sent to Machine 2
+2026-03-30 16:23:46:015	SUCCESS	Order 53741 sent to Machine 2
+2026-03-30 16:23:46:104	SUCCESS	Order 53742 sent to Machine 2
+2026-03-30 16:23:46:219	SUCCESS	Order 53743 sent to Machine 2
+2026-03-30 16:23:46:309	SUCCESS	Order 53744 sent to Machine 2
+2026-03-30 16:23:46:414	SUCCESS	Order 53745 sent to Machine 2
+2026-03-30 16:23:46:521	SUCCESS	Order 53746 sent to Machine 1
+2026-03-30 16:23:46:614	SUCCESS	Order 53746 sent to Machine 1
+2026-03-30 16:23:46:708	SUCCESS	Order 53732 sent to Machine 2
+2026-03-30 16:23:46:815	SUCCESS	Order 53732 sent to Machine 2
+2026-03-30 16:23:46:904	SUCCESS	Order 53747 sent to Machine 3
+2026-03-30 16:23:46:991	SUCCESS	Order 53748 sent to Machine 2
+2026-03-30 16:23:47:086	SUCCESS	Order 53748 sent to Machine 2
+2026-03-30 16:23:47:160	SUCCESS	Order 53749 sent to Machine 2
+2026-03-30 16:23:47:242	SUCCESS	Order 53749 sent to Machine 2
+2026-03-30 16:23:47:334	SUCCESS	Order 53749 sent to Machine 2
+2026-03-30 16:23:47:412	SUCCESS	Order 53750 sent to Machine 2
+2026-03-30 16:23:47:495	SUCCESS	Order 53750 sent to Machine 2
+2026-03-30 16:23:47:570	SUCCESS	Order 53750 sent to Machine 2
+2026-03-30 16:23:47:651	SUCCESS	Order 53751 sent to Machine 1
+2026-03-30 16:23:47:729	SUCCESS	Order 53751 sent to Machine 1
+2026-03-30 16:23:47:805	SUCCESS	Order 53716 sent to Machine 2
+2026-03-30 16:23:47:902	SUCCESS	Order 53744 sent to Machine 2
+2026-03-30 16:23:47:986	SUCCESS	Order 53744 sent to Machine 2
+2026-03-30 16:23:48:071	SUCCESS	Order 53744 sent to Machine 2
+2026-03-30 16:23:48:151	SUCCESS	Order 53744 sent to Machine 2
+2026-03-30 16:23:48:238	SUCCESS	Order 53709 sent to Machine 2
+2026-03-30 16:23:48:328	SUCCESS	Order 53742 sent to Machine 2
+2026-03-30 16:23:48:416	SUCCESS	Order 53749 sent to Machine 2
+2026-03-30 16:23:48:489	SUCCESS	Order 53749 sent to Machine 2
+2026-03-30 16:23:48:582	SUCCESS	Order 53746 sent to Machine 1
+2026-03-30 16:23:48:664	SUCCESS	Order 53752 sent to Machine 2
+2026-03-30 16:23:48:743	SUCCESS	Order 53753 sent to Machine 2
+2026-03-30 16:23:48:844	SUCCESS	Order 53753 sent to Machine 2
+2026-03-30 16:23:48:931	SUCCESS	Order 53753 sent to Machine 2
+2026-03-30 16:23:49:010	SUCCESS	Order 53753 sent to Machine 2
+2026-03-30 16:23:49:109	SUCCESS	Order 53753 sent to Machine 2
+2026-03-30 16:23:49:198	SUCCESS	Order 53753 sent to Machine 2
+2026-03-30 16:23:49:307	SUCCESS	Order 53753 sent to Machine 2
+2026-03-30 16:23:49:393	SUCCESS	Order 53754 sent to Machine 2
+2026-03-30 16:23:49:469	SUCCESS	Order 53754 sent to Machine 2
+2026-03-30 16:23:49:548	SUCCESS	Order 53715 sent to Machine 2
+2026-03-30 16:23:49:635	SUCCESS	Order 53724 sent to Machine 3
+2026-03-30 16:23:49:728	SUCCESS	Order 53714 sent to Machine 2
+2026-03-30 16:23:49:813	SUCCESS	Order 53755 sent to Machine 3
+2026-03-30 16:23:49:907	SUCCESS	Order 53756 sent to Machine 2
+2026-03-30 16:23:49:993	SUCCESS	Order 53756 sent to Machine 2
+2026-03-30 16:23:50:070	SUCCESS	Order 53756 sent to Machine 2
+2026-03-30 16:23:50:151	SUCCESS	Order 53756 sent to Machine 2
+2026-03-30 16:23:50:244	SUCCESS	Order 53737 sent to Machine 2
+2026-03-30 16:23:50:322	SUCCESS	Order 53737 sent to Machine 2
+2026-03-30 16:23:50:403	SUCCESS	Order 53737 sent to Machine 2
+2026-03-30 16:23:50:482	SUCCESS	Order 53757 sent to Machine 3
+2026-03-30 16:23:50:574	SUCCESS	Order 53758 sent to Machine 1
+2026-03-30 16:23:50:660	SUCCESS	Order 53758 sent to Machine 1
+2026-03-30 16:23:50:738	SUCCESS	Order 53724 sent to Machine 3
+2026-03-30 16:23:50:832	SUCCESS	Order 53757 sent to Machine 3
+2026-03-30 16:23:50:911	SUCCESS	Order 53710 sent to Machine 2
+2026-03-30 16:23:50:982	SUCCESS	Order 53759 sent to Machine 1
+2026-03-30 16:23:51:070	SUCCESS	Order 53709 sent to Machine 2
+2026-03-30 16:23:51:145	SUCCESS	Order 53736 sent to Machine 2
+2026-03-30 16:23:51:224	SUCCESS	Order 53748 sent to Machine 2
+2026-03-30 16:23:51:292	SUCCESS	Order 53734 sent to Machine 2
+2026-03-30 16:23:51:376	SUCCESS	Order 53710 sent to Machine 2
+2026-03-30 16:23:51:470	SUCCESS	Order 53717 sent to Machine 3
+2026-03-30 16:23:51:550	SUCCESS	Order 53760 sent to Machine 3
+2026-03-30 16:23:51:618	SUCCESS	Order 53762 sent to Machine 1
+2026-03-30 16:23:51:707	SUCCESS	Order 53762 sent to Machine 1
+2026-03-30 16:23:51:778	SUCCESS	Order 53762 sent to Machine 1
+2026-03-30 16:23:51:872	SUCCESS	Order 53759 sent to Machine 1
+2026-03-30 16:23:51:951	SUCCESS	Order 53759 sent to Machine 1
+2026-03-30 16:23:52:037	SUCCESS	Order 53763 sent to Machine 1
+2026-03-30 16:23:52:113	SUCCESS	Order 53763 sent to Machine 1
+2026-03-30 16:23:52:187	SUCCESS	Order 53763 sent to Machine 1
+2026-03-30 16:23:52:268	SUCCESS	Order 53759 sent to Machine 1
+2026-03-30 16:23:52:342	SUCCESS	Order 53763 sent to Machine 1
+2026-03-30 16:23:52:436	SUCCESS	Order 53764 sent to Machine 1
+2026-03-30 16:23:52:507	SUCCESS	Order 53764 sent to Machine 1
+2026-03-30 16:23:52:590	SUCCESS	Order 53764 sent to Machine 1
+2026-03-30 16:23:52:664	SUCCESS	Order 53709 sent to Machine 2
+2026-03-30 16:23:52:754	SUCCESS	Order 53710 sent to Machine 2
+2026-03-30 16:23:52:834	SUCCESS	Order 53711 sent to Machine 3
+2026-03-30 16:23:52:916	SUCCESS	Order 53711 sent to Machine 3
+2026-03-30 16:23:52:990	SUCCESS	Order 53712 sent to Machine 2
+2026-03-30 16:23:53:072	SUCCESS	Order 53712 sent to Machine 2
+2026-03-30 16:23:53:161	SUCCESS	Order 53713 sent to Machine 2
+2026-03-30 16:23:53:238	SUCCESS	Order 53713 sent to Machine 2
+2026-03-30 16:23:53:333	SUCCESS	Order 53714 sent to Machine 2
+2026-03-30 16:23:53:416	SUCCESS	Order 53714 sent to Machine 2
+2026-03-30 16:23:53:501	SUCCESS	Order 53715 sent to Machine 2
+2026-03-30 16:23:53:591	SUCCESS	Order 53715 sent to Machine 2
+2026-03-30 16:23:53:698	SUCCESS	Order 53759 sent to Machine 1
+2026-03-30 16:23:53:777	SUCCESS	Order 53765 sent to Machine 2
+2026-03-30 16:23:53:860	SUCCESS	Order 53765 sent to Machine 2
+2026-03-30 16:23:53:939	SUCCESS	Order 53765 sent to Machine 2
+2026-03-30 16:23:54:034	SUCCESS	Order 53766 sent to Machine 3
+2026-03-30 16:23:54:115	SUCCESS	Order 53767 sent to Machine 2
+2026-03-30 16:23:54:189	SUCCESS	Order 53767 sent to Machine 2
+2026-03-30 16:23:54:274	SUCCESS	Order 53768 sent to Machine 2
+2026-03-30 16:23:54:343	SUCCESS	Order 53768 sent to Machine 2
+2026-03-30 16:23:54:420	SUCCESS	Order 53768 sent to Machine 2
+2026-03-30 16:23:54:519	SUCCESS	Order 53769 sent to Machine 2
+2026-03-30 16:23:54:601	SUCCESS	Order 53770 sent to Machine 1
+2026-03-30 16:23:54:692	SUCCESS	Order 53770 sent to Machine 1
+2026-03-30 16:23:54:780	SUCCESS	Order 53771 sent to Machine 1
+2026-03-30 16:23:54:858	SUCCESS	Order 53771 sent to Machine 1
+2026-03-30 16:23:54:944	SUCCESS	Order 53772 sent to Machine 3
+2026-03-30 16:23:55:013	SUCCESS	Order 53772 sent to Machine 3
+2026-03-30 16:23:55:089	SUCCESS	Order 53772 sent to Machine 3
+2026-03-30 16:23:55:172	SUCCESS	Order 53771 sent to Machine 1
+2026-03-30 16:23:55:256	SUCCESS	Order 53773 sent to Machine 2
+2026-03-30 16:23:55:343	SUCCESS	Order 53773 sent to Machine 2
+2026-03-30 16:23:55:422	SUCCESS	Order 53773 sent to Machine 2
+2026-03-30 16:23:55:494	SUCCESS	Order 53774 sent to Machine 1
+2026-03-30 16:23:55:572	SUCCESS	Order 53774 sent to Machine 1
+2026-03-30 16:23:55:649	SUCCESS	Order 53774 sent to Machine 1
+2026-03-30 16:23:55:734	SUCCESS	Order 53775 sent to Machine 1
+2026-03-30 16:23:55:822	SUCCESS	Order 53776 sent to Machine 2
+2026-03-30 16:23:55:912	SUCCESS	Order 53776 sent to Machine 2
+2026-03-30 16:23:55:992	SUCCESS	Order 53776 sent to Machine 2
+2026-03-30 16:23:56:073	SUCCESS	Order 53777 sent to Machine 3
+2026-03-30 16:23:56:157	SUCCESS	Order 53777 sent to Machine 3
+2026-03-30 16:23:56:235	SUCCESS	Order 53778 sent to Machine 3
+2026-03-30 16:23:56:321	SUCCESS	Order 53778 sent to Machine 3
+2026-03-30 16:23:56:407	SUCCESS	Order 53778 sent to Machine 3
+2026-03-30 16:23:56:488	SUCCESS	Order 53779 sent to Machine 3
+2026-03-30 16:23:56:583	SUCCESS	Order 53779 sent to Machine 3
+2026-03-30 16:23:56:672	SUCCESS	Order 53757 sent to Machine 3
+2026-03-30 16:23:56:758	SUCCESS	Order 53772 sent to Machine 3
+2026-03-30 16:23:56:847	SUCCESS	Order 53747 sent to Machine 3
+2026-03-30 16:23:56:940	SUCCESS	Order 53747 sent to Machine 3
+2026-03-30 16:23:57:036	SUCCESS	Order 53730 sent to Machine 3
+2026-03-30 16:23:57:122	SUCCESS	Order 53780 sent to Machine 3
+2026-03-30 16:23:57:216	SUCCESS	Order 53760 sent to Machine 3
+2026-03-30 16:23:57:328	SUCCESS	Order 53760 sent to Machine 3
+2026-03-30 16:23:57:426	SUCCESS	Order 53719 sent to Machine 3
+2026-03-30 16:23:57:508	SUCCESS	Order 53781 sent to Machine 3
+2026-03-30 16:23:57:584	SUCCESS	Order 53735 sent to Machine 3
+2026-03-30 16:23:57:665	SUCCESS	Order 53731 sent to Machine 3
+2026-03-30 16:23:57:753	SUCCESS	Order 53782 sent to Machine 3
+2026-03-30 16:23:57:826	SUCCESS	Order 53782 sent to Machine 3
+2026-03-30 16:23:57:903	SUCCESS	Order 53783 sent to Machine 3
+2026-03-30 16:23:58:004	SUCCESS	Order 53783 sent to Machine 3
+2026-03-30 16:23:58:094	SUCCESS	Order 53783 sent to Machine 3
+2026-03-30 16:23:58:171	SUCCESS	Order 53783 sent to Machine 3
+2026-03-30 16:23:58:250	SUCCESS	Order 53784 sent to Machine 3
+2026-03-30 16:23:58:333	SUCCESS	Order 53784 sent to Machine 3
+2026-03-30 16:23:58:469	SUCCESS	Order 53784 sent to Machine 3
+2026-03-30 16:23:58:550	SUCCESS	Order 53784 sent to Machine 3
+2026-03-30 16:23:58:623	SUCCESS	Order 53784 sent to Machine 3
+2026-03-30 16:23:58:702	SUCCESS	Order 53784 sent to Machine 3
+2026-03-30 16:23:58:781	SUCCESS	Order 53785 sent to Machine 3
+2026-03-30 16:23:58:876	SUCCESS	Order 53717 sent to Machine 3
+2026-03-30 16:23:58:964	SUCCESS	Order 53718 sent to Machine 3
+2026-03-30 16:23:59:053	SUCCESS	Order 53718 sent to Machine 3
+2026-03-30 16:23:59:137	SUCCESS	Order 53719 sent to Machine 3
+2026-03-30 16:23:59:222	SUCCESS	Order 53719 sent to Machine 3
+2026-03-30 16:23:59:289	SUCCESS	Order 53719 sent to Machine 3
+2026-03-30 16:23:59:374	SUCCESS	Order 53719 sent to Machine 3
+2026-03-30 16:23:59:447	SUCCESS	Order 53719 sent to Machine 3
+2026-03-30 16:23:59:539	SUCCESS	Order 53720 sent to Machine 3
+2026-03-30 16:23:59:627	SUCCESS	Order 53720 sent to Machine 3
+2026-03-30 16:23:59:713	SUCCESS	Order 53720 sent to Machine 3
+2026-03-30 16:23:59:803	SUCCESS	Order 53720 sent to Machine 3
+2026-03-30 16:23:59:885	SUCCESS	Order 53720 sent to Machine 3
+2026-03-30 16:23:59:972	SUCCESS	Order 53785 sent to Machine 3
+2026-03-30 16:24:00:069	SUCCESS	Order 53785 sent to Machine 3
+2026-03-30 16:24:00:169	SUCCESS	Order 53786 sent to Machine 3
+2026-03-30 16:24:00:246	SUCCESS	Order 53786 sent to Machine 3
+2026-03-30 16:24:00:334	SUCCESS	Order 53717 sent to Machine 3
+2026-03-30 16:24:00:425	SUCCESS	Order 53787 sent to Machine 3
+2026-03-30 16:24:00:509	SUCCESS	Order 53766 sent to Machine 3
+2026-03-30 16:24:00:599	SUCCESS	Order 53755 sent to Machine 3
+2026-03-30 16:24:00:688	SUCCESS	Order 53735 sent to Machine 3
+2026-03-30 16:24:00:772	SUCCESS	Order 53735 sent to Machine 3
+2026-03-30 16:24:00:867	SUCCESS	Order 53735 sent to Machine 3
+2026-03-30 16:24:00:938	SUCCESS	Order 53788 sent to Machine 3
+2026-03-30 16:24:01:023	SUCCESS	Order 53788 sent to Machine 3
+2026-03-30 16:24:01:111	SUCCESS	Order 53721 sent to Machine 3
+2026-03-30 16:24:01:195	SUCCESS	Order 53721 sent to Machine 3
+2026-03-30 16:24:01:274	SUCCESS	Order 53722 sent to Machine 3
+2026-03-30 16:24:01:375	SUCCESS	Order 53723 sent to Machine 3
+2026-03-30 16:24:01:467	SUCCESS	Order 53711 sent to Machine 3
+2026-03-30 16:24:01:563	SUCCESS	Order 53724 sent to Machine 3
+2026-03-30 16:24:01:660	SUCCESS	Order 53725 sent to Machine 3
+2026-03-30 16:24:01:745	SUCCESS	Order 53725 sent to Machine 3
+2026-03-30 16:24:01:826	SUCCESS	Order 53725 sent to Machine 3
+2026-03-30 16:24:01:927	SUCCESS	Order 53725 sent to Machine 3
+2026-03-30 16:24:02:018	SUCCESS	Order 53725 sent to Machine 3
+2026-03-30 16:24:02:116	SUCCESS	Order 53726 sent to Machine 3
+2026-03-30 16:24:02:199	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 16:24:12:262	ERROR	Cannot open database "SECUILL_V5_" requested by the login. The login failed. Login failed for user 'sa'.	md.Fill()
+2026-03-30 16:24:22:288	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 16:25:22:462	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 16:26:22:609	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 16:27:22:762	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 16:28:22:988	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 16:29:23:184	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 16:30:23:417	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 16:31:23:600	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 16:32:23:803	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 16:33:23:977	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 16:34:24:188	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 16:35:24:353	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 16:36:24:514	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 16:37:24:731	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 16:38:24:962	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 16:39:25:155	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 16:40:25:381	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 16:41:25:549	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 16:42:25:738	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 16:43:25:924	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 16:44:26:110	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 16:45:26:269	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 16:46:26:392	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 16:47:26:612	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 16:48:26:813	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 16:49:26:939	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 16:50:27:086	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-30 16:51:27:276	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())

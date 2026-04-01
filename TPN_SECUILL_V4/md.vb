@@ -1,11 +1,11 @@
 ﻿Module md
 
-    '' path file setting
     Public ConnMiddle As String = cls_configuration.Read(My.Settings.ConfigPath.ToString(), cls_configuration.Items.ConMidle)
     Public ConnSecuill As String = cls_configuration.Read(My.Settings.ConfigPath.ToString(), cls_configuration.Items.ConSecuill)
+    ' ดึงรายการฐานข้อมูลเครื่อง SECUILL ทั้งหมด (1, 2, 3...) มาเก็บเป็น Dictionary
+    Public ConnSecuillList As Dictionary(Of String, String) = cls_configuration.ReadGroup(My.Settings.ConfigPath.ToString(), cls_configuration.Items.ConSecuillPrefix)
     Public Tomachineno As String = cls_configuration.Read(My.Settings.ConfigPath.ToString(), cls_configuration.Items.Tomachine)
     Public ConnServer As String = cls_configuration.Read(My.Settings.ConfigPath.ToString(), cls_configuration.Items.ConServer)
-
     Public PathLog As String = cls_configuration.Read(My.Settings.ConfigPath.ToString(), cls_configuration.Items.PathLog)
     Public WardCode As String = cls_configuration.Read(My.Settings.ConfigPath.ToString(), cls_configuration.Items.ward_code)
     Public location As String = cls_configuration.Read(My.Settings.ConfigPath.ToString(), cls_configuration.Items.location)
@@ -15,29 +15,25 @@
     Public clientName = Net.Dns.GetHostName
     Public ipAddress = timeStamp.getIP()
 
-    '' status connect database middle and secuill
+    'สถานะการเชื่อมต่อฐานข้อมูล (Middle และ Secuill)
     Public statusConnMiddle As Boolean = False
     Public statusConnSecuill As Boolean = False
 
-    '' setting font master
     Public mFont As String = "TH SarabunPSK"
     Public mFontSize As Integer = 15
     Public mFontHeaderSize As Integer = 20
     Public mFontStatusSize As Integer = 15
 
-    '' color header
     Public mColorHeader As Color = Color.LightBlue
     Public mColorBorder As Color = Color.LavenderBlush
 
-    '' color status text & Connection server
     Public mColorstatusConn As Color = Color.MediumSpringGreen
     Public mColorstatusError As Color = Color.Orange
     Public mColorstatusWarning As Color = Color.NavajoWhite
 
-    '' Queue text event
+    'คิว(Queue) สำหรับเก็บข้อความแจ้งเตือนสถานะต่างๆ
     Public Q_StatusTxt As New Queue(Of String())
 
-    '' Path file image
     Public imgStart As String = Application.StartupPath & "\TPN_icon\Play.png"
     Public imgStop As String = Application.StartupPath & "\TPN_icon\Pause.png"
     Public imgPowerOff As String = Application.StartupPath & "\TPN_icon\Power_Off.png"
@@ -51,7 +47,7 @@
 
     Public jsonConnection As JSONSqlConnection() = cls_configuration.DeserializeObject($"{Application.StartupPath}\TPN_config\config_fetch_user.json")
 
-    '' Stat process status event
+    'เก็บสถานะและการแจ้งเตือน (Event Status)
     Public Structure EventText
         Public Shared Sub SetText(ByVal mState As TextState, ByVal mEvent As String, ByVal mColor As TextColor, ByVal mWriteLog As WriteLog)
             Dim mStateStr As String = ""
@@ -91,12 +87,12 @@
 
     End Structure
 
+
     Public Function Fill(connectinSting As String, ByVal query As String, Optional err_class As String = "") As DataSet
         Dim ds As New DataSet
 
         Using conndb As New System.Data.SqlClient.SqlConnection(connectinSting)
             Try
-                ' Open connection
                 If conndb.State = ConnectionState.Closed Then
                     conndb.Open()
                 End If
@@ -107,12 +103,10 @@
                 End Using
 
             Catch ex As System.Data.SqlClient.SqlException
-                'md.EventText.SetText(EventText.TextState._Error, ex.Message.ToString(), EventText.TextColor.Red, EventText.WriteLog.Yes)
-
                 Dim str As String = ""
 
                 Select Case ex.Number
-                    Case 53
+                    Case 53 ' Error กรณีหา Server ไม่เจอ (Network-related)
                         str = String.Format("{0}{1}{2}{3}{4}", "ERROR", vbTab, ex.InnerException.Message + $" '{conndb.DataSource}'", vbTab, "md.Fill()")
                     Case Else
                         str = String.Format("{0}{1}{2}{3}{4}", "ERROR", vbTab, ex.Message.Replace(vbCrLf, " "), vbTab, "md.Fill()")
@@ -128,9 +122,10 @@
 
     End Function
 
+
     Public Sub ExecuteNonQuery(connectionString As String, query As String, Optional err_class As String = "")
         Using conndb As New System.Data.SqlClient.SqlConnection(connectionString)
-            ' Open connection
+
             If conndb.State = ConnectionState.Closed Then
                 conndb.Open()
             End If
@@ -152,7 +147,6 @@
                 conndb.Dispose()
             End Try
         End Using
-
     End Sub
 
     Public Function createConnectionString(dataSource, databaseName, userId, password) As String
@@ -164,6 +158,7 @@
     End Function
 
 End Module
+
 
 Public Class JSONSqlConnection
     Public dataSource As String
