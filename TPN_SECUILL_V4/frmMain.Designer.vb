@@ -78,9 +78,6 @@ Partial Class frmMain
         Me.Panel2.Size = New System.Drawing.Size(100, 10)
         Me.Panel2.TabIndex = 13
         '
-        'BgwLoaded
-        '
-        '
         'TmLoaded
         '
         Me.TmLoaded.Interval = 1000
@@ -90,7 +87,7 @@ Partial Class frmMain
         Me.LbPercent.AutoSize = True
         Me.LbPercent.Font = New System.Drawing.Font("TH SarabunPSK", 15.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.LbPercent.ForeColor = System.Drawing.Color.White
-        Me.LbPercent.Location = New System.Drawing.Point(329, 14)
+        Me.LbPercent.Location = New System.Drawing.Point(346, 8)
         Me.LbPercent.Name = "LbPercent"
         Me.LbPercent.Size = New System.Drawing.Size(41, 34)
         Me.LbPercent.TabIndex = 6
@@ -114,7 +111,7 @@ Partial Class frmMain
         Me.lbStatusConMiddleTxt.BackColor = System.Drawing.Color.Transparent
         Me.lbStatusConMiddleTxt.Font = New System.Drawing.Font("TH SarabunPSK", 15.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.lbStatusConMiddleTxt.ForeColor = System.Drawing.Color.Aquamarine
-        Me.lbStatusConMiddleTxt.Location = New System.Drawing.Point(28, 2)
+        Me.lbStatusConMiddleTxt.Location = New System.Drawing.Point(26, 1)
         Me.lbStatusConMiddleTxt.Name = "lbStatusConMiddleTxt"
         Me.lbStatusConMiddleTxt.Size = New System.Drawing.Size(162, 34)
         Me.lbStatusConMiddleTxt.TabIndex = 4
@@ -125,7 +122,7 @@ Partial Class frmMain
         Me.pgLoadding.ForeColor = System.Drawing.SystemColors.ButtonShadow
         Me.pgLoadding.Location = New System.Drawing.Point(8, 44)
         Me.pgLoadding.Name = "pgLoadding"
-        Me.pgLoadding.Size = New System.Drawing.Size(364, 18)
+        Me.pgLoadding.Size = New System.Drawing.Size(373, 18)
         Me.pgLoadding.TabIndex = 3
         '
         'btnStartConnect
@@ -156,7 +153,7 @@ Partial Class frmMain
         Me.Panel1.Controls.Add(Me.pgLoadding)
         Me.Panel1.Location = New System.Drawing.Point(111, 173)
         Me.Panel1.Name = "Panel1"
-        Me.Panel1.Size = New System.Drawing.Size(381, 68)
+        Me.Panel1.Size = New System.Drawing.Size(399, 68)
         Me.Panel1.TabIndex = 10
         '
         'lbTxtProcess
@@ -248,7 +245,7 @@ Partial Class frmMain
         Me.lbHeaderTxt.ForeColor = System.Drawing.Color.FromArgb(CType(CType(0, Byte), Integer), CType(CType(64, Byte), Integer), CType(CType(64, Byte), Integer))
         Me.lbHeaderTxt.Location = New System.Drawing.Point(87, 3)
         Me.lbHeaderTxt.Name = "lbHeaderTxt"
-        Me.lbHeaderTxt.Size = New System.Drawing.Size(231, 45)
+        Me.lbHeaderTxt.Size = New System.Drawing.Size(255, 45)
         Me.lbHeaderTxt.TabIndex = 22
         Me.lbHeaderTxt.Text = "โปรแกรมเชื่อมต่อข้อมูล"
         '
@@ -269,7 +266,7 @@ Partial Class frmMain
         Me.btn_exitprogram.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.btn_exitprogram.ForeColor = System.Drawing.Color.Red
         Me.btn_exitprogram.Image = CType(resources.GetObject("btn_exitprogram.Image"), System.Drawing.Image)
-        Me.btn_exitprogram.Location = New System.Drawing.Point(423, 5)
+        Me.btn_exitprogram.Location = New System.Drawing.Point(436, 5)
         Me.btn_exitprogram.Margin = New System.Windows.Forms.Padding(3, 5, 3, 5)
         Me.btn_exitprogram.Name = "btn_exitprogram"
         Me.btn_exitprogram.Size = New System.Drawing.Size(69, 67)
@@ -287,7 +284,7 @@ Partial Class frmMain
         Me.Panel4.Controls.Add(Me.Lbtime2)
         Me.Panel4.Location = New System.Drawing.Point(8, 78)
         Me.Panel4.Name = "Panel4"
-        Me.Panel4.Size = New System.Drawing.Size(484, 60)
+        Me.Panel4.Size = New System.Drawing.Size(502, 60)
         Me.Panel4.TabIndex = 27
         '
         'lbProcessTime
@@ -296,7 +293,7 @@ Partial Class frmMain
             Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.lbProcessTime.Font = New System.Drawing.Font("TH SarabunPSK", 15.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.lbProcessTime.ForeColor = System.Drawing.Color.White
-        Me.lbProcessTime.Location = New System.Drawing.Point(404, 31)
+        Me.lbProcessTime.Location = New System.Drawing.Point(422, 31)
         Me.lbProcessTime.Name = "lbProcessTime"
         Me.lbProcessTime.Size = New System.Drawing.Size(77, 27)
         Me.lbProcessTime.TabIndex = 21
@@ -312,7 +309,7 @@ Partial Class frmMain
         Me.Panel5.Controls.Add(Me.lbStatusConMiddleTxt)
         Me.Panel5.Location = New System.Drawing.Point(111, 141)
         Me.Panel5.Name = "Panel5"
-        Me.Panel5.Size = New System.Drawing.Size(381, 29)
+        Me.Panel5.Size = New System.Drawing.Size(399, 29)
         Me.Panel5.TabIndex = 28
         '
         'pbStatusConSecuill
@@ -331,7 +328,7 @@ Partial Class frmMain
         Me.lbStatusConSecuillTxt.BackColor = System.Drawing.Color.Transparent
         Me.lbStatusConSecuillTxt.Font = New System.Drawing.Font("TH SarabunPSK", 15.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.lbStatusConSecuillTxt.ForeColor = System.Drawing.Color.Aquamarine
-        Me.lbStatusConSecuillTxt.Location = New System.Drawing.Point(219, 2)
+        Me.lbStatusConSecuillTxt.Location = New System.Drawing.Point(220, 1)
         Me.lbStatusConSecuillTxt.Name = "lbStatusConSecuillTxt"
         Me.lbStatusConSecuillTxt.Size = New System.Drawing.Size(159, 34)
         Me.lbStatusConSecuillTxt.TabIndex = 22
@@ -375,7 +372,7 @@ Partial Class frmMain
         Me.panelStatusTxt.Controls.Add(Me.lbStatusTxt1)
         Me.panelStatusTxt.Location = New System.Drawing.Point(111, 244)
         Me.panelStatusTxt.Name = "panelStatusTxt"
-        Me.panelStatusTxt.Size = New System.Drawing.Size(346, 29)
+        Me.panelStatusTxt.Size = New System.Drawing.Size(359, 29)
         Me.panelStatusTxt.TabIndex = 5
         '
         'lbStatusTxt2
@@ -448,7 +445,7 @@ Partial Class frmMain
         '
         Me.btnViewLog.Enabled = False
         Me.btnViewLog.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.btnViewLog.Location = New System.Drawing.Point(459, 244)
+        Me.btnViewLog.Location = New System.Drawing.Point(474, 244)
         Me.btnViewLog.Margin = New System.Windows.Forms.Padding(0)
         Me.btnViewLog.Name = "btnViewLog"
         Me.btnViewLog.Size = New System.Drawing.Size(33, 29)
@@ -459,9 +456,9 @@ Partial Class frmMain
         'rtbEvent
         '
         Me.rtbEvent.Font = New System.Drawing.Font("TH SarabunPSK", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.rtbEvent.Location = New System.Drawing.Point(502, 5)
+        Me.rtbEvent.Location = New System.Drawing.Point(516, 5)
         Me.rtbEvent.Name = "rtbEvent"
-        Me.rtbEvent.Size = New System.Drawing.Size(460, 268)
+        Me.rtbEvent.Size = New System.Drawing.Size(446, 268)
         Me.rtbEvent.TabIndex = 34
         Me.rtbEvent.Text = ""
         '

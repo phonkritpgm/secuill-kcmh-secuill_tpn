@@ -1,0 +1,428 @@
+﻿2026-03-27 12:26:30:053	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 12:26:31:239	Init	#########################################	frmMain.frmMain_Load
+2026-03-27 12:26:32:788	Init	เริ่มต้นการทำงานของโปรแกรม . . .	frmMain.frmMain_Load
+2026-03-27 12:26:34:962	Init	Auto connection . 	frmMain.frmMain_Load
+2026-03-27 12:26:37:163	Init	เริ่มต้นการเชื่อมต่อกับ Server . . . 	frmMain.frmMain_Load
+2026-03-27 12:26:39:282	Status	เริ่มต้นการทำงานดึงข้อมูล . . .	frmMain.BgwGetMiddle_DoWork
+2026-03-27 12:26:41:309	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 12:26:41:339	Status	เชื่อมต่อ Middle สำเร็จ	frmMain.CheckConnectMiddleAndSecuill
+2026-03-27 12:26:43:439	_Error	The ConnectionString property has not been initialized.	cls_condbsecuill.chk_connect_db
+2026-03-27 12:26:45:601	_Error	ไม่สามารถเชื่อมต่อ Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2026-03-27 12:26:47:795	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2026-03-27 12:26:50:022	_Error	The ConnectionString property has not been initialized.	cls_condbsecuill.chk_connect_db
+2026-03-27 12:26:53:314	_Error	The ConnectionString property has not been initialized.	cls_condbsecuill.chk_connect_db
+2026-03-27 12:26:55:373	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 12:26:55:563	_Error	ไม่สามารถเชื่อมต่อ Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2026-03-27 12:26:57:800	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2026-03-27 12:27:07:196	_Error	The ConnectionString property has not been initialized.	cls_condbsecuill.chk_connect_db
+2026-03-27 12:27:09:445	_Error	ไม่สามารถเชื่อมต่อ Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2026-03-27 12:27:11:671	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2026-03-27 12:27:21:576	_Error	The ConnectionString property has not been initialized.	cls_condbsecuill.chk_connect_db
+2026-03-27 12:27:23:805	_Error	ไม่สามารถเชื่อมต่อ Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2026-03-27 12:27:26:068	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2026-03-27 12:27:35:537	_Error	The ConnectionString property has not been initialized.	cls_condbsecuill.chk_connect_db
+2026-03-27 12:27:37:767	_Error	ไม่สามารถเชื่อมต่อ Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2026-03-27 12:27:39:984	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2026-03-27 12:27:49:395	_Error	The ConnectionString property has not been initialized.	cls_condbsecuill.chk_connect_db
+2026-03-27 12:27:53:209	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 12:27:54:385	Init	#########################################	frmMain.frmMain_Load
+2026-03-27 12:27:56:033	Init	เริ่มต้นการทำงานของโปรแกรม . . .	frmMain.frmMain_Load
+2026-03-27 12:27:58:201	Init	Auto connection . 	frmMain.frmMain_Load
+2026-03-27 12:28:00:370	Init	เริ่มต้นการเชื่อมต่อกับ Server . . . 	frmMain.frmMain_Load
+2026-03-27 12:28:02:020	Status	เริ่มต้นการทำงานดึงข้อมูล . . .	frmMain.BgwGetMiddle_DoWork
+2026-03-27 12:28:03:704	Status	เชื่อมต่อ Middle สำเร็จ	frmMain.CheckConnectMiddleAndSecuill
+2026-03-27 12:28:04:517	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 12:28:05:531	_Error	The ConnectionString property has not been initialized.	cls_condbsecuill.chk_connect_db
+2026-03-27 12:28:07:701	_Error	ไม่สามารถเชื่อมต่อ Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2026-03-27 12:28:09:901	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2026-03-27 12:28:12:126	_Error	The ConnectionString property has not been initialized.	cls_condbsecuill.chk_connect_db
+2026-03-27 12:28:16:432	_Error	The ConnectionString property has not been initialized.	cls_condbsecuill.chk_connect_db
+2026-03-27 12:28:18:563	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 12:28:18:650	_Error	ไม่สามารถเชื่อมต่อ Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2026-03-27 12:28:20:879	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2026-03-27 12:29:06:629	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 12:29:07:843	Init	#########################################	frmMain.frmMain_Load
+2026-03-27 12:29:09:463	Init	เริ่มต้นการทำงานของโปรแกรม . . .	frmMain.frmMain_Load
+2026-03-27 12:29:11:636	Init	Auto connection . 	frmMain.frmMain_Load
+2026-03-27 12:29:13:822	Init	เริ่มต้นการเชื่อมต่อกับ Server . . . 	frmMain.frmMain_Load
+2026-03-27 12:29:15:398	Status	เริ่มต้นการทำงานดึงข้อมูล . . .	frmMain.BgwGetMiddle_DoWork
+2026-03-27 12:29:17:131	Status	เชื่อมต่อ Middle สำเร็จ	frmMain.CheckConnectMiddleAndSecuill
+2026-03-27 12:29:17:871	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 12:29:18:831	_Error	The ConnectionString property has not been initialized.	cls_condbsecuill.chk_connect_db
+2026-03-27 12:29:21:001	_Error	ไม่สามารถเชื่อมต่อ Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2026-03-27 12:29:23:208	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2026-03-27 12:29:25:441	_Error	The ConnectionString property has not been initialized.	cls_condbsecuill.chk_connect_db
+2026-03-27 12:29:29:769	_Error	The ConnectionString property has not been initialized.	cls_condbsecuill.chk_connect_db
+2026-03-27 12:29:31:912	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 12:29:31:993	_Error	ไม่สามารถเชื่อมต่อ Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2026-03-27 12:29:34:218	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2026-03-27 12:29:38:582	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 12:30:08:090	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 12:30:09:285	Init	#########################################	frmMain.frmMain_Load
+2026-03-27 12:30:10:939	Init	เริ่มต้นการทำงานของโปรแกรม . . .	frmMain.frmMain_Load
+2026-03-27 12:30:13:113	Init	Auto connection . 	frmMain.frmMain_Load
+2026-03-27 12:30:15:290	Init	เริ่มต้นการเชื่อมต่อกับ Server . . . 	frmMain.frmMain_Load
+2026-03-27 12:30:16:791	Status	เริ่มต้นการทำงานดึงข้อมูล . . .	frmMain.BgwGetMiddle_DoWork
+2026-03-27 12:30:26:145	Status	เชื่อมต่อ Middle สำเร็จ	frmMain.CheckConnectMiddleAndSecuill
+2026-03-27 12:30:40:870	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 12:31:12:937	_Error	The ConnectionString property has not been initialized.	cls_condbsecuill.chk_connect_db
+2026-03-27 12:31:15:109	_Error	ไม่สามารถเชื่อมต่อ Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2026-03-27 12:31:17:309	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2026-03-27 12:31:19:537	_Error	The ConnectionString property has not been initialized.	cls_condbsecuill.chk_connect_db
+2026-03-27 12:31:52:350	_Error	The ConnectionString property has not been initialized.	cls_condbsecuill.chk_connect_db
+2026-03-27 12:32:05:372	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 12:32:07:426	_Error	ไม่สามารถเชื่อมต่อ Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2026-03-27 12:32:09:661	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2026-03-27 12:32:57:430	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 12:32:58:635	Init	#########################################	frmMain.frmMain_Load
+2026-03-27 12:33:00:116	Init	เริ่มต้นการทำงานของโปรแกรม . . .	frmMain.frmMain_Load
+2026-03-27 12:33:02:288	Init	Auto connection . 	frmMain.frmMain_Load
+2026-03-27 12:33:04:480	Init	เริ่มต้นการเชื่อมต่อกับ Server . . . 	frmMain.frmMain_Load
+2026-03-27 12:33:06:409	Status	เริ่มต้นการทำงานดึงข้อมูล . . .	frmMain.BgwGetMiddle_DoWork
+2026-03-27 12:33:08:300	Status	เชื่อมต่อ Middle สำเร็จ	frmMain.CheckConnectMiddleAndSecuill
+2026-03-27 12:33:08:717	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 12:33:10:236	_Error	The ConnectionString property has not been initialized.	cls_condbsecuill.chk_connect_db
+2026-03-27 12:33:12:398	_Error	ไม่สามารถเชื่อมต่อ Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2026-03-27 12:33:14:590	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2026-03-27 12:33:16:816	_Error	The ConnectionString property has not been initialized.	cls_condbsecuill.chk_connect_db
+2026-03-27 12:33:20:618	_Error	The ConnectionString property has not been initialized.	cls_condbsecuill.chk_connect_db
+2026-03-27 12:33:22:815	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 12:33:22:826	_Error	ไม่สามารถเชื่อมต่อ Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2026-03-27 12:33:25:052	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2026-03-27 12:33:34:971	_Error	The ConnectionString property has not been initialized.	cls_condbsecuill.chk_connect_db
+2026-03-27 12:33:37:175	_Error	ไม่สามารถเชื่อมต่อ Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2026-03-27 12:33:39:404	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2026-03-27 12:33:48:798	_Error	The ConnectionString property has not been initialized.	cls_condbsecuill.chk_connect_db
+2026-03-27 12:33:51:038	_Error	ไม่สามารถเชื่อมต่อ Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2026-03-27 12:33:53:266	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2026-03-27 12:34:03:154	_Error	The ConnectionString property has not been initialized.	cls_condbsecuill.chk_connect_db
+2026-03-27 12:34:05:359	_Error	ไม่สามารถเชื่อมต่อ Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2026-03-27 12:34:07:589	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2026-03-27 12:34:16:944	_Error	The ConnectionString property has not been initialized.	cls_condbsecuill.chk_connect_db
+2026-03-27 12:34:19:174	_Error	ไม่สามารถเชื่อมต่อ Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2026-03-27 12:34:21:401	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2026-03-27 12:34:31:346	_Error	The ConnectionString property has not been initialized.	cls_condbsecuill.chk_connect_db
+2026-03-27 12:34:33:543	_Error	ไม่สามารถเชื่อมต่อ Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2026-03-27 12:34:35:768	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2026-03-27 12:34:45:201	_Error	The ConnectionString property has not been initialized.	cls_condbsecuill.chk_connect_db
+2026-03-27 12:34:47:227	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 12:34:47:415	_Error	ไม่สามารถเชื่อมต่อ Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2026-03-27 12:34:49:654	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2026-03-27 12:34:59:010	_Error	The ConnectionString property has not been initialized.	cls_condbsecuill.chk_connect_db
+2026-03-27 12:35:01:256	_Error	ไม่สามารถเชื่อมต่อ Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2026-03-27 12:35:03:544	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2026-03-27 12:35:13:396	_Error	The ConnectionString property has not been initialized.	cls_condbsecuill.chk_connect_db
+2026-03-27 12:35:15:601	_Error	ไม่สามารถเชื่อมต่อ Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2026-03-27 12:35:17:874	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2026-03-27 12:35:27:238	_Error	The ConnectionString property has not been initialized.	cls_condbsecuill.chk_connect_db
+2026-03-27 12:35:29:498	_Error	ไม่สามารถเชื่อมต่อ Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2026-03-27 12:35:31:765	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2026-03-27 12:35:41:641	_Error	The ConnectionString property has not been initialized.	cls_condbsecuill.chk_connect_db
+2026-03-27 12:35:43:840	_Error	ไม่สามารถเชื่อมต่อ Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2026-03-27 12:35:46:066	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2026-03-27 12:35:55:490	_Error	The ConnectionString property has not been initialized.	cls_condbsecuill.chk_connect_db
+2026-03-27 12:35:57:721	_Error	ไม่สามารถเชื่อมต่อ Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2026-03-27 12:35:59:953	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2026-03-27 12:36:09:848	_Error	The ConnectionString property has not been initialized.	cls_condbsecuill.chk_connect_db
+2026-03-27 12:36:11:722	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 12:36:12:062	_Error	ไม่สามารถเชื่อมต่อ Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2026-03-27 12:36:14:290	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2026-03-27 12:36:23:716	_Error	The ConnectionString property has not been initialized.	cls_condbsecuill.chk_connect_db
+2026-03-27 12:36:25:952	_Error	ไม่สามารถเชื่อมต่อ Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2026-03-27 12:36:28:175	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2026-03-27 12:36:37:605	_Error	The ConnectionString property has not been initialized.	cls_condbsecuill.chk_connect_db
+2026-03-27 12:36:39:828	_Error	ไม่สามารถเชื่อมต่อ Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2026-03-27 12:36:42:059	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2026-03-27 12:36:51:993	_Error	The ConnectionString property has not been initialized.	cls_condbsecuill.chk_connect_db
+2026-03-27 12:36:54:186	_Error	ไม่สามารถเชื่อมต่อ Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2026-03-27 12:36:56:418	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2026-03-27 12:37:05:850	_Error	The ConnectionString property has not been initialized.	cls_condbsecuill.chk_connect_db
+2026-03-27 12:37:08:080	_Error	ไม่สามารถเชื่อมต่อ Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2026-03-27 12:37:10:323	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2026-03-27 12:37:20:177	_Error	The ConnectionString property has not been initialized.	cls_condbsecuill.chk_connect_db
+2026-03-27 12:37:22:376	_Error	ไม่สามารถเชื่อมต่อ Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2026-03-27 12:37:24:602	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2026-03-27 12:37:34:014	_Error	The ConnectionString property has not been initialized.	cls_condbsecuill.chk_connect_db
+2026-03-27 12:37:36:192	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 12:37:36:242	_Error	ไม่สามารถเชื่อมต่อ Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2026-03-27 12:37:38:487	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2026-03-27 12:37:48:403	_Error	The ConnectionString property has not been initialized.	cls_condbsecuill.chk_connect_db
+2026-03-27 12:37:50:600	_Error	ไม่สามารถเชื่อมต่อ Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2026-03-27 12:37:52:828	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2026-03-27 12:38:02:252	_Error	The ConnectionString property has not been initialized.	cls_condbsecuill.chk_connect_db
+2026-03-27 12:38:04:481	_Error	ไม่สามารถเชื่อมต่อ Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2026-03-27 12:38:06:709	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2026-03-27 12:38:16:140	_Error	The ConnectionString property has not been initialized.	cls_condbsecuill.chk_connect_db
+2026-03-27 12:38:18:372	_Error	ไม่สามารถเชื่อมต่อ Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2026-03-27 12:38:20:595	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2026-03-27 12:38:30:511	_Error	The ConnectionString property has not been initialized.	cls_condbsecuill.chk_connect_db
+2026-03-27 12:38:32:706	_Error	ไม่สามารถเชื่อมต่อ Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2026-03-27 12:38:34:946	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2026-03-27 12:38:44:390	_Error	The ConnectionString property has not been initialized.	cls_condbsecuill.chk_connect_db
+2026-03-27 12:38:46:616	_Error	ไม่สามารถเชื่อมต่อ Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2026-03-27 12:38:48:859	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2026-03-27 12:38:58:740	_Error	The ConnectionString property has not been initialized.	cls_condbsecuill.chk_connect_db
+2026-03-27 12:39:00:644	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 12:39:00:953	_Error	ไม่สามารถเชื่อมต่อ Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2026-03-27 12:39:03:182	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2026-03-27 12:39:12:601	_Error	The ConnectionString property has not been initialized.	cls_condbsecuill.chk_connect_db
+2026-03-27 12:39:14:823	_Error	ไม่สามารถเชื่อมต่อ Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2026-03-27 12:39:17:050	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2026-03-27 12:39:26:495	_Error	The ConnectionString property has not been initialized.	cls_condbsecuill.chk_connect_db
+2026-03-27 12:39:28:725	_Error	ไม่สามารถเชื่อมต่อ Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2026-03-27 12:39:30:958	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2026-03-27 12:39:40:901	_Error	The ConnectionString property has not been initialized.	cls_condbsecuill.chk_connect_db
+2026-03-27 12:39:43:103	_Error	ไม่สามารถเชื่อมต่อ Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2026-03-27 12:39:45:334	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2026-03-27 12:39:54:784	_Error	The ConnectionString property has not been initialized.	cls_condbsecuill.chk_connect_db
+2026-03-27 12:39:57:026	_Error	ไม่สามารถเชื่อมต่อ Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2026-03-27 12:39:59:262	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2026-03-27 12:40:09:110	_Error	The ConnectionString property has not been initialized.	cls_condbsecuill.chk_connect_db
+2026-03-27 12:40:11:322	_Error	ไม่สามารถเชื่อมต่อ Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2026-03-27 12:40:13:556	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2026-03-27 12:40:22:955	_Error	The ConnectionString property has not been initialized.	cls_condbsecuill.chk_connect_db
+2026-03-27 12:40:25:090	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 12:40:25:184	_Error	ไม่สามารถเชื่อมต่อ Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2026-03-27 12:40:27:419	Status	กำลังเชื่อมต่อใหม่อีกครั้ง Server secuill	frmMain.CheckConnectMiddleAndSecuill
+2026-03-27 12:40:37:307	_Error	The ConnectionString property has not been initialized.	cls_condbsecuill.chk_connect_db
+2026-03-27 12:40:37:825	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 12:58:39:176	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 12:58:39:902	EVENT	พบงานรอส่งรวมทุกตู้: 205	cls_getmiddletosecuill.RunProcess()
+2026-03-27 12:59:06:403	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 12:59:16:509	ERROR	Cannot open database "SECUILL_V5_" requested by the login. The login failed. Login failed for user 'sa'.	md.Fill()
+2026-03-27 12:59:26:576	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 13:00:26:746	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 13:01:26:902	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 13:02:27:148	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 13:03:27:342	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 13:04:27:536	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 13:05:27:721	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 13:06:27:882	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 13:07:28:128	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 13:08:28:335	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 13:09:28:552	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 13:10:28:690	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 13:11:28:809	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 13:12:28:916	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 13:13:29:067	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 13:14:29:262	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 13:15:29:398	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 13:16:29:546	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 13:17:29:720	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 13:18:29:878	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 13:19:30:072	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 13:20:30:243	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 13:21:30:435	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 13:22:30:589	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 13:23:30:711	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 13:24:30:861	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 13:25:31:009	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 13:26:31:185	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 13:27:31:394	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 13:28:31:545	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 13:29:31:787	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 13:29:41:857	ERROR	Cannot open database "SECUILL_V5_" requested by the login. The login failed. Login failed for user 'sa'.	md.Fill()
+2026-03-27 13:29:51:904	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 13:30:52:068	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 13:31:52:243	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 13:32:52:413	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 13:33:52:588	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 13:34:52:794	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 13:35:52:933	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 13:36:53:104	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 13:37:53:205	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 13:38:53:361	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 13:39:53:449	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 13:40:53:552	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 13:41:53:655	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 13:42:53:815	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 13:43:53:967	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 13:44:54:150	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 13:45:54:329	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 13:46:54:538	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 13:47:54:687	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 13:48:54:898	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 13:49:55:067	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 13:50:55:249	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 13:51:55:470	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 13:52:55:650	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 13:53:55:789	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 13:54:55:954	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 13:55:56:119	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 13:56:56:302	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 13:57:56:435	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 13:58:56:603	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 13:59:56:730	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 14:00:06:797	ERROR	Cannot open database "SECUILL_V5_" requested by the login. The login failed. Login failed for user 'sa'.	md.Fill()
+2026-03-27 14:00:16:847	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 14:01:17:004	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 14:02:17:171	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 14:03:17:327	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 14:04:17:523	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 14:05:17:627	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 14:06:17:778	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 14:07:17:936	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 14:08:18:093	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 14:09:18:279	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 14:10:18:433	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 14:11:18:614	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 14:12:18:837	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 14:13:18:979	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 14:14:19:123	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 14:15:19:289	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 14:16:19:438	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 14:17:19:586	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 14:18:19:727	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 14:19:19:906	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 14:20:20:060	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 14:21:20:175	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 14:22:20:332	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 14:23:20:535	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 14:24:20:761	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 14:25:20:925	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 14:26:21:164	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 14:27:21:372	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 14:28:21:568	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 14:29:21:747	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 14:30:21:919	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 14:30:31:980	ERROR	Cannot open database "SECUILL_V5_" requested by the login. The login failed. Login failed for user 'sa'.	md.Fill()
+2026-03-27 14:30:42:080	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 14:31:42:323	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 14:32:42:466	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 14:33:42:593	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 14:34:42:737	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 14:35:42:894	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 14:36:43:098	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 14:37:43:261	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 14:38:43:426	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 14:39:43:697	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 14:40:43:871	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 14:41:44:111	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 14:42:44:315	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 14:43:44:552	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 14:44:44:709	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 14:45:44:847	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 14:46:45:039	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 14:47:45:242	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 14:48:45:374	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 14:49:45:530	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 14:50:45:671	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 14:51:45:843	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 14:52:46:035	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 14:53:46:273	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 14:54:46:437	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 14:55:46:603	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 14:56:46:750	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 14:57:46:948	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 14:58:47:091	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 14:59:47:259	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 15:00:47:389	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 15:00:57:447	ERROR	Cannot open database "SECUILL_V5_" requested by the login. The login failed. Login failed for user 'sa'.	md.Fill()
+2026-03-27 15:01:07:518	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 15:02:07:658	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 15:03:07:848	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 15:04:08:040	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 15:05:08:203	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 15:06:08:370	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 15:07:08:535	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 15:08:08:713	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 15:09:08:950	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 15:10:09:144	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 15:11:09:352	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 15:12:09:502	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 15:13:09:627	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 15:14:09:750	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 15:15:10:012	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 15:16:10:179	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 15:17:10:392	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 15:18:10:580	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 15:19:10:826	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 15:20:11:024	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 15:21:11:261	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 15:22:11:456	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 15:23:11:638	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 15:24:11:814	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 15:25:11:982	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 15:26:12:207	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 15:27:12:382	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 15:28:12:606	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 15:29:12:803	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 15:30:13:015	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 15:31:13:306	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 15:31:23:367	ERROR	Cannot open database "SECUILL_V5_" requested by the login. The login failed. Login failed for user 'sa'.	md.Fill()
+2026-03-27 15:31:33:411	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 15:32:33:574	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 15:33:33:742	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 15:34:34:027	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 15:35:34:241	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 15:36:34:484	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 15:37:34:635	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 15:38:34:873	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 15:39:35:036	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 15:40:35:216	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 15:41:35:400	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 15:42:35:590	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 15:43:35:763	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 15:44:35:949	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 15:45:36:142	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 15:46:36:313	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 15:47:36:478	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 15:48:36:595	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 15:49:36:762	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 15:50:36:879	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 15:51:36:997	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 15:52:37:132	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 15:53:37:338	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 15:54:37:623	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 15:55:37:841	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 15:56:38:026	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 15:57:38:280	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 15:58:38:415	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 15:59:38:542	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 16:01:35:750	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 16:01:36:016	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 16:01:46:046	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 16:02:36:681	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 16:02:36:911	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 16:02:46:970	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 16:03:41:580	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 16:03:41:984	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 16:03:52:025	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 16:03:57:181	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 16:04:43:734	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 16:04:44:006	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 16:04:54:060	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 16:05:34:227	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 16:05:51:259	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 16:05:51:524	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 16:06:01:573	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 16:06:05:544	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 16:06:47:168	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 16:06:47:445	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 16:06:57:006	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 16:07:20:649	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 16:07:20:922	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 16:07:30:963	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 16:07:32:678	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 16:08:13:526	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 16:08:13:868	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 16:08:23:904	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 16:12:30:975	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 16:12:31:285	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 16:12:41:319	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 16:12:54:676	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 16:15:07:340	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 16:15:12:765	EVENT	พบงานรอส่งรวมทุกตู้: 205	cls_getmiddletosecuill.RunProcess()
+2026-03-27 16:16:40:172	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 16:16:40:497	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 16:16:50:550	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 16:17:50:652	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 16:18:50:755	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 16:19:50:852	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 16:20:32:977	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 16:20:33:224	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 16:20:43:254	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 16:21:33:326	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 16:24:01:005	EVENT	พบงานรอส่งรวมทุกตู้: 205	cls_getmiddletosecuill.RunProcess()
+2026-03-27 16:27:50:428	ERROR	The ConnectionString property has not been initialized.	 (cls_condbserver.ExecuteNonQuery())
+2026-03-27 16:27:59:854	EVENT	พบงานรอส่งรวมทุกตู้: 205	cls_getmiddletosecuill.RunProcess()

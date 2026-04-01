@@ -129,3 +129,48 @@ D:\Project Site\Project Web\SECUILL_UBCH\TPN\TPN_SECUILL_V4\TPN_SECUILL_V4\obj\D
 D:\Project Site\Project Web\SECUILL_UBCH\TPN\TPN_SECUILL_V4\TPN_SECUILL_V4\obj\Debug\TPN_SECUILL_V4.exe
 D:\Project Site\Project Web\SECUILL_UBCH\TPN\TPN_SECUILL_V4\TPN_SECUILL_V4\obj\Debug\TPN_SECUILL_V4.xml
 D:\Project Site\Project Web\SECUILL_UBCH\TPN\TPN_SECUILL_V4\TPN_SECUILL_V4\obj\Debug\TPN_SECUILL_V4.pdb
+C:\Users\PGM-NB-10\Desktop\chula\secuill-kcmh-secuill_tpn\TPN_SECUILL_V4\bin\Debug\TPN_SECUILL_V4.exe.config
+C:\Users\PGM-NB-10\Desktop\chula\secuill-kcmh-secuill_tpn\TPN_SECUILL_V4\bin\Debug\TPN_SECUILL_V4.exe
+C:\Users\PGM-NB-10\Desktop\chula\secuill-kcmh-secuill_tpn\TPN_SECUILL_V4\bin\Debug\TPN_SECUILL_V4.pdb
+C:\Users\PGM-NB-10\Desktop\chula\secuill-kcmh-secuill_tpn\TPN_SECUILL_V4\bin\Debug\TPN_SECUILL_V4.xml
+C:\Users\PGM-NB-10\Desktop\chula\secuill-kcmh-secuill_tpn\TPN_SECUILL_V4\bin\Debug\Newtonsoft.Json.dll
+C:\Users\PGM-NB-10\Desktop\chula\secuill-kcmh-secuill_tpn\TPN_SECUILL_V4\bin\Debug\Newtonsoft.Json.xml
+C:\Users\PGM-NB-10\Desktop\chula\secuill-kcmh-secuill_tpn\TPN_SECUILL_V4\obj\Debug\TPN_SECUILL_V4.vbproj.AssemblyReference.cache
+C:\Users\PGM-NB-10\Desktop\chula\secuill-kcmh-secuill_tpn\TPN_SECUILL_V4\obj\Debug\TPN_SECUILL_V4.frmMain.resources
+C:\Users\PGM-NB-10\Desktop\chula\secuill-kcmh-secuill_tpn\TPN_SECUILL_V4\obj\Debug\TPN_SECUILL_V4.Resources.resources
+C:\Users\PGM-NB-10\Desktop\chula\secuill-kcmh-secuill_tpn\TPN_SECUILL_V4\obj\Debug\TPN_SECUILL_V4.vbproj.GenerateResource.cache
+C:\Users\PGM-NB-10\Desktop\chula\secuill-kcmh-secuill_tpn\TPN_SECUILL_V4\obj\Debug\TPN_SECUILL_V4.vbproj.CoreCompileInputs.cache
+C:\Users\PGM-NB-10\Desktop\chula\secuill-kcmh-secuill_tpn\TPN_SECUILL_V4\obj\Debug\TPN_SECU.A0523CEE.Up2Date
+C:\Users\PGM-NB-10\Desktop\chula\secuill-kcmh-secuill_tpn\TPN_SECUILL_V4\obj\Debug\TPN_SECUILL_V4.exe
+C:\Users\PGM-NB-10\Desktop\chula\secuill-kcmh-secuill_tpn\TPN_SECUILL_V4\obj\Debug\TPN_SECUILL_V4.xml
+C:\Users\PGM-NB-10\Desktop\chula\secuill-kcmh-secuill_tpn\TPN_SECUILL_V4\obj\Debug\TPN_SECUILL_V4.pdb
+C:\Users\PGM-NB-10\Desktop\chula\secuill-tpn\secuill-kcmh-secuill_tpn - 1\TPN_SECUILL_V4\bin\Debug\TPN_SECUILL_V4.exe.config
+C:\Users\PGM-NB-10\Desktop\chula\secuill-tpn\secuill-kcmh-secuill_tpn - 1\TPN_SECUILL_V4\bin\Debug\TPN_SECUILL_V4.exe
+C:\Users\PGM-NB-10\Desktop\chula\secuill-tpn\secuill-kcmh-secuill_tpn - 1\TPN_SECUILL_V4\bin\Debug\TPN_SECUILL_V4.pdb
+C:\Users\PGM-NB-10\Desktop\chula\secuill-tpn\secuill-kcmh-secuill_tpn - 1\TPN_SECUILL_V4\bin\Debug\TPN_SECUILL_V4.xml
+C:\Users\PGM-NB-10\Desktop\chula\secuill-tpn\secuill-kcmh-secuill_tpn - 1\TPN_SECUILL_V4\bin\Debug\Newtonsoft.Json.dll
+C:\Users\PGM-NB-10\Desktop\chula\secuill-tpn\secuill-kcmh-secuill_tpn - 1\TPN_SECUILL_V4\bin\Debug\Newtonsoft.Json.xml
+C:\Users\PGM-NB-10\Desktop\chula\secuill-tpn\secuill-kcmh-secuill_tpn - 1\TPN_SECUILL_V4\obj\Debug\TPN_SECUILL_V4.vbproj.AssemblyReference.cache
+C:\Users\PGM-NB-10\Desktop\chula\secuill-tpn\secuill-kcmh-secuill_tpn - 1\TPN_SECUILL_V4\obj\Debug\TPN_SECUILL_V4.frmMain.resources
+C:\Users\PGM-NB-10\Desktop\chula\secuill-tpn\secuill-kcmh-secuill_tpn - 1\TPN_SECUILL_V4\obj\Debug\TPN_SECUILL_V4.Resources.resources
+C:\Users\PGM-NB-10\Desktop\chula\secuill-tpn\secuill-kcmh-secuill_tpn - 1\TPN_SECUILL_V4\obj\Debug\TPN_SECUILL_V4.vbproj.GenerateResource.cache
+C:\Users\PGM-NB-10\Desktop\chula\secuill-tpn\secuill-kcmh-secuill_tpn - 1\TPN_SECUILL_V4\obj\Debug\TPN_SECUILL_V4.vbproj.CoreCompileInputs.cache
+C:\Users\PGM-NB-10\Desktop\chula\secuill-tpn\secuill-kcmh-secuill_tpn - 1\TPN_SECUILL_V4\obj\Debug\TPN_SECU.A0523CEE.Up2Date
+C:\Users\PGM-NB-10\Desktop\chula\secuill-tpn\secuill-kcmh-secuill_tpn - 1\TPN_SECUILL_V4\obj\Debug\TPN_SECUILL_V4.exe
+C:\Users\PGM-NB-10\Desktop\chula\secuill-tpn\secuill-kcmh-secuill_tpn - 1\TPN_SECUILL_V4\obj\Debug\TPN_SECUILL_V4.xml
+C:\Users\PGM-NB-10\Desktop\chula\secuill-tpn\secuill-kcmh-secuill_tpn - 1\TPN_SECUILL_V4\obj\Debug\TPN_SECUILL_V4.pdb
+C:\Users\PGM-NB-10\Desktop\chula\secuill-tpn\secuill-kcmh-secuill_tpn - 2\TPN_SECUILL_V4\bin\Debug\TPN_SECUILL_V4.exe.config
+C:\Users\PGM-NB-10\Desktop\chula\secuill-tpn\secuill-kcmh-secuill_tpn - 2\TPN_SECUILL_V4\bin\Debug\TPN_SECUILL_V4.exe
+C:\Users\PGM-NB-10\Desktop\chula\secuill-tpn\secuill-kcmh-secuill_tpn - 2\TPN_SECUILL_V4\bin\Debug\TPN_SECUILL_V4.pdb
+C:\Users\PGM-NB-10\Desktop\chula\secuill-tpn\secuill-kcmh-secuill_tpn - 2\TPN_SECUILL_V4\bin\Debug\TPN_SECUILL_V4.xml
+C:\Users\PGM-NB-10\Desktop\chula\secuill-tpn\secuill-kcmh-secuill_tpn - 2\TPN_SECUILL_V4\bin\Debug\Newtonsoft.Json.dll
+C:\Users\PGM-NB-10\Desktop\chula\secuill-tpn\secuill-kcmh-secuill_tpn - 2\TPN_SECUILL_V4\bin\Debug\Newtonsoft.Json.xml
+C:\Users\PGM-NB-10\Desktop\chula\secuill-tpn\secuill-kcmh-secuill_tpn - 2\TPN_SECUILL_V4\obj\Debug\TPN_SECUILL_V4.vbproj.AssemblyReference.cache
+C:\Users\PGM-NB-10\Desktop\chula\secuill-tpn\secuill-kcmh-secuill_tpn - 2\TPN_SECUILL_V4\obj\Debug\TPN_SECUILL_V4.frmMain.resources
+C:\Users\PGM-NB-10\Desktop\chula\secuill-tpn\secuill-kcmh-secuill_tpn - 2\TPN_SECUILL_V4\obj\Debug\TPN_SECUILL_V4.Resources.resources
+C:\Users\PGM-NB-10\Desktop\chula\secuill-tpn\secuill-kcmh-secuill_tpn - 2\TPN_SECUILL_V4\obj\Debug\TPN_SECUILL_V4.vbproj.GenerateResource.cache
+C:\Users\PGM-NB-10\Desktop\chula\secuill-tpn\secuill-kcmh-secuill_tpn - 2\TPN_SECUILL_V4\obj\Debug\TPN_SECUILL_V4.vbproj.CoreCompileInputs.cache
+C:\Users\PGM-NB-10\Desktop\chula\secuill-tpn\secuill-kcmh-secuill_tpn - 2\TPN_SECUILL_V4\obj\Debug\TPN_SECU.A0523CEE.Up2Date
+C:\Users\PGM-NB-10\Desktop\chula\secuill-tpn\secuill-kcmh-secuill_tpn - 2\TPN_SECUILL_V4\obj\Debug\TPN_SECUILL_V4.exe
+C:\Users\PGM-NB-10\Desktop\chula\secuill-tpn\secuill-kcmh-secuill_tpn - 2\TPN_SECUILL_V4\obj\Debug\TPN_SECUILL_V4.xml
+C:\Users\PGM-NB-10\Desktop\chula\secuill-tpn\secuill-kcmh-secuill_tpn - 2\TPN_SECUILL_V4\obj\Debug\TPN_SECUILL_V4.pdb

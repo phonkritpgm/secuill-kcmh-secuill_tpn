@@ -12,18 +12,18 @@ Public Class cls_backupdata
         Dim result As Boolean = False
         Dim datePerDay As String = Date.Now().Day.ToString()
         If (CInt(0) <> CInt(datePerDay)) Then
-            ' ///////////////////////////////////////////////////////////////////////////////////////////////////////// BACKUP of EV220.bak ///////////////////////////////////////////////////////////////
+            ' // BACKUP of EV220.bak //
             Using conn As New SqlConnection(md.ConnSecuill)
                 Dim SQL As String = String.Empty
                 Try
                     conn.Open()
-                    '//////////////////////////////< Query Command> //////////////////////////////////
+                    '//< Query Command> //
                     SQL += "BACKUP DATABASE SECUILL_V4 "
                     SQL += "TO DISK = @pathFullBackup "
                     SQL += "WITH FORMAT, "
                     SQL += "MEDIANAME = 'D_SECUILL_V4Backups', "
                     SQL += "NAME = 'Full Backup of SECUILL_V4';"
-                    '//////////////////////////////<Connection SQL> //////////////////////////////////
+                    '//<Connection SQL> //
                     Try
                         Dim command As SqlCommand = conn.CreateCommand()
                         command.CommandType = CommandType.Text
